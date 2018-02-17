@@ -1,7 +1,8 @@
 # Summary
 
+## introduction
+
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 
 ## Droit des médias
 
@@ -9,4 +10,6 @@
 * [Liberté d'expression et droit à l'information](liberte-dexpression-et-droit-a-linformation.md)
 
 ## Méthodes qualitatives
+
+* [Syllabus](methodes-qualitatives/syllabus.md)
 
