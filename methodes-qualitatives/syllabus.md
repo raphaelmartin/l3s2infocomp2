@@ -1,12 +1,14 @@
 #### Devoirs
 
-Lire pour le 19 février : Stéphane Beaud, sur l’Usage de l’entretien, dans le fascicule donné. Faire une fiche de synthèse.
+Lire pour le 19 février : Stéphane Beaud, sur _l’Usage de l’entretien_, dans le fascicule donné. Faire une fiche de synthèse.
 
-Supplément : Lire l’Entretien de Alain Blanchet, voir fiche biographique
+Supplément : Lire _l’Entretien_ de Alain Blanchet, voir fiche biographique
 
 ---
 
 **Second semestre : Technique de l’entretien.**
+
+**Pbtique** : Culture de jeunes ou cultures de classes ?
 
 Travailler sur l’entretien, ses techniques, tout en gardant une vision d’observation. L’entretien est devenu une référence standard des enquêtes socio, mais impression qu’il n’y a que ça. Mais l’observation a son rôle et est couplée avec les entretiens.
 
