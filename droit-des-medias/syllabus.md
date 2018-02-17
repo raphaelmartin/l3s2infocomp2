@@ -1,46 +1,34 @@
 # Plan indicatif du cours
 
+1. Liberté d'expression et droit à l'information
 
+2. La régulation de la communication audiovisuelle
 
-1.      Liberté d'expression et droit à l'information
+3. Le contrôle de la publicité
 
-2.      La régulation de la communication audiovisuelle
+4. La réglementation de l'exploitation des films cinématographiques
 
-3.      Le contrôle de la publicité
+5. La protection des sources d'information des journalistes
 
-4.      La réglementation de l'exploitation des films cinématographiques
+6. Les réponses juridiques à la diffusion de fausses informations
 
-5.      La protection des sources d'information des journalistes
+7. Propos racistes, offenses religieuses et liberté d'expression
 
-6.      Les réponses juridiques à la diffusion de fausses informations
+8. La lutte contre le sexisme dans les médias
 
-7.      Propos racistes, offenses religieuses et liberté d'expression
+9. Le traitement médiatique du terrorisme en droit français
 
-8.      La lutte contre le sexisme dans les médias
+10. Vie privée, droit à l'image et information d'intérêt général
 
-9.      Le traitement médiatique du terrorisme en droit français
+11. La protection des données personnelles et le Règlement général   sur la protection des données
 
-10.    Vie privée, droit à l'image et information d'intérêt général
+12. Droit d'auteur et liberté d'expression
 
-11.      La protection des données personnelles et le Règlement général   sur la protection des données
-
-12.     Droit d'auteur et liberté d'expression
-
-13.     Médias et droit des marques 
-
-Calendrier
-
-2nd semestre \(Lundi 9H-11H50, Salle 214 Assas\)
-
-
+13. Médias et droit des marques
 
 # Bibliographie
 
-
-
 ##### Ouvrages généraux
-
-
 
 Beignier Bernard, Lamy Bertrand de et Dreyer Emmanuel \(dir.\), Traité de droit de la presse et des médias, LexisNexis, Litec, coll. « Traités », 2009, 1419 p.
 
@@ -62,17 +50,13 @@ Greffe Pierre et d'Aubert François, Le Droit de la communication. Droit frança
 
 Lepage Agathe \(dir.\), Jurisclasseur Communication, LexisNexis
 
-Ravaz Bruno et Retterer Stéphane, Droit de l'information et de la communication, Ellipses, coll. « Infocom », 2006, 176 p. 
+Ravaz Bruno et Retterer Stéphane, Droit de l'information et de la communication, Ellipses, coll. « Infocom », 2006, 176 p.
 
 Rivollier Henri, Le droit de la communication et de la publicité, Le Génie des glaciers, 3ème édition, 2014, 238 p.
 
 Sirinelli Pierre \(dir.\), Lamy Droit des médias et de la communication, Lamy, Wolters Kluwer
 
-
-
 ##### Propriété intellectuelle
-
-
 
 Binctin Nicolas, Droit de la propriété intellectuelle. Droit d'auteur, Brevet, Droits voisins, Marque, Dessins et modèles, LGDJ, coll. « Manuels », 4ème édition, 2016, 1040 p.
 
@@ -98,27 +82,17 @@ Vivant Michel, Les grands arrêts de la propriété intellectuelle, Dalloz, coll
 
 Vivant Michel et Bruguière Jean-Michel, Droit d'auteur et droits voisins, Dalloz, coll. « Précis », 3ème édition, 2015, 1248 p.
 
-
-
 ##### Codes et recueils de textes :
-
-
 
 Huet Jérôme et Maisl Herbert \(dir.\), Code de la communication, Dalloz, 4e édition, 2009, 1539 p.
 
 Lamy Droit de l'immatériel. Code annoté. Propriété intellectuelle. Médias, audiovisuel, Internet..., Lamy, 2015.
 
-
-
 ##### Publications périodiques :
 
+* Revues juridiques spécialisées : Communication. Commerce électronique ; Dalloz IP/IT ; Legicom ; Legipresse ; Revue Lamy de Droit de l'immatériel \(RLDI\)...
 
-
--          Revues juridiques spécialisées : Communication. Commerce électronique ; Dalloz IP/IT ; Legicom ; Legipresse ; Revue Lamy de Droit de l'immatériel \(RLDI\)...
-
--          Revues juridiques générales : L'Actualité Juridique Droit Administratif \(AJDA\), Recueil Dalloz, Gazette du Palais, Les Petites affiches, Revue du Droit Public \(RDP\), Revue française de droit administratif \(RFDA\), Semaine Juridique \(JCP\)...
-
-
+* Revues juridiques générales : L'Actualité Juridique Droit Administratif \(AJDA\), Recueil Dalloz, Gazette du Palais, Les Petites affiches, Revue du Droit Public \(RDP\), Revue française de droit administratif \(RFDA\), Semaine Juridique \(JCP\)...
 
 
 
