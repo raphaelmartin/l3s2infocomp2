@@ -20,7 +20,7 @@
 
 10. Vie privée, droit à l'image et information d'intérêt général
 
-11. La protection des données personnelles et le Règlement général   sur la protection des données
+11. La protection des données personnelles et le Règlement général sur la protection des données
 
 12. Droit d'auteur et liberté d'expression
 
