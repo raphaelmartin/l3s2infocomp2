@@ -12,4 +12,5 @@
 ## Méthodes qualitatives
 
 * [Syllabus](methodes-qualitatives/syllabus.md)
+* [L'usage de l'entretien en sciences sociales — BEAUD](lusage-de-lentretien-en-sciences-sociales-beaud.md)
 
