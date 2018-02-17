@@ -28,19 +28,27 @@
 >
 > Le choix d'une méthode appropriée a la question de recherche, le statut \(exploratoire, principal ou complémentaire\) de l’enquête et ses différents usages sont d'abord discutés ; puis les différentes phases de la recherche sont progressivement exposées
 >
-> On peut toutefois regretter que les auteurs n'insistent pas davantage sur la dynamique cyclique et itérative qui caractérise le processus de recherche qualita- tive par entretiens et le différencie de la démarche, plus séquentielle et linéaire, des approches quantitatives.
+> On peut toutefois regretter que les auteurs n'insistent pas davantage sur la dynamique cyclique et itérative qui caractérise le processus de recherche qualitative par entretiens et le différencie de la démarche, plus séquentielle et linéaire, des approches quantitatives.
 >
 > les étapes d'une enquête\(préparation, réalisation et analyse\)
 >
 > l'étroite articulation entre les processus d'échantillonnage, de collecte et d'analyse.
 >
-> La notion de &lt; saturation &gt;&gt;de l'échantillon par exemple, qui contient en elle-même cette nécessaire imbrication entre échantillonnage et ana- lyse \(puisqu'il faut bien analyser les entretiens pour savoir si l'échantillon &lt; sature &gt;\), illustre bien la nature et la spécificité du processus. De telles précisions permettraient en outre de clarifier les conditions de réalisation et les critères d'évaluation et de validité d'une enquête qualitative : on le voit, la taille de l’échantillon par exemple n'est pas donnée a priori et le nombre \(meme important\) d'entretiens réalisés n'assure ni la saturation ni la qualité de l'échantillon.
+> La notion de &lt; saturation &gt;&gt;de l'échantillon par exemple, qui contient en elle-même cette nécessaire imbrication entre échantillonnage et analyse \(puisqu'il faut bien analyser les entretiens pour savoir si l'échantillon &lt;&lt; sature &gt;&gt;\), illustre bien la nature et la spécificité du processus. De telles précisions permettraient en outre de clarifier les conditions de réalisation et les critères d'évaluation et de validité d'une enquête qualitative : on le voit, la taille de l’échantillon par exemple n'est pas donnée a priori et le nombre \(meme important\) d'entretiens réalisés n'assure ni la saturation ni la qualité de l'échantillon.
 >
 > cette dialectique entre travail de terrain et travail d'analyse est importante
 >
 > cette posture épistémologique particulière aux démarches qualitatives
 >
-> qui privilégie &lt; la question de l'enquêté contre celle de l’enquêteur \(...\) &gt;&gt;
+> qui privilégie &lt;&lt; la question de l'enquêté contre celle de l’enquêteur \(...\) &gt;&gt;
+
+
+
+Le premier livre permet une deconstruction de l'outil même de l'entretien, en le prennant comme objet d'étude. Il prette attention aux biais et sens commun lié à la pratique.
+
+Le second livre est plus didactique, il présente les grandes étapes d'une enquête par entretien. Son défaut est de plaquer un schéma linéaire, sans feedback retour en arrière, alors que c'est l'atout des methodes quali. par rapport au quanti. : un dialogue entre terrain et analyse.
+
+
 
 
 
