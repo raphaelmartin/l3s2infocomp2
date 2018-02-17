@@ -4,7 +4,9 @@
 
 ### Synthèses, critiques
 
-
+* Population - Géraldine Vivier
+  * Alain BLANCHET et al., L'entretien dans les sciences sociales. L'écoute, la parole et le sens, Paris, Dunod, 1997, 290 p. 
+  * Alain BLANCHET, Anne GOTMAN, L'enquête et ses methodes: l'entretien, Paris, Armand Colin \(coll. 128\), 2005 \(Ire ed. 1992\), 127 p.
 
 > le second présente les principes et les techniques de mise en oeuvre et d'analyse d'une campagne d'entretiens dans le cadre d'une enquête qualitative
 >
@@ -39,10 +41,6 @@
 > cette posture épistémologique particulière aux démarches qualitatives
 >
 > qui privilégie &lt; la question de l'enquêté contre celle de l’enquêteur \(...\) &gt;&gt;
-
-
-
-
 
 
 
