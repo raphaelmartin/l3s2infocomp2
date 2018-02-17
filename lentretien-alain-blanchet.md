@@ -42,7 +42,7 @@
 >
 > qui privilégie &lt;&lt; la question de l'enquêté contre celle de l’enquêteur \(...\) &gt;&gt;
 
-Le premier livre permet une deconstruction de l'outil même de l'entretien, en le prennant comme objet d'étude. Il prette attention aux biais et sens commun lié à la pratique.
+**Le premier livre** permet une deconstruction de l'outil même de l'entretien, en le prennant comme objet d'étude. Il prette attention aux biais et sens commun lié à la pratique.
 
-Le second livre est plus didactique, il présente les grandes étapes d'une enquête par entretien. Son défaut est de plaquer un schéma linéaire, sans feedback retour en arrière, alors que c'est l'atout des methodes quali. par rapport au quanti. : un dialogue entre terrain et analyse et le privilège au point de vue de l'enquêté sur celui du sociologue.
+**Le second livre** est plus didactique, il présente les grandes étapes d'une enquête par entretien. Son défaut est de plaquer un schéma linéaire, sans feedback retour en arrière, alors que c'est l'atout des methodes quali. par rapport au quanti. : un dialogue entre terrain et analyse et le privilège au point de vue de l'enquêté sur celui du sociologue.
 
