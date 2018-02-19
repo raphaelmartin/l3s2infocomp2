@@ -55,7 +55,7 @@ Tout devrait dépendre des réponses apportées à ces questions fondamentales :
 
 > Le droit des médias est l'expression, la mise en oeuvre et la garantie, sous forme de règles, d'une certaine conception de la communication, véhiculée par les médias, de son rôle et du degré de liberté qui lui est, pour cela, accordée ou des limites qui lui sont apportées. C'est l'ensemble des règles à caractère obligatoire ou contraignant, déterminées et sanctionnées par les autorités publiques, qui, en fonction de ces principes et de ces objectifs, régissent les activités de communication publique telles qu'elles sont assurées au sein ou au travers des médias
 
-
+## Principes du droit des médias
 
 
 
