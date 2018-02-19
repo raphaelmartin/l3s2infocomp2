@@ -1,6 +1,4 @@
-# Plan
-
-#### **LE GÉNOCIDE DES TUTSI DU RWANDA**
+# **LE GÉNOCIDE DES TUTSI DU RWANDA**
 
 **I/ Les origines historiques et intellectuelles du problème ethnique**
 
