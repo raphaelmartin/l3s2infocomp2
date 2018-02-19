@@ -3,7 +3,6 @@
 ## introduction
 
 * [📚🧠💢](README.md)
-* Les relations israélo-palestiniennes \(1993-2001\)
 
 ## Droit des médias
 
@@ -24,6 +23,7 @@
 * [Bibliographie](analyse-du-monde-contemporain/bibliographie.md)
 * [Génocide des Tutsi du Rwanda](analyse-du-monde-contemporain/genocide-des-tutsi-du-rwanda.md)
 * [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-fede.md)
+* [Les relations israélo-palestiniennes \(1993-2001\)](les-relations-israelo-palestiniennes-1993-2001.md)
 
 ## Méthodes quanti
 
