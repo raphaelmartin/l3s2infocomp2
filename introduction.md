@@ -51,13 +51,9 @@ Le principe d'inspiration et point de vue prioritaire, élement constitutif d'un
 
 Tout devrait dépendre des réponses apportées à ces questions fondamentales : quelle communication, pourquoi, comment, avec quels moyens, pour qui...? Ces perspectives et préoccupations font que le droit des médias est spécifique et n'est pas simple application du droit commun.
 
+**Ebauche de définition du droit des médias**
 
-
-
-
-
-
-
+> Le droit des médias est l'expression, la mise en oeuvre et la garantie, sous forme de règles, d'une certaine conception de la communication, véhiculée par les médias, de son rôle et du degré de liberté qui lui est, pour cela, accordée ou des limites qui lui sont apportées. C'est l'ensemble des règles à caractère obligatoire ou contraignant, déterminées et sanctionnées par les autorités publiques, qui, en fonction de ces principes et de ces objectifs, régissent les activités de communication publique telles qu'elles sont assurées au sein ou au travers des médias
 
 
 
