@@ -9,5 +9,23 @@ D'ici au vacances du printemps:
 3. recodage des données
 4. tris à plats / tris croisés
 
+# rappel des étapes d'une enquête
 
+ Détermination d’un objet de recherche
+
+ Recherches bibliographiques autour de cet objet  Création d’un questionnaire
+
+ Passation de questionnaires test
+
+ Passation des questionnaires
+
+ Saisie des données
+
+ Nettoyage des données
+
+ Traitement des données
+
+# Introduction à MODALISA
+
+Modalisa est un logiciel de saisie et de traitement de données : c’est un logiciel de statistique.
 
