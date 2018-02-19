@@ -25,5 +25,9 @@ Distinction droit/réglementation. On ne peut pas vraiment parler de droit des m
 
 Dans un état de droit de type démocratique, les médias et surtout leur contenu ne sauraient échapper à la nécessité d'une _réglementation_ dont ils constituent _l'objet_.
 
+### Les médias : objet de la réglementation
+
+Médias: du point de vue du droit, toutes les activités qui, au moyen de l'écrit, de le parole, de l'image, du son ou de toute autre forme de signes, contribuent par quelque vecteur que ce soit, à rendre publics des faits, des données, des idées...
+
 
 
