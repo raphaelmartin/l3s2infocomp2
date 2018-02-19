@@ -11,19 +11,13 @@ D'ici au vacances du printemps:
 
 # rappel des étapes d'une enquête
 
- Détermination d’un objet de recherche
-
- Recherches bibliographiques autour de cet objet  Création d’un questionnaire
-
- Passation de questionnaires test
-
- Passation des questionnaires
-
- Saisie des données
-
- Nettoyage des données
-
- Traitement des données
+1. Détermination d’un objet de recherche
+2. Recherches bibliographiques autour de cet objet  Création d’un questionnaire
+3. Passation de questionnaires test
+4. Passation des questionnaires
+5. Saisie des données
+6. Nettoyage des données
+7. Traitement des données
 
 # Introduction à MODALISA
 
@@ -51,7 +45,7 @@ Onglet Données &gt; Nouveau &gt; Entrée pour passer à la Q suivante. &gt; Enr
 
 Chaque questionnaire se voit attribuer une clé unique, qui permet de l'identifier.
 
-# Consignes de saisie des questionnaires 
+# Consignes de saisie des questionnaires
 
 * Saisir les questionnaires
 * Pour chaque questionnaire, notez la clé obtenue sur le questionnaire.
