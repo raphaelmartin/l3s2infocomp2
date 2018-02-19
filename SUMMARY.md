@@ -22,7 +22,7 @@
 
 * [Bibliographie](analyse-du-monde-contemporain/bibliographie.md)
 * [Génocide des Tutsi du Rwanda](analyse-du-monde-contemporain/genocide-des-tutsi-du-rwanda.md)
-* [La fédé](analyse-du-monde-contemporain/la-fede.md)
+* [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-fede.md)
 
 ## Méthodes quanti
 
