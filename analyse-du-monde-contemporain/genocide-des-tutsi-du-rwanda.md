@@ -22,7 +22,5 @@ A-Les responsabilités extérieures
 
 B-Un Tribunal Pénal International pour le Rwanda \(TPIR\)
 
-
-
-![](/assets/6 avril 1994.jpg)![](/assets/FPR.jpg)![](/assets/Hutu-Tutsi-TwaTogether.jpg)![](/assets/Rwanda-Carte-1-12.jpg)![](/assets/TPIR.jpg)
+![](/assets/6 avril 1994.jpg)![](/assets/FPR.jpg)![](/assets/Hutu-Tutsi-TwaTogether.jpg)![](/assets/Rwanda-Carte-1-12.jpg)![](/assets/TPIR.jpg)![](/assets/Opération Turquoise.jpg)
 
