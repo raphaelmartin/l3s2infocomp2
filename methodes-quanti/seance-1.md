@@ -7,6 +7,7 @@ D'ici au vacances du printemps:
 1. saisie de questionnaire
 2. export de données
 3. recodage des données
+4. tris à plats / tris croisés
 
 
 
