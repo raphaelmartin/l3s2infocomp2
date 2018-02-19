@@ -47,5 +47,5 @@ Comment importer un masque de saisie ? Nous n’avons pas toujours à créer l
 
 Onglet Données &gt; Nouveau &gt; Entrée pour passer à la Q suivante. &gt; Enregistrer pour passer au questionnaire suivant &gt; Terminé pour terminer la saisie.
 
-
+Chaque questionnaire se voit attribuer une clé unique, qui permet de l'identifier.
 
