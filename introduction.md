@@ -6,3 +6,20 @@ Le droit des médias, "ça n'existe pas", ou pas pleinement encore. C'est un dro
 
 
 
+Dans une démocratie, droit et médias vont de pair.
+
+* le droit \(=règle de conduite générales et obligatoires\) régit les rapports d'autorité de sorte que tous, égaux en droits, puissent bénéficier des mêmes garanties et libertés. 
+* les médias sont les "moyens de communication de masse" par lesquels sont diffusés, au public, les messages et les contenus, de toutes natures...
+
+Pour le droit, ce qui est constitutif des médias c'est la notion de "publication" : mise à disposition du public. Il se définit par son contraire : se distingue des relations individuelles/à caractère privé.
+
+**Le droit des médias**
+
+Permettre le libre exercice de ces activités, d'en fournir le cadre et d'en déterminer les limites. Restrictions : liberté d'expression/droit à l'info d'un côté, protection de l'honneur/vie privée/droit à l'image/d'auteur... de l'autre.
+
+C'est donc d'abord par son objet que se définit le droit des médias, ce droit a longtemps souffert de son caractère pluri, inter ou transdisciplinaire \(droit pénal, civil, commercial, interne comme européen...\). Discipline carrefour, il emprunte au diff. branches du droit dont il transcende les partages traditionnels.
+
+Le rôle et la place tenus par les médias dans nos sociétés dites de l'information ne peuvent que renforcer l'importeance, l'intérêt et l'utilité de la matière.
+
+
+
