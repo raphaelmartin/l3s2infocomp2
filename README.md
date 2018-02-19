@@ -2,5 +2,7 @@
 
 cours, fiches, notes...
 
+permalink: https://www.gitbook.com/read/book/raphaelmartin/l3s2-info-com-p2/ 
+
 
 
