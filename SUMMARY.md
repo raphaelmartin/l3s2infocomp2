@@ -26,3 +26,5 @@
 
 ## Méthodes quanti
 
+* [Séance 1](methodes-quanti/seance-1.md)
+
