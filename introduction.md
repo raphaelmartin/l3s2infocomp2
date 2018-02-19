@@ -31,3 +31,35 @@ Médias: du point de vue du droit, toutes les activités qui, au moyen de l'écr
 
 Le droit des médias est le droit de la publication, de ce qui est public ou destiné à être publié. Tentative de def. par l'article 1er, décret du 31 décembre 1993 relatif au dépot légal : "la mise à disposition d'un public s'entend de toute communication, diffusion ou représentation dès lors que ce dernier excède le cadre familial".
 
+### Nécessaire distinction entre com. publiques et com. privées
+
+Le droit des médias ne concerne que ce qui est public, il est donc nécessaire de pouvoir déterminer distinguer clairement ce qui est public de ce qui est privé.
+
+## Conditions d'un véritable droit des médias
+
+**Harmonie, logique, rigueur, clarté, cohérence et unité** ; est souhaité la définition préalable d'une "politique" ou conception globale des médias et de la com. + l'adoption d'un Code.
+
+**Mise en oeuvre d'une politique de l'information et de la communication**
+
+Dans cette perspective d'un véritable droit des médias, il faudrait commencer à définir clairement : ce que l'on veut faire de la communication dont les médias sont les vecteurs ; les objectifs qu'on lui assigne ; les moyens qu'on lui accorde ; la liberté qu'on lui garantit ; la responsabilité qui s'y rattache.
+
+Cette "politique" de la communication ne peut qu'être étroitement liée au système politique global \(autoritaire, libéral, démocratique...\). Elle en dépend et le constitue à la fois.
+
+**Nature, rôle et objectifs des médias**
+
+Le principe d'inspiration et point de vue prioritaire, élement constitutif d'un véritable droit des médias, doit être celui de la nature, du rôle et des objectifs assignés aux médias.
+
+Tout devrait dépendre des réponses apportées à ces questions fondamentales : quelle communication, pourquoi, comment, avec quels moyens, pour qui...? Ces perspectives et préoccupations font que le droit des médias est spécifique et n'est pas simple application du droit commun.
+
+
+
+
+
+
+
+
+
+
+
+
+
