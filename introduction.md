@@ -29,5 +29,5 @@ Dans un état de droit de type démocratique, les médias et surtout leur conten
 
 Médias: du point de vue du droit, toutes les activités qui, au moyen de l'écrit, de le parole, de l'image, du son ou de toute autre forme de signes, contribuent par quelque vecteur que ce soit, à rendre publics des faits, des données, des idées...
 
-
+Le droit des médias est le droit de la publication, de ce qui est public ou destiné à être publié. Tentative de def. par l'article 1er, décret du 31 décembre 1993 relatif au dépot légal : "la mise à disposition d'un public s'entend de toute communication, diffusion ou représentation dès lors que ce dernier excède le cadre familial".
 
