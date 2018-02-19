@@ -43,5 +43,9 @@ Un filtre ou plus précisément une question filtre est une sorte de « bifurc
 
 Comment importer un masque de saisie ? Nous n’avons pas toujours à créer le masque de saisie. Lorsque le masque de saisie est déjà existant, il suffit de l’importer. Fichier &gt; Lire la sauvegarde...
 
-  
+# Saisir des questionnaires
+
+Onglet Données &gt; Nouveau &gt; Entrée pour passer à la Q suivante. &gt; Enregistrer pour passer au questionnaire suivant &gt; Terminé pour terminer la saisie.
+
+
 
