@@ -29,3 +29,13 @@ D'ici au vacances du printemps:
 
 Modalisa est un logiciel de saisie et de traitement de données : c’est un logiciel de statistique.
 
+# Masque de saisie
+
+Le masque de saisie correspond au questionnaire vierge numérique \(à l’instar de celui papier\). Une fois créé, il permettra de saisir les réponses des enquêtés.
+
+Créer une enquête &gt; Valider.
+
+Onglet Question &gt; Ajouter &gt; Terminer.
+
+
+
