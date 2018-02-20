@@ -9,11 +9,13 @@ D'ici au vacances du printemps:
 3. recodage des données
 4. tris à plats / tris croisés
 
+---
+
 # rappel des étapes d'une enquête
 
 1. Détermination d’un objet de recherche
 2. Recherches bibliographiques autour de cet objet
-3.  Création d’un questionnaire
+3. Création d’un questionnaire
 4. Passation de questionnaires test
 5. Passation des questionnaires
 6. Saisie des données
