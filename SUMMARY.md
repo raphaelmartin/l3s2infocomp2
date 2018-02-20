@@ -25,8 +25,9 @@
 * [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-fede.md)
 * [Les relations israélo-palestiniennes \(1993-2001\)](les-relations-israelo-palestiniennes-1993-2001.md)
 
-## Méthodes quanti
+## Méthodes quantitatives
 
-* [Séance 1](methodes-quanti/seance-1.md)
+* [Séances](methodes-quanti/seance-1.md)
 * [Bibliographie](bibliographie.md)
+* [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quanti/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
 
