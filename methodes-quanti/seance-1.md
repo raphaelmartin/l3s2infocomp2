@@ -12,12 +12,13 @@ D'ici au vacances du printemps:
 # rappel des étapes d'une enquête
 
 1. Détermination d’un objet de recherche
-2. Recherches bibliographiques autour de cet objet  Création d’un questionnaire
-3. Passation de questionnaires test
-4. Passation des questionnaires
-5. Saisie des données
-6. Nettoyage des données
-7. Traitement des données
+2. Recherches bibliographiques autour de cet objet
+3.  Création d’un questionnaire
+4. Passation de questionnaires test
+5. Passation des questionnaires
+6. Saisie des données
+7. Nettoyage des données
+8. Traitement des données
 
 # Introduction à MODALISA
 
