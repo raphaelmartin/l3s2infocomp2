@@ -1,6 +1,8 @@
-# Fiche de lecture
+# « L'usage de l'entretien en sciences sociales » — Stéphane BEAUD
 
+#### 
 
+#### Fiche de lecture
 
 1. la méthode de l'entretien au sein des méthodes sociologiques est dénigré car
 2. 1. le contexte de la sociologie des années 40/50 était très scientiste, positiviste : survey research
