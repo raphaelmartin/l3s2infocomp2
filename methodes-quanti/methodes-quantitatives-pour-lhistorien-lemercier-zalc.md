@@ -1,6 +1,4 @@
-# Méthodes quantitatives pour l'historien — LEMERCIER / ZALC
+# « Méthodes quantitatives pour l'historien » — LEMERCIER / ZALC
 
 Livre.
-
-
 
