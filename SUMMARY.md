@@ -31,3 +31,7 @@
 * [Bibliographie](bibliographie.md)
 * [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quanti/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
 
+## Approches SIC
+
+* [Biblio/Plan](approches-sic/bibliographie.md)
+
