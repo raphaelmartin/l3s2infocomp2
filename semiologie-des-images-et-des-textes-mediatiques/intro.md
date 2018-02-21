@@ -1,14 +1,8 @@
 # Syllabus
 
-
-
 # Bibliographie
 
-Bibliographie
-
-Une grande partie des références mentionnées ci-dessous seront étudiées lors des travaux dirigés.
-
-- Ouvrages et chapitres d’ouvrages :
+### Ouvrages et chapitres d’ouvrages
 
 APPEL Violaine, BOULANGER Hélène, MASSOU Luc, Les dispositifs d’information et de communication. Concepts, usages et objets, De Boeck Supérieur, « Culture & Communication », 2010. AUGE Marc, DIDI-HUBERMAN Georges, ECO Umberto. L’expérience des images, INA Éditions, 2011.
 
@@ -52,9 +46,11 @@ SONTAG Susan, Devant la douleur des autres, Bourgois, 2003.
 
 TRUC Gérôme, Sidération. Une sociologie des attentats, Presses universitaires de France, 2016.
 
- - Articles scientifiques :
 
- ARQUEMBOURG Jocelyne, « Des images en action. Performativité et espace public », Réseaux, vol. 5, n°163, 2010, p. 163-187.
+
+### Articles scientifiques :
+
+ARQUEMBOURG Jocelyne, « Des images en action. Performativité et espace public », Réseaux, vol. 5, n°163, 2010, p. 163-187.
 
 ARQUEMBOURG Jocelyne, « De l'événement international à l'événement global : Émergence et manifestations d'une sensibilité mondiale », Hermès, n°46, 2007, p. 13-21.
 
@@ -98,55 +94,53 @@ TAIEB Emmanuel, « Faut-il montrer des images de violence ? », La Vie des idé
 
 WRONA Adeline, « Une madone à Fukushima. La condition numérique du portrait de presse », Sur le journalisme, Vol.3, n°1, 2014, p. 170-178.
 
-
-
 ### Documentation et références
 
 **Blogs et sites Internet :**
 
-- Arrêt sur images, analyse de l’actualité par le prisme des récits médiatiques \(https://
+* Arrêt sur images, analyse de l’actualité par le prisme des récits médiatiques \(https://
 
 www.arretsurimages.net/\) ;
 
-- Décryptimages, éducation aux images \(http://www.decryptimages.net/\) ;
+* Décryptimages, éducation aux images \([http://www.decryptimages.net/\](http://www.decryptimages.net/\)\) ;
 
-- L’atelier des photographes, éducation aux images à partir de photographies d’artistes connus
+* L’atelier des photographes, éducation aux images à partir de photographies d’artistes connus
 
-\(http://www.latelierdesphotographes.com/\) ;
+\([http://www.latelierdesphotographes.com/\](http://www.latelierdesphotographes.com/\)\) ;
 
-- Making Off de l’AFP, des journalistes commentent des images d’actualité \(https://making-
+* Making Off de l’AFP, des journalistes commentent des images d’actualité \([https://making-](https://making-)
 
 of.afp.com/\) ;
 
-- Signo : site Québécois consacré aux différentes théories sémiotiques \(http://
+* Signo : site Québécois consacré aux différentes théories sémiotiques \(http://
 
 www.signosemio.com/\) ;
 
-- Genrimages, décryptage des représentations sexuées dans les images fixes et animées \(http://
+* Genrimages, décryptage des représentations sexuées dans les images fixes et animées \(http://
 
 www.genrimages.org/\)
 
-- Le genre et l’écran, analyses de fictions audiovisuelles au prisme du genre \(https://www.genre-
+* Le genre et l’écran, analyses de fictions audiovisuelles au prisme du genre \([https://www.genre-](https://www.genre-)
 
 ecran.net\)
 
-Le chaine Youtube Effeuillage \(https://www.youtube.com/user/effeuillageC3M/videos\).
+Le chaine Youtube Effeuillage \([https://www.youtube.com/user/effeuillageC3M/videos\](https://www.youtube.com/user/effeuillageC3M/videos\)\).
 
 Les vidéos Ted-Talks : art, médias, journalisme, communication.
 
 **Pour la consultation d’articles scientifiques :**
 
-- Cairn \(accès libre avec vos codes d’accès de Paris 2\) : - Persée
+* Cairn \(accès libre avec vos codes d’accès de Paris 2\) : - Persée
 
-- Google scholar
+* Google scholar
 
-- Factiva
+* Factiva
 
-- Europresse - Newseum
+* Europresse - Newseum
 
 **Pour la consultation d’anciens articles ou Unes de presse et d’archives audiovisuelles :**
 
-- INA
+* INA
 
 
 
