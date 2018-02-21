@@ -6,7 +6,7 @@
 4. D’autres approches des SIC
 5. Les théories de l’espace public : plusieurs approches —&gt; école de Chicago \(ethnograhe : BARTHES etc\) HABERMAS : dimension philosophique ; HANNAH ARENDT
 
------------
+---
 
 1. La constitution des SIC par la reconnaissance institutionnelle
    1. Années 60, les prémisses
@@ -19,19 +19,9 @@
       1. la sociologie
       2. la communication, un objet épineux
 
-
-
 # Bibliographie
 
-
-
 # Cours
-
-
-
-
-
-
 
 
 
