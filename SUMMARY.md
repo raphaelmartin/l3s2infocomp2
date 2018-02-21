@@ -35,3 +35,7 @@
 
 * [Biblio/Plan](approches-sic/bibliographie.md)
 
+## Sémiologie des images et des textes médiatiques
+
+* intro
+
