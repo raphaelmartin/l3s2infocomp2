@@ -37,5 +37,5 @@
 
 ## Sémiologie des images et des textes médiatiques
 
-* intro
+* [intro](semiologie-des-images-et-des-textes-mediatiques/intro.md)
 
