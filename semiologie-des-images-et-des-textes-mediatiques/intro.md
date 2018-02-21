@@ -1,5 +1,48 @@
 # Syllabus
 
+Séance 1 : 7 février 2018  
+Qu’est-ce qu’un signe ?
+
+Séance 2 : 14 février 2018  
+Qu’est-ce qu’un détail ?
+
+Séance 3 : 21 février 2018  
+Qu’est-ce qu’une image fixe ?
+
+Séance 4 : 28 février 2017  
+Qu’est-ce qu’une image en mouvement ?
+
+Séance 5 : 7 mars 2018  
+Qu’est-ce qu’un mythe ?
+
+Séance 6 : 14 mars 2018  
+Les images et les textes sont-ils des actes ?
+
+
+
+SÉANCES THÉMATIQUES
+
+Séance 7 : 21 mars 2018  
+Médias, violences animales et caméra embarquée
+
+Séance 8 : 28 mars 2018  
+Médias, terrorisme et représentation de la mort
+
+Séance 9 : 4 avril 2018  
+Médias, manifestations et mise en scène
+
+Séance 10 : 11 avril 2018  
+Médias, stigmatisation et « expérience sociale filmée »
+
+Séance 11 : 2 mai 2018  
+La fin de la déférence ? Figures de la singularité et injonctions à la transparence dans l’espace public contemporain
+
+Séance 12 : 9 mai 2018  
+Fiction, genre et stigmatisation 1
+
+Séance 13 : 16 mai 2018  
+Fiction, genre et stigmatisation 2
+
 # Bibliographie
 
 ### Ouvrages et chapitres d’ouvrages
@@ -45,8 +88,6 @@ POSTEL Jean-Philippe, L’affaire Arnolfini : Enquête sur un tableau de Van Ey
 SONTAG Susan, Devant la douleur des autres, Bourgois, 2003.
 
 TRUC Gérôme, Sidération. Une sociologie des attentats, Presses universitaires de France, 2016.
-
-
 
 ### Articles scientifiques :
 
@@ -102,11 +143,11 @@ WRONA Adeline, « Une madone à Fukushima. La condition numérique du portrait
 
 www.arretsurimages.net/\) ;
 
-* Décryptimages, éducation aux images \([http://www.decryptimages.net/\](http://www.decryptimages.net/\)\) ;
+* Décryptimages, éducation aux images \([http://www.decryptimages.net/\](http://www.decryptimages.net/%29\) ;
 
 * L’atelier des photographes, éducation aux images à partir de photographies d’artistes connus
 
-\([http://www.latelierdesphotographes.com/\](http://www.latelierdesphotographes.com/\)\) ;
+\([http://www.latelierdesphotographes.com/\](http://www.latelierdesphotographes.com/%29\) ;
 
 * Making Off de l’AFP, des journalistes commentent des images d’actualité \([https://making-](https://making-)
 
@@ -124,7 +165,7 @@ www.genrimages.org/\)
 
 ecran.net\)
 
-Le chaine Youtube Effeuillage \([https://www.youtube.com/user/effeuillageC3M/videos\](https://www.youtube.com/user/effeuillageC3M/videos\)\).
+Le chaine Youtube Effeuillage \([https://www.youtube.com/user/effeuillageC3M/videos\](https://www.youtube.com/user/effeuillageC3M/videos%29\).
 
 Les vidéos Ted-Talks : art, médias, journalisme, communication.
 
