@@ -33,9 +33,9 @@
 
 ## Approches SIC
 
-* [Biblio/Plan](approches-sic/bibliographie.md)
+* [Plan/Biblio](approches-sic/bibliographie.md)
 
 ## Sémiologie des images et des textes médiatiques
 
-* [intro](semiologie-des-images-et-des-textes-mediatiques/intro.md)
+* [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
 
