@@ -20,6 +20,8 @@ Les images et les textes sont-ils des actes ?
 
 
 
+
+
 **SÉANCES THÉMATIQUES**
 
 Séance 7 : 21 mars 2018  
