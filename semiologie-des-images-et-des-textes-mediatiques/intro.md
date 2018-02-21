@@ -18,6 +18,8 @@ Qu’est-ce qu’un mythe ?
 Séance 6 : 14 mars 2018  
 Les images et les textes sont-ils des actes ?
 
+
+
 **SÉANCES THÉMATIQUES**
 
 Séance 7 : 21 mars 2018  
