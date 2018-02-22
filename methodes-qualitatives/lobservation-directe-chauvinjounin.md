@@ -9,6 +9,8 @@ Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disci
 
 > On vous a dit d'aller fouiner à la bibliothèque pour accumuler des montagnes de notes et une grosse couche de saleté \(...\) Ceux qui vont conseillent sont sages et honorales ; \(...\) Mais il faut autre chose encore : l'observation de première main. Allez vous asseoir dans les salons des hôtels de luxe et sur les paliers des refuges de nuit \(...\) Bref, allez vous salir les fonds de pantalons avec de la vraie recherche.
 
+\*— Robert Park, 1927.\*
+
 L'observation est une méthode essentielle pour donner accès à ce qui se cache, retracer l'enchaînement des actions et des interactions, ou encore saisir ce qui ne se dit pas ou "ce qui va sans dire".
 
 ### Les différents usages de l'observation
