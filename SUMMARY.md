@@ -18,6 +18,7 @@
 * [l’Entretien — Alain Blanchet](lentretien-alain-blanchet.md)
 * [Culture de jeunes ou culture de classe ?](problematique-culture-de-jeunes-ou-culture-de-classe.md)
 * [Fiches COULANGEON/BOURDIEU](fiches-coulangeonbourdieu.md)
+* [Les méthodes en sociologie : l'observation — Henri PERETZ](methodes-qualitatives/les-methodes-en-sociologie-lobservation-henri-peretz.md)
 
 ## Analyse du monde contemporain
 
