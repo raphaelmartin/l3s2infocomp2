@@ -1,3 +1,7 @@
+# L'observation directe — Chauvin/Jounin
+
+
+
 ### intro
 
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
