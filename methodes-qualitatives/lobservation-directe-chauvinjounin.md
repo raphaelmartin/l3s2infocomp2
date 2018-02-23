@@ -1,7 +1,5 @@
 # L'observation directe — Chauvin/Jounin
 
-
-
 ### intro
 
 Observer les êtres humains n'est pas l'apanage de la sociologie. D'autres disciplines la pratiquent. Mais qu'est-ce qui fait la singularité de l'observation directe?
@@ -18,6 +16,28 @@ _— Robert Park, 1927._
 L'observation est une méthode essentielle pour donner accès à ce qui se cache, retracer l'enchaînement des actions et des interactions, ou encore saisir ce qui ne se dit pas ou "ce qui va sans dire".
 
 ### Les différents usages de l'observation
+
+###### Participante ou non?
+
+###### A découvert ou non
+
+###### L'observation, méthode "qualitative"?
+
+### Les techniques
+
+###### Comment et quoi observer?
+
+###### La collecte des données
+
+###### Le journal de terrain et le compte rendu
+
+### Limites
+
+###### L'observateur est-il condamner à "perturber"?
+
+###### Illusion "topocentrique" et illusion "juridique"
+
+###### L'illusion de l'exclusivité réflexive
 
 
 
