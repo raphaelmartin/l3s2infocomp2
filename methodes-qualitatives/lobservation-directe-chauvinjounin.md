@@ -35,8 +35,6 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 
 **l'observation à découvert** \(=on se présente en tant que sociologue faisant une étude sociologique\)
 
-
-
 **l'observation incognito** \(=on ne révèle pas aux enquêtés le fait qu’on est en train de faire une étude sociologique sur ce terrain\)
 
 Parfois, la dissimulation se révèle utile quand le sociologue s'affronte aux dissimulations du monde social lui-même : pratiques douteuses, réprouvées moralement... Mais le fait d'être à découvert provoquent aussi des biais : l'entreprise qui nous reçoit peut nous restreindre à quelques segments de la main d'oeuvre, auprès des employeurs, on peut être perçu comme un agent chargé de "faire remonter" les infos.
@@ -48,6 +46,8 @@ Elle risque de confiner l'enquêteur à son rôle de "participant":
 3. Le position incognito pose un pb déontologique car on ne dit pas aux enquêtés qu'ils sont les objets d'une enquête. Toutefois, c'est le cas dans toutes les autres méthodes. La dissimulation ou le malentendu sciemment entretenus ne se limitent donc pas à l'observation masquée ; ils structurent bon nombre de relations d'enquête.
 
 ###### L'observation, méthode "qualitative"?
+
+
 
 ### Les techniques
 
