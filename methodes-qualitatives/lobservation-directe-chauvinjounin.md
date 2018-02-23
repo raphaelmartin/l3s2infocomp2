@@ -19,6 +19,10 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 
 ###### Participante ou non?
 
+**non participant**: le sociologue négocie une position de simple observateur
+
+**participant**: doit se mouler au contraire dans un rôle préexistant et participe aux activités ordinaires du milieu étudié.
+
 ###### A découvert ou non
 
 ###### L'observation, méthode "qualitative"?
