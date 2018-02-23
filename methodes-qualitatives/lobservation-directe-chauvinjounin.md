@@ -19,9 +19,17 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 
 ###### Participante ou non?
 
-**non participant**: le sociologue négocie une position de simple observateur
+**l'observation non participante**: le sociologue négocie une position de simple observateur
 
-**participant**: doit se mouler au contraire dans un rôle préexistant et participe aux activités ordinaires du milieu étudié.
+* Avantages: permet de se consacrer au seul recueil de données et de parcourir les différents points de vue sur la situation
+* Inconvénients: les enquêtés peuvent ne pas être disposés à laisser voir toutes les facettes de leur activité ou à confier certains types d'infos car l'observateur non participant peut rappeler l'image du contrôleur, agent de l'Etat...
+
+**l'observation participante**: doit se mouler au contraire dans un rôle préexistant et participe aux activités ordinaires du milieu étudié.
+
+* Moins libre de ses mouvements que le premier mais n'a pas à justifier sa place, il s'adapte au milieu.
+* Il recueille des données sans avoir à compter sur la collaboration des enquêtés, parfois en observant simplement sa propre activité.
+* Inconvénients: enfermement dans un seul rôle, un seul point de vue.
+* En un sens, l'observateur est le contraire du participant. Ce dernier cherche une insertion, des relations stabilisés, tandis que l'observateur doit chercher à multiplier les perspectives, s'intéresser à des situations diverses, rechercher des données contradictoires...
 
 ###### A découvert ou non
 
