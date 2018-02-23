@@ -33,6 +33,8 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 
 ###### A découvert ou non
 
+
+
 ###### L'observation, méthode "qualitative"?
 
 ### Les techniques
