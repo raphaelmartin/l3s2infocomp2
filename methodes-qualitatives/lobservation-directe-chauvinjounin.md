@@ -38,7 +38,7 @@ L'observation est une méthode essentielle pour donner accès à ce qui se cache
 Elle risque de confiner l'enquêteur à son rôle de "participant":
 
 1. il faut à la fois "jouer" le rôle du participant \(si on est embauché au McDonald's par exemple\) et à la fois faire notre travail d'enquêteur \(observer le plus possible, prendre en note...\). Double charge de travail qui se superposent.
-
+2. 
 **l'observation incognito** \(=on ne révèle pas aux enquêtés le fait qu’on est en train de faire une étude sociologique sur ce terrain\)
 
 Parfois la dissimulation se révèle utile quand le sociologue s'affronte aux dissimulations du monde social lui-même : pratiques douteuses, réprouvées moralement... Mais le fait d'être à découvert provoquent aussi des biais : l'entreprise qui nous reçoit peut nous restreindre à quelques segments de la main d'oeuvre, auprès des employeurs, on peut être perçu comme un agent chargé de "faire remonter" les infos.
