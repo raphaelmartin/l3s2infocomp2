@@ -24,5 +24,5 @@ Deux réponses distinctes:
 
 **Echange public** : grand nombre de destinataires, pas de liens entre l’émetteur et le récepteur.
 
-** Loi du 30 septembre 1986** :  La communication au public par voie électronique \(communication audiovisuel et Internet\) est libre.  Ex : Rachida D. a mis sur Facebook et sur MSN des critiques envers sa directrice « on devrait exterminer les directrices chieuses »...
+** Loi du 30 septembre 1986** :  La communication au public par voie électronique \(communication audiovisuel et Internet\) est libre.  Ex : Rachida D. a mis sur Facebook et sur MSN des critiques envers sa directrice « on devrait exterminer les directrices chieuses »
 
