@@ -8,6 +8,7 @@
 
 * [Syllabus](droit-des-medias/syllabus.md)
 * [Introduction](introduction.md)
+* [liblib](droit-des-medias/liblib.md)
 
 ## Méthodes qualitatives
 
