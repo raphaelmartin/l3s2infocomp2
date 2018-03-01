@@ -8,7 +8,7 @@
 
 * [Syllabus](droit-des-medias/syllabus.md)
 * [Introduction](introduction.md)
-* [Liberté d'expression et droit à l'information](liberte-dexpression-et-droit-a-linformation.md)
+* [Liberté d'expression et droit à l'information](droit-des-medias/liberte-dexpression-et-droit-a-linformation.md)
 
 ## Méthodes qualitatives
 
