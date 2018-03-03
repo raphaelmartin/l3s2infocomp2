@@ -26,3 +26,5 @@ Deux réponses distinctes:
 
 **Loi du 30 septembre 1986** : la communication au public par voie électronique \(communication audiovisuel et Internet\) est libre. Ex: Rachida D. a mis sur Facebook et sur MSN des critiques envers sa directrice : "on devrait exterminer les directrices chieuses".
 
+
+
