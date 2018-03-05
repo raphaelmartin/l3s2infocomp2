@@ -12,11 +12,11 @@ Autre méthode:
 
 3. récit de vie: « bonjour l’ennui ». Faire parler qqn, faire raconter sa vie. Limite y’a un divan. Socio / psycho. Parcours de vie, sociologie des choix.
 
-* semi-directif: être ouvert à tout questionnement mais garder une trame.
+4. semi-directif: être ouvert à tout questionnement mais garder une trame.
 
-* compréhensif: faire preuve de bcp d’empathie, adopter son raisonnement, pas le nôtre, le comprendre.
+5. compréhensif: faire preuve de bcp d’empathie, adopter son raisonnement, pas le nôtre, le comprendre.
 
-* biographique: demander son parcours, surtout résidentiel, C.S
+6. biographique: demander son parcours, surtout résidentiel, C.S
 
 ## Préparation
 
@@ -107,21 +107,21 @@ scientisme: toute question est bonne \(on peut aussi tenter d’orienter les ét
 1. Stade d’information: \*\*comprendre les pb qui restent\*\*. Documentation sur ce qui a « déjà été fait », des chances qu’on en ait déjà parlé. Risque: trop être accroché aux théories non-neutre qui sature l’espace publique. Arriver sur le terrain « frais ». Mais la science: se base sur l’antérieur, ne pas tenter de réinventer l’eau chaude en sachant déjà ce qui a été dit, ne pas le répéter. Obj: apporter qqch de nouveau à la science. Innover.
 2. Trouver un sujet intéressant. L’intérêt sociologique d’un sujet. Qqch qui répond à des demandes.
 
-* intérêt personnel, en élargissant: demande purement scientifique. Enigme du comportement humain. Etonnement: « traité du sentiment esthétique ». Philosophique.
+3. intérêt personnel, en élargissant: demande purement scientifique. Enigme du comportement humain. Etonnement: « traité du sentiment esthétique ». Philosophique.
 
-* demande politique. En rapport avec la justice: « qu’est-ce qu’une ville juste »
+4. demande politique. En rapport avec la justice: « qu’est-ce qu’une ville juste »
 
-1. Méthode: quali? quanti?
+5. Méthode: quali? quanti?
 
 « Les chiffres ont leur fait dire ce qu’on veut » : pas vraiment. Mais il ne faut pas faire de qualitatif avec des chiffres. exemple: Expliquer les raisons du FN en montrant les chiffres. « le chiffre en lui meme ne veut rien dire ».
 
 1. Technique: entretien? observation? archives?
 
-1. Interprétation: conclusions: qu’est-ce qu’on retient de cette entretien. Quelle hypothèse pourrait-on faire? Qu’est-ce qui se dégage? 1 page de: qu’est-ce que ça nous apporte cet entretien exploratoire? En quoi ça nous fait évoluer dans la réflexion. Il faut « citer » les entretiens.
+2. Interprétation: conclusions: qu’est-ce qu’on retient de cette entretien. Quelle hypothèse pourrait-on faire? Qu’est-ce qui se dégage? 1 page de: qu’est-ce que ça nous apporte cet entretien exploratoire? En quoi ça nous fait évoluer dans la réflexion. Il faut « citer » les entretiens.
 
-1. courte intro: expliquer le contexte de l’entretien, la zone, les conditions d’accès à l’interviewé… Justifier de pq on a choisi cette personne.
+3. courte intro: expliquer le contexte de l’entretien, la zone, les conditions d’accès à l’interviewé… Justifier de pq on a choisi cette personne.
 
-\#\# L'entretien
+## L'entretien
 
 "L'entretien comme l'habitus est en quelque sorte une improvisation réglée."
 
@@ -139,11 +139,11 @@ Production de parole sociale. L'entretien peut avoir plusieurs objectifs : l'ana
 
 1. L'entretien directif. Se fonde sur une liste de thèmes à aborder. La formulation des questions est prédéterminée pour matérialiser des thèmes qui sont précisé dans l'entretien. L'enquêteur possède une faible liberté.
 
-1. Semi-directif. Le plus utilisé. Idéal pour les démarches hypothético-déductif. Les meilleurs questions viennent se greffer dans le fil. Questions ouvertes. Pas forcément les poser dans l'ordre. Davantage de liberté.
+2. Semi-directif. Le plus utilisé. Idéal pour les démarches hypothético-déductif. Les meilleurs questions viennent se greffer dans le fil. Questions ouvertes. Pas forcément les poser dans l'ordre. Davantage de liberté.
 
-1. Libre, non directif. Pas de cadre prédéfini. Conversation naturelle. Récit de vie. Retracer des trajectoires de vie, comprendre les positions. Ne pas réduire la vie de l'individu a quelques dimensions.
+3. Libre, non directif. Pas de cadre prédéfini. Conversation naturelle. Récit de vie. Retracer des trajectoires de vie, comprendre les positions. Ne pas réduire la vie de l'individu a quelques dimensions.
 
-1. De groupe. Focus group.
+4. De groupe. Focus group.
 
 \#\# guide grille d'entretien.
 
