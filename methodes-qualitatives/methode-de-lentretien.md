@@ -1,20 +1,8 @@
-Méthode particulière: l’entretien.
+# Méthode particulière: l’entretien.
 
-On est neutre à aucun moment: quête de la vision objective.
+On est neutre à aucun moment: quête de la vision objective. D’où on parle? Quelle est ma situation sociale, ancienneté… Travail de sélection des interviewés.
 
-D’où on parle? Quelle est ma situation sociale, ancienneté…
-
-Travail de sélection des interviewés.
-
-Entretien =/ Questionnaire. Ca c’est du quantitatif.
-
-Question ouverte: question difficile à traiter quantitativement.
-
-Faire émerger des questions au fur et à mesure.
-
-Méthode de: l’entretien semi-directif compréhensif et biographique.
-
-Celui qui répond nous aide à « co-construire » notre entretien. Pas forcément dans le sens qu’on pensait.
+Entretien =/ Questionnaire. Ca c’est du quantitatif. Question ouverte: question difficile à traiter quantitativement. Faire émerger des questions au fur et à mesure. Méthode de: l’entretien semi-directif compréhensif et biographique. Celui qui répond nous aide à « co-construire » notre entretien. Pas forcément dans le sens qu’on pensait.
 
 Autre méthode:
 
@@ -24,13 +12,13 @@ Autre méthode:
 
 3. récit de vie: « bonjour l’ennui ». Faire parler qqn, faire raconter sa vie. Limite y’a un divan. Socio / psycho. Parcours de vie, sociologie des choix.
 
-semi-directif: être ouvert à tout questionnement mais garder une trame.
+* semi-directif: être ouvert à tout questionnement mais garder une trame.
 
-compréhensif: faire preuve de bcp d’empathie, adopter son raisonnement, pas le nôtre, le comprendre.
+* compréhensif: faire preuve de bcp d’empathie, adopter son raisonnement, pas le nôtre, le comprendre.
 
-biographique: demander son parcours, surtout résidentiel, C.S
+* biographique: demander son parcours, surtout résidentiel, C.S
 
-\# Préparation
+## Préparation
 
 Trouver des entretiens c’est hyper dur, mais ça fait parti du travail. On a rien à apporter, aporie des relations humaines.
 
@@ -56,7 +44,7 @@ Préparation logistique.
 
 Où l’on se retrouve, comment, avec quel matos.
 
-La \*\*grille d’entretien\*\*: savoir d’avance de quoi parler.
+La **grille d’entretie**n: savoir d’avance de quoi parler.
 
 * Doit tenir en 1 page. Synopsis de l’entretien, plan, savoir où on va
 
@@ -68,169 +56,96 @@ La \*\*grille d’entretien\*\*: savoir d’avance de quoi parler.
 
 * Invisibiliser au maximum le matou d’enregistrement
 
-* La grille inter\*\*vient au début de l’entretien. \*\*Partie 1: biographique. Habitat, tu fais quoi, depuis quand, t’as vécu où avant… Propriétaire? Locataire? Niveau? Travail? Rapport à l’habitat, temps de transport… Ah moi aussi! \(empathie, bidon\). Dire qu’on a des points communs.
+* La grille intervient au début de l’entretien. Partie 1: biographique. Habitat, tu fais quoi, depuis quand, t’as vécu où avant… Propriétaire? Locataire? Niveau? Travail? Rapport à l’habitat, temps de transport… Ah moi aussi! \(empathie, bidon\). Dire qu’on a des points communs.
 
 * pas obligé de dire qu’on travaille sur la gentrification. Niveau plus général: qu’est-ce qu’elle pense de la société dans laquelle elle vit, inégalités.
 
 * Partie 1: individuel. 2: collective \(qu’est-ce qu’il pense que ça fait sur les autres, la société\).
 
-- Connaitre son sujet avant l’entretien \(la personne, le thème\).
+* Connaitre son sujet avant l’entretien \(la personne, le thème\).
 
-- Capacité à tenir l’entretien dans une direction qui nous convient : semi-directif. C’est le but de la grille d’entretien.
+* Capacité à tenir l’entretien dans une direction qui nous convient : semi-directif. C’est le but de la grille d’entretien.
 
-- 2 choses à gérer en même temps: relation / entretien.
+* 2 choses à gérer en même temps: relation / entretien.
 
-- Ouvert au fait que l’entretien ne suivra pas cet ordre.
+* Ouvert au fait que l’entretien ne suivra pas cet ordre.
 
-- \*\*Partie parcours\*\* \(de l’autre personne, demander à la personne de se présenter, enfants/études/écoles\) &gt; Emploi/Etudes/motifs? &gt; Lieu d’habitation &gt; Ca fait longtemps? &gt; Loisirs
+* **Partie parcours** \(de l’autre personne, demander à la personne de se présenter, enfants/études/écoles\) &gt; Emploi/Etudes/motifs? &gt; Lieu d’habitation &gt; Ca fait longtemps? &gt; Loisirs
 
-- \*\*Partie habitat\*\* : Cadre de vie &gt; Aime le quartier? &gt; demander du plus particulier au plus général \(logement, immeuble, quartier, arrondissement\) &gt; locataire/proprié? &gt; Profession &gt; Tranche d’âge &gt; Niveau d’études &gt; difficulté à trouver un logement? &gt; Rester sur la durée dans le logement? &gt; qu’est-ce qui pour vous est un logement convenable? \(PDV particulier, à général\) &gt; votre rue préféré, où vous passer le plus de temps
+* **Partie habitat** : Cadre de vie &gt; Aime le quartier? &gt; demander du plus particulier au plus général \(logement, immeuble, quartier, arrondissement\) &gt; locataire/proprié? &gt; Profession &gt; Tranche d’âge &gt; Niveau d’études &gt; difficulté à trouver un logement? &gt; Rester sur la durée dans le logement? &gt; qu’est-ce qui pour vous est un logement convenable? \(PDV particulier, à général\) &gt; votre rue préféré, où vous passer le plus de temps
 
-- \*\*Partie relationnel\*\*: avez-vous vos amis dans le quartier? Amis/Famille? &gt; points communs? &gt; lieu de sociabilité
+* **Partie relationnel**: avez-vous vos amis dans le quartier? Amis/Famille? &gt; points communs? &gt; lieu de sociabilité
 
-- Mettre les didascalies IMPORTANTES: hésitations, ironie, rire jaune, gêne, long soupir… Significatif
+* Mettre les didascalies IMPORTANTES: hésitations, ironie, rire jaune, gêne, long soupir… Significatif
 
-- Format DOC
+* Format DOC
 
-- Le quartier évolue, qu’est-ce que vous en pensez?
+* Le quartier évolue, qu’est-ce que vous en pensez?
 
-- \*\*Partie travailler/circuler\*\* : lieu de travail? &gt; 
+* **Partie travailler/circuler** : lieu de travail? &gt;
 
-- Situer les gens dans leur C.S. Ne pas en rester au « goût ». Qualification molle « bobo » / petit bourgeois…
+* Situer les gens dans leur C.S. Ne pas en rester au « goût ». Qualification molle « bobo » / petit bourgeois…
 
-- attention à l’hybridation des cultures. Rap =/ classes pop « je veux des critères objectifs » .
+* attention à l’hybridation des cultures. Rap =/ classes pop « je veux des critères objectifs » .
 
-- ne pas faire flic: demander des questions trop précises.
+* ne pas faire flic: demander des questions trop précises.
 
+## Problématisation faible au début de l’enquête
 
-
-Etre au courant des différentes hypothèses différentes:
-
-1. explication gentrifieur, 2 théories
-
- &gt; insiste sur la dimension matérielle / collective : Rent gap. La circulation des pop. dans les villes c’est un balancier. Gentrification, opportunité économique. Contribue au capitalisme immobilier, cycle d’abandon des investisseurs. Tantôt dans les banlieues, tantôt dans le centre. Marche pour les villes américaines \(écologie urbaine, vases communiquant\). Stratégie eco encouragé par l’état
-
-
-
-&gt; choix individuel motivé par les critères culturels. Les quartiers pop plaisent à une nouvelle bourgeoisie \(classe d’encadrement\). Participe de l’image qu’elle se donne: ouverte d’esprit, moyenne, affranchi des clivages bourgeois.
-
-
-
-2. explication classe moyenne populaire
-
-
-
-&gt; pas de perception
-
-&gt; divisions des classes pop. \(plus intéressé par la délinquance…\)
-
-&gt; Réactions \(Berlin\)
-
-&gt; résignation: « ça devient trop cher, il va falloir partir un jour ». « C’est la vie »…
-
-
-
-Mais il y’a un impensé de la gentrification. Foule de gens qui ne contribue pas à définir « aubaine immobilière ».
-
-
-
-\# Problématisation faible au début de l’enquête
-
-
-
-Le descriptif de la « jeunesse des banlieues »
+Le descriptif de la « jeunesse des banlieues »
 
 Avantages: faire remonter des choses que les stats ne montrent pas \(microcapitaux\). Difficulté à généraliser! Niveau finesse + grand mais risque de partir dans tous les sens.
 
-1. \*\*Importance de définir une problématique\*\* pour y répondre \(cadre précis\)
+1. Importance de définir une problématique pour y répondre \(cadre précis\)
 
-- Reproches: subjectivisme, et multiplicité au monde social.
+2. Reproches: subjectivisme, et multiplicité au monde social.
 
-- On cherche un pb à l’enquete \(comprend une énigme\) Marc Auger: enfonce des portes ouvertes
-
-
+3. On cherche un pb à l’enquete \(comprend une énigme\) Marc Auger: enfonce des portes ouvertes
 
 scientisme: toute question est bonne \(on peut aussi tenter d’orienter les études de manière à ce qu’elle puisse répondre à des obstacles sociaux: parce que subjective \(qu’est-ce qui fait obstacle?\).
 
+1. Stade d’information: \*\*comprendre les pb qui restent\*\*. Documentation sur ce qui a « déjà été fait », des chances qu’on en ait déjà parlé. Risque: trop être accroché aux théories non-neutre qui sature l’espace publique. Arriver sur le terrain « frais ». Mais la science: se base sur l’antérieur, ne pas tenter de réinventer l’eau chaude en sachant déjà ce qui a été dit, ne pas le répéter. Obj: apporter qqch de nouveau à la science. Innover.
+2. Trouver un sujet intéressant. L’intérêt sociologique d’un sujet. Qqch qui répond à des demandes.
 
+* intérêt personnel, en élargissant: demande purement scientifique. Enigme du comportement humain. Etonnement: « traité du sentiment esthétique ». Philosophique.
 
-2. Stade d’information: \*\*comprendre les pb qui restent\*\*. Documentation sur ce qui a « déjà été fait », des chances qu’on en ait déjà parlé. Risque: trop être accroché aux théories non-neutre qui sature l’espace publique. Arriver sur le terrain « frais ». Mais la science: se base sur l’antérieur, ne pas tenter de réinventer l’eau chaude en sachant déjà ce qui a été dit, ne pas le répéter. Obj: apporter qqch de nouveau à la science. Innover.
+* demande politique. En rapport avec la justice: « qu’est-ce qu’une ville juste »
 
+1. Méthode: quali? quanti?
 
+« Les chiffres ont leur fait dire ce qu’on veut » : pas vraiment. Mais il ne faut pas faire de qualitatif avec des chiffres. exemple: Expliquer les raisons du FN en montrant les chiffres. « le chiffre en lui meme ne veut rien dire ».
 
-3. Trouver un sujet intéressant. L’intérêt sociologique d’un sujet. Qqch qui répond à des demandes.
+1. Technique: entretien? observation? archives?
 
-	- intérêt personnel
+1. Interprétation: conclusions: qu’est-ce qu’on retient de cette entretien. Quelle hypothèse pourrait-on faire? Qu’est-ce qui se dégage? 1 page de: qu’est-ce que ça nous apporte cet entretien exploratoire? En quoi ça nous fait évoluer dans la réflexion. Il faut « citer » les entretiens.
 
-	- en élargissant: demande purement scientifique. \*\*Enigme du comportement humain\*\*. Etonnement: « traité du sentiment esthétique ». Philosophique.
-
-	- demande politique. En rapport avec la justice: « qu’est-ce qu’une ville juste »
-
-
-
-4. Méthode: quali? quanti?
-
-« Les chiffres ont leur fait dire ce qu’on veut » : pas vraiment. Mais il ne faut pas faire de qualitatif avec des chiffres. exemple: Expliquer les raisons du FN en montrant les chiffres. « le chiffre en lui meme ne veut rien dire ».
-
-
-
-5. Technique: entretien? observation? archives?
-
-
-
-6. Interprétation: conclusions: qu’est-ce qu’on retient de cette entretien. Quelle hypothèse pourrait-on faire? Qu’est-ce qui se dégage? 1 page de: qu’est-ce que ça nous apporte cet entretien exploratoire? En quoi ça nous fait évoluer dans la réflexion. Il faut « citer » les entretiens.
-
-
-
-7. courte intro: expliquer le contexte de l’entretien, la zone, les conditions d’accès à l’interviewé… Justifier de pq on a choisi cette personne.
-
-
+1. courte intro: expliquer le contexte de l’entretien, la zone, les conditions d’accès à l’interviewé… Justifier de pq on a choisi cette personne.
 
 \#\# L'entretien
-
-
 
 "L'entretien comme l'habitus est en quelque sorte une improvisation réglée."
 
 On agit de manière inconsciente en fonction des codes incorporés. Rien d'autre que la traduction...
 
-
-
 L'entretien obéit à des règles mais périodes de libertés. Chaque situation d entretien. Pour produire des effets de connaissances, il faut des techniques. Règles normes à maîtriser. Ca devient naturel, ca roule........
 
-Principe de standardisation: faut poser les même questions à tous les individus interrogés. 
-
-
+Principe de standardisation: faut poser les même questions à tous les individus interrogés.
 
 \_Définition\_: l'entretien est un procédé d'investigation utilisant un processus de communication verbale pour recueillir des informations en relation avec un but fixé. Hypothético-déductif. Une rencontre interpersonnelle où un enquêteur interroge un enquêté dans le but de collecter des réponses tout ca pour affirmer ou infirmer une hypothèses de recherche.
 
 Production de parole sociale. L'entretien peut avoir plusieurs objectifs : l'analyse du sens que les acteurs donnent à leur pratique / analyser un pb précis / reconstitution de processus d'action. Entretien: exploratoire, principal, de contrôle vérification. Pas représentatif. Attention. Restituer l'univers de l'enquête. En faire suffisamment. L'effet de saturation : on a l'impression qu'on apprend plus rien de nouveau. Bon signe.
 
-
-
-4 techniques d'entretien : 
+4 techniques d'entretien :
 
 1. L'entretien directif. Se fonde sur une liste de thèmes à aborder. La formulation des questions est prédéterminée pour matérialiser des thèmes qui sont précisé dans l'entretien. L'enquêteur possède une faible liberté.
 
+1. Semi-directif. Le plus utilisé. Idéal pour les démarches hypothético-déductif. Les meilleurs questions viennent se greffer dans le fil. Questions ouvertes. Pas forcément les poser dans l'ordre. Davantage de liberté.
 
+1. Libre, non directif. Pas de cadre prédéfini. Conversation naturelle. Récit de vie. Retracer des trajectoires de vie, comprendre les positions. Ne pas réduire la vie de l'individu a quelques dimensions.
 
-2. Semi-directif. Le plus utilisé. Idéal pour les démarches hypothético-déductif. Les meilleurs questions viennent se greffer dans le fil. Questions ouvertes. Pas forcément les poser dans l'ordre. Davantage de liberté.
-
-
-
-3. Libre, non directif. Pas de cadre prédéfini. Conversation naturelle. Récit de vie. Retracer des trajectoires de vie, comprendre les positions. Ne pas réduire la vie de l'individu a quelques dimensions.
-
-
-
-4. De groupe. Focus group.
-
-
+1. De groupe. Focus group.
 
 \#\# guide grille d'entretien.
 
-
-
 Instrument dans lequel articuler différents thèmes sous la forme de questions guides. C un plan un pense bête. Des aspects du thème à aborder. Facilement et rapidement consultable pet l'entretien détaille et précis mais annotation brèves claires, phrases courtes. L'entretien doit suivre sa propre dynamique. Thème sujet dans la grille mais en vrai on doit switcher s'adapter à ce que nous dis l'interlocuteur. Présenter la recherche, soi même, L'organisme pour qui on travaille, les thèmes abordés lors de la recherche.... la consigne de départ : ca marque le début de l'entretien. Attention à la première question. J'aimerai que vous me parliez... attention aux question trop étroite factuelle trop large impersonnelle... comment plutôt que pourquoi.
-
-
 
