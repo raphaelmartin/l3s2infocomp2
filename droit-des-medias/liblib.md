@@ -14,7 +14,7 @@ _Voeux de Macron à la presse_
 
 Deux réponses distinctes:
 
-1. **Réponse de l’Etat** \(​_DROIT_​, loi fake news\). Contrôle du CSA sur les chaînes TV étrangères ? Régulation \\(= mode de gestion d’un secteur par des autorités publiques ou administratives indépendantes\\) qui sont associées à la défense des libertés publiques. Pouvoir d’édicter des règles et infliger des sanctions.
+1. **Réponse de l’Etat** \(​_DROIT_​, loi fake news\). Contrôle du CSA sur les chaînes TV étrangères ? Régulation \\(= mode de gestion d’un secteur par des autorités publiques ou administratives indépendantes\) qui sont associées à la défense des libertés publiques. Pouvoir d’édicter des règles et infliger des sanctions.
 
 2. **Réponse de la profession **\(​_DÉONTOLOGIE_​, autorégulation\) → règles, codes, chartes, sanctions professionnelles. Conseil de presse. Ordre professionnel. Médiateurs \(déjà à FranceTV\). Jury de déontologie publicitaire qui dépend de l’ARPP\\(Autorité de Régulation Professionnelle de la Publicité\).
 
@@ -188,19 +188,17 @@ Médiapart​ les confond lorsqu’il se plaint pour censure après avoir éte
 
 ## Atteintes au principe ?
 
-1. **Atteintes publiques au principe de liberté d’expression**  
-   Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).  
-   Code du cinéma : →​ Je ne peux pas projeter un film en salle en France sans autorisation →​ Ce visa peut être retiré si non respect de la morale, des droits et réputation d’autrui...  
-     \* Autorisation d’exploitation des chaînes privées par le CSA sur la TNT  
-   Pouvoirs de **police administrative** et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur.  
-   Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée.  
-   _Ex_ : spectacle de Dieudonné, ​« Dieudonné dans la guerre » interdit par quelques arrêtés municipaux et préfectoraux.  
-   Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudonné par le maire de Marseille pour risque de troubles à l’ordre public. L'interdiction d'un spectacle doit être "nécessaire au maintien de l'ordre public, adaptée et proportionnée aux troubles réels ou potentiels".  
-   Etc...
+\1. **Atteintes publiques au principe de liberté d’expression**
 
-2. **Atteintes privées à la liberté d’expression**
+Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).  
+Code du cinéma : →​ Je ne peux pas projeter un film en salle en France sans autorisation →​ Ce visa peut être retiré si non respect de la morale, des droits et réputation d’autrui...
 
-Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
+* Autorisation d’exploitation des chaînes privées par le CSA sur la TNT
+* Pouvoirs de **police administrative** et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur. Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée. _Ex_ : spectacle de Dieudonné, ​« Dieudonné dans la guerre » interdit par quelques arrêtés municipaux et préfectoraux. Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudonné par le maire de Marseille pour risque de troubles à l’ordre public. L'interdiction d'un spectacle doit être "nécessaire au maintien de l'ordre public, adaptée et proportionnée aux troubles réels ou potentiels". Etc...
+
+\2. **Atteintes privées à la liberté d’expression**
+
+Pressions économiques : Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
 Diffamation​ : déclaration outrageante avec faits → Il n’a pas payé ses impôts...
 
@@ -214,7 +212,7 @@ Injure​ : déclaration outrageante sans faits → C’est une grosse pute​.
 
 * Autocensure \(professionnelle\)
 
-* Censures « sociales » \(associations\)
+* Censures « sociales » \(associations de défense de l'identité nationale, \#metoo, censure de Polanski, Woody Allen\)
 
 →​ Attention, certaines associations en font commerce
 
