@@ -4,13 +4,10 @@
 
 _Voeux de Macron à la presse_
 
-\* loi contre les fake news
-
-\* responsabiliser les réseaux sociaux, transparence renforcée
-
-\* Réformer l'AU.VI
-
-\* Volonté de défendre la liberté de la presse
+* loi contre les fake news
+* responsabiliser les réseaux sociaux, transparence renforcée
+* Réformer l'AU.VI
+* Volonté de défendre la liberté de la presse
 
 Deux réponses distinctes:
 
