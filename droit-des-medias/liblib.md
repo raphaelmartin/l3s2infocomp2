@@ -123,7 +123,7 @@ Ici débat d’intérêt général.
 
 Sanctions judiciaires des abus, différente de la censure qui est souvent politique, administrative, sociale, sociétale. Elle est préalable à la publication.
 
-D. Jurisprudence
+## Jurisprudence
 
 1. Conseil constitutionnel
 
@@ -199,11 +199,11 @@ Mediapart​ les confond lorsqu’il se plaint pour censure après avoir éte�
 
 enregistrements fait par le majordome de Mme Bettencourt à son insu.
 
-Atteintes au principe ?
+## Atteintes au principe ?
 
 1. Atteintes publiques à la liberté d’expression
 
-2. Visa d’exploitation cinématographique
+Visa d’exploitation cinématographique
 
 Code du cinéma :
 
@@ -223,7 +223,7 @@ Récemment, conseil d’Etat a annulé interdiction spectacle Dieudonné par 
 
 * Etc...
 
-* Atteintes privées à la liberté d’expression
+2. Atteintes privées à la liberté d’expression
 
 Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
