@@ -101,7 +101,7 @@ Individus qui sont venus perturber une représentation sur le sujet du fils de 
 
 **La liberté d’expression n’est pas absolue.**
 
-Nadine Morano « La France, pays de race blanche »
+_Nadine Morano_ « La France, pays de race blanche »
 
 → Caricature Morano, la fille trisomique de De Gaulle.
 
