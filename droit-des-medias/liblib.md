@@ -188,31 +188,23 @@ Médiapart​ les confond lorsqu’il se plaint pour censure après avoir éte
 
 ## Atteintes au principe ?
 
-1. Atteintes publiques au principe de liberté d’expression
+1. **Atteintes publiques au principe de liberté d’expression**
+   Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).  
+   Code du cinéma : →​ Je ne peux pas projeter un film en salle en France sans autorisation →​ Ce visa peut être retiré si non respect de la morale, des droits et réputation d’autrui...  
+     \* Autorisation d’exploitation des chaînes privées par le CSA sur la TNT  
+   Pouvoirs de **police administrative** et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur.  
+   Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée.  
+   _Ex_ : spectacle de Dieudonné, ​« Dieudonné dans la guerre » interdit par quelques arrêtés municipaux et préfectoraux.  
+   Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudonné par le maire de Marseille pour risque de troubles à l’ordre public. L'interdiction d'un spectacle doit être "nécessaire au maintien de l'ordre public, adaptée et proportionnée aux troubles réels ou potentiels".  
+   Etc...
 
-Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).
-
-Code du cinéma :
-
-→​ Je ne peux pas projeter un film en salle en France sans autorisation.
-
-→​ Ce visa peut être retiré si non respect de la morale, des droits et réputation d’autrui...
-
-* Autorisation d’exploitation des chaînes privées par le CSA sur la TNT
-
-* Pouvoirs de **police administrative** et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur.
-
-Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée.
-
-_Ex_ : spectacle de Dieudonné, ​« Dieudonné dans la guerre » interdit par quelques arrêtés municipaux et préfectoraux.
-
-Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudonné par le maire de Marseille pour risque de troubles à l’ordre public. L'interdiction d'un spectacle doit être "nécessaire au maintien de l'ordre public, adaptée et proportionnée aux troubles réels ou potentiels".
-
-* Etc...
+2. **Atteintes privées à la liberté d’expression**
 
 
 
-  2. Atteintes privées à la liberté d’expression
+
+
+
 
 Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
