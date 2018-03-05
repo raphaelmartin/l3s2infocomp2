@@ -89,7 +89,7 @@ Liberté de presse/d’expression : faculté d’émettre publiquement un pro
 * Loi du 7 juillet 2016 relative à la liberté de création \(Art. 1 & 2\).
 * Code pénal, articles 431-1 \(punit l'entrave à la liberté d'expression\).
 
-## Application récente
+## Limites du principe
 
 Individus qui sont venus perturber une représentation sur le sujet du fils de dieu.
 
@@ -189,8 +189,6 @@ Médiapart​ les confond lorsqu’il se plaint pour censure après avoir éte
 ## Atteintes au principe ?
 
 1. Atteintes publiques au principe de liberté d’expression
-
-
 
 * Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).
 
