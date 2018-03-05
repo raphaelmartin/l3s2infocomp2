@@ -46,7 +46,11 @@ Loi ancienne. Article 11: libre communication des pensées et des opinions comme
 
 Ex: la loi HADOPI voulait sanctionner les téléchargeurs illégaux en leur coupant l'accès à Internet. Mais le conseil constitutionnel a refusé la création de cette loi en raison de la DDHC : couper l'accès à internet = couper un moyen de liberté d'expression.
 
-2. **Constitution du 4 octobre 1958**
+1. **Constitution du 4 octobre 1958**
 
 Préambule + article 34
+
+## Textes internationaux et européens
+
+
 
