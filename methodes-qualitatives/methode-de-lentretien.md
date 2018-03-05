@@ -131,7 +131,7 @@ L'entretien obéit à des règles mais périodes de libertés. Chaque situation 
 
 Principe de standardisation: faut poser les même questions à tous les individus interrogés.
 
-\_Définition\_: l'entretien est un procédé d'investigation utilisant un processus de communication verbale pour recueillir des informations en relation avec un but fixé. Hypothético-déductif. Une rencontre interpersonnelle où un enquêteur interroge un enquêté dans le but de collecter des réponses tout ca pour affirmer ou infirmer une hypothèses de recherche.
+**Définition**: l'entretien est un procédé d'investigation utilisant un processus de communication verbale pour recueillir des informations en relation avec un but fixé. Hypothético-déductif. Une rencontre interpersonnelle où un enquêteur interroge un enquêté dans le but de collecter des réponses tout ca pour affirmer ou infirmer une hypothèses de recherche.
 
 Production de parole sociale. L'entretien peut avoir plusieurs objectifs : l'analyse du sens que les acteurs donnent à leur pratique / analyser un pb précis / reconstitution de processus d'action. Entretien: exploratoire, principal, de contrôle vérification. Pas représentatif. Attention. Restituer l'univers de l'enquête. En faire suffisamment. L'effet de saturation : on a l'impression qu'on apprend plus rien de nouveau. Bon signe.
 
