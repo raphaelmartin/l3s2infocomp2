@@ -223,7 +223,7 @@ Récemment, conseil d’Etat a annulé interdiction spectacle Dieudonné par 
 
 * Etc...
 
-2. Atteintes privées à la liberté d’expression
+* Atteintes privées à la liberté d’expression
 
 Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
@@ -243,11 +243,11 @@ Injure​ : déclaration outrageante sans faits → C’est une grosse pute​.
 
 →​ Attention, certaines associations en font commerce
 
-II. Le droit à l’information
+## Le droit à l’information
 
 Liberté de communication : liberté d’expression et droit à l’information \(Mais définition restreinte : liberté de communication = liberté d’expression​\)
 
-A. Affirmation du droit.
+### Affirmation du droit.
 
 1. Textes internationaux et européens
 
@@ -261,7 +261,7 @@ Concepts importants où le Conseil Constitutionnel se place du côté du ré
 
 * Liberté de choix​ entre publication/programmes. →​ Intervention du législateur.
 
-B. Applications du droit à l’information
+### Applications du droit à l’information
 
 1. Accès à l’information
 
