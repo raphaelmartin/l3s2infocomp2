@@ -89,7 +89,7 @@ Liberté de presse/d’expression : faculté d’émettre publiquement un pro
 * Loi du 7 juillet 2016 relative à la liberté de création \(Art. 1 & 2\).
 * Code pénal, articles 431-1 \(punit l'entrave à la liberté d'expression\).
 
-Application récente
+## Application récente
 
 Individus qui sont venus perturber une représentation sur le sujet du fils de dieu.
 
@@ -99,7 +99,7 @@ Individus qui sont venus perturber une représentation sur le sujet du fils de 
 
 → Mais loin de manifester leur propre opinion, volonté d’entraver la liberté d’un spectacle qui ne leur est pas imposé.
 
-Liberté d’expression n’est pas absolue.
+**La liberté d’expression n’est pas absolue.**
 
 Nadine Morano « La France, pays de race blanche »
 
