@@ -210,7 +210,7 @@ Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudo
 
 * Etc...
 
-* Atteintes privées à la liberté d’expression
+2. Atteintes privées à la liberté d’expression
 
 Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
