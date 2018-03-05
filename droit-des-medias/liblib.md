@@ -190,6 +190,8 @@ Médiapart​ les confond lorsqu’il se plaint pour censure après avoir éte
 
 1. Atteintes publiques au principe de liberté d’expression
 
+
+
 * Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).
 
 Code du cinéma :
@@ -210,7 +212,7 @@ Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudo
 
 * Etc...
 
-2. Atteintes privées à la liberté d’expression
+* Atteintes privées à la liberté d’expression
 
 Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
