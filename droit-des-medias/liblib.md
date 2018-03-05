@@ -190,7 +190,9 @@ Médiapart​ les confond lorsqu’il se plaint pour censure après avoir éte
 
 1. Atteintes publiques au principe de liberté d’expression
 
-* Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).
+
+
+Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).
 
 Code du cinéma :
 
@@ -200,7 +202,7 @@ Code du cinéma :
 
 * Autorisation d’exploitation des chaînes privées par le CSA sur la TNT
 
-* Pouvoirs de police administrative et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur.
+* Pouvoirs de **police administrative** et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur.
 
 Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée.
 
