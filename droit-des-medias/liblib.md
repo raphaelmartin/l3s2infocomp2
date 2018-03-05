@@ -72,25 +72,25 @@ Art. 19. et 20. Pacte engage les Etats qui l’ont ratifié, valeur juridique pl
 
 Protéger les droits de l’H et libertés fondamentales, et libre circulation des données.
 
-Art. 10 : juridiction par la CEDH, souvent saisie. Très favorable à la liberté d’expression. Jurisprudence de “litanie”. 
+Art. 10 : juridiction par la CEDH, souvent saisie. Très favorable à la liberté d’expression. Jurisprudence de “litanie”.
 
 **Charte des droits fondamentaux de l’UE du 7 déc. 2000, art. 11**
 
-C. Textes législatifs.
+## Principes à valeur législative, consacrés par les lois
 
 1. Loi du 29 juillet 1881
 
 « L’imprimerie et la librairie sont libres » : pas seulement presse écrite.
 
-Liberté de presse/d’expression : faculté d’émettre publiquement un propos sans autorisation préalable.
+Liberté de presse/d’expression : faculté d’émettre publiquement un propos sans autorisation préalable ou dépôt de cautionnement \(Art.5\).
 
-2. Loi du 30 septembre 1986 relative à la liberté de communication
+1. Loi du 30 septembre 1986 relative à la liberté de communication
 
-3. Loi du 21 juin 2004 pour la confiance dans l’économie numérique
+2. Loi du 21 juin 2004 pour la confiance dans l’économie numérique
 
-4. Loi du 7 juillet 2016
+3. Loi du 7 juillet 2016
 
-5. Code pénal, articles 431-1
+4. Code pénal, articles 431-1
 
 Application récente
 
@@ -116,15 +116,13 @@ Charlie Hebdo non condamné, car au nom du droit à l’humour, les juges tien
 
 Charlie Hebdo = journal satirique, provocateur. Sa nature étend sa liberté d’expression.
 
-+ Intention pas de nuire mais de faire rire.
+* Intention pas de nuire mais de faire rire.
 
-+ Contexte de la publication pris en compte
+* Contexte de la publication pris en compte
 
-              
+Ici débat d’intérêt général.
 
- Ici débat d’intérêt général.
-
-+ Cible de la caricature = personnalité politique, les juges sont plus tolérants car faire de la politique = accepter implicitement la critique.
+* Cible de la caricature = personnalité politique, les juges sont plus tolérants car faire de la politique = accepter implicitement la critique.
 
 Sanctions judiciaires des abus, différente de la censure qui est souvent politique, administrative, sociale, sociétale. Elle est préalable à la publication.
 
@@ -152,7 +150,7 @@ Même les juges ne sont pas toujours d’accord.
 
 Concilier la liberté d’expression et d’autres droits individuels et collectifs.
 
-- Droits individuels : présomption d’innocence, droit d’auteur, liberté d’accès à Internet, vie privée, réputation d’autrui...
+* Droits individuels : présomption d’innocence, droit d’auteur, liberté d’accès à Internet, vie privée, réputation d’autrui...
 
 Ex : ​Hadopi​, droit d’auteur VS liberté d’accès à Internet...
 
@@ -170,19 +168,17 @@ MAIS décision infirmée par Cour d’Appel de Versailles qui fait prévaloir
 
 Pose deux questions :
 
-          - Cour d’appel, quelle légitimité à décrire ce qu’est l’art ?
+* Cour d’appel, quelle légitimité à décrire ce qu’est l’art ?
 
- - Amalgame entre sanctions et censure
+  * Amalgame entre sanctions et censure
 
+\[En matière pénale :
 
+* Tribunal correctionnel
 
-  \[En matière pénale :
+* Cour d’appel : juges du fond, étudient les faits \(s’ils se sont effectivement réalisés...\)
 
- - Tribunal correctionnel
-
- - Cour d’appel : juges du fond, étudient les faits \(s’ils se sont effectivement réalisés...\)
-
-- Cour de cassation : juges du droit, étudient si la Cour d’Appel à bien respecter le droit.\]
+* Cour de cassation : juges du droit, étudient si la Cour d’Appel à bien respecter le droit.\]
 
   Une de Minute​, considérée comme expression outrageante envers personnes homosexuelles.
 
@@ -198,9 +194,9 @@ MAIS cour de cassation : critiquer l’homosexualité ce n’est pas critiquer 
 
 Attention, ​NE PAS CONFONDRE​ :
 
-- \(a posteriori, juridique\)
+* \(a posteriori, juridique\)
 
-- ​\(a priori/préalable, politique/administratif...\)
+* ​\(a priori/préalable, politique/administratif...\)
 
 Mediapart​ les confond lorsqu’il se plaint pour censure après avoir été contraint de retirer les
 
@@ -210,7 +206,7 @@ Atteintes au principe ?
 
 1. Atteintes publiques à la liberté d’expression
 
-- Visa d’exploitation cinématographique
+2. Visa d’exploitation cinématographique
 
 Code du cinéma :
 
@@ -218,9 +214,9 @@ Code du cinéma :
 
 →​ Ce visa peut être retiré si non respect de la morale, des droits et réputation d’autrui...
 
-- Autorisation d’exploitation des chaînes privées par le CSA sur la TNT
+* Autorisation d’exploitation des chaînes privées par le CSA sur la TNT
 
-- Pouvoirs de police administrative
+* Pouvoirs de police administrative
 
 Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée.
 
@@ -228,27 +224,25 @@ Ex : spectacle de Dieudonné, ​« Dieudonné dans la guerre ».
 
 Récemment, conseil d’Etat a annulé interdiction spectacle Dieudonné par maire de Marseille pour risque de troubles à l’ordre public.
 
-- Etc...
+* Etc...
 
-2. Atteintes privées à la liberté d’expression
+* Atteintes privées à la liberté d’expression
 
 Loi Anti-Bolloré : Bolloré poursuit pour diffamation dès que quelque chose ne lui plait pas.
 
 Diffamation​ : déclaration outrageante avec faits → Il n’a pas payé ses impôts...
 
-  Contrôle judiciaire répressif​
+Contrôle judiciaire répressif​
 
- Censure​
-
-        
+Censure​
 
 Injure​ : déclaration outrageante sans faits → C’est une grosse pute​...
 
-- Pressions économiques
+* Pressions économiques
 
-- Autocensure \(professionnelle\)
+* Autocensure \(professionnelle\)
 
-- Censures « sociales » \(associations\)
+* Censures « sociales » \(associations\)
 
 →​ Attention, certaines associations en font commerce
 
@@ -266,21 +260,19 @@ Conseil constitutionnel a dans deux décisions notamment \(presse et audiovisue
 
 Concepts importants où le Conseil Constitutionnel se place du côté du récepteur pour que le droit à l’information soit effectif :
 
-- Pluralisme​ = diversité de publication, objectif de valeur constitutionnelle. Hissé au même rang que la liberté d’expression.
+* Pluralisme​ = diversité de publication, objectif de valeur constitutionnelle. Hissé au même rang que la liberté d’expression.
 
-- Liberté de choix​ entre publication/programmes. →​ Intervention du législateur.
+* Liberté de choix​ entre publication/programmes. →​ Intervention du législateur.
 
 B. Applications du droit à l’information
 
 1. Accès à l’information
 
-- Accès à l’information obligatoire qu’en ce qui concerne documents administratifs, archives, information en matière d’environnement, du sport.
+2. Accès à l’information obligatoire qu’en ce qui concerne documents administratifs, archives, information en matière d’environnement, du sport.
 
 →​ Même si pas exclusivité, en cas de grande manifestation sportive, les autres chaînes peuvent diffuser de brefs extraits.
 
-2. Qualité de l’information
-
-
+1. Qualité de l’information
 
 
 
