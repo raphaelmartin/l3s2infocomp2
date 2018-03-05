@@ -101,7 +101,7 @@ Individus qui sont venus perturber une représentation sur le sujet du fils de 
 
 **La liberté d’expression n’est pas absolue.**
 
-_Nadine Morano_ « La France, pays de race blanche »
+Nadine Morano « La France, pays de race blanche »
 
 → Caricature Morano, la fille trisomique de De Gaulle.
 
@@ -109,7 +109,7 @@ _Nadine Morano_ « La France, pays de race blanche »
 
 → Sanctions judiciaires des abus de la liberté d’expression ?
 
-Charlie Hebdo non condamné, car au nom du droit à l’humour, les juges tiennent compte du support de publication.
+Charlie Hebdo _non condamné, car au nom du droit à l’humour_, les juges tiennent compte du support de publication.
 
 Charlie Hebdo = journal satirique, provocateur. Sa nature étend sa liberté d’expression.
 
@@ -121,7 +121,7 @@ Ici débat d’intérêt général.
 
 * Cible de la caricature = personnalité politique, les juges sont plus tolérants car faire de la politique = accepter implicitement la critique.
 
-Sanctions judiciaires des abus, différente de la censure qui est souvent politique, administrative, sociale, sociétale. Elle est préalable à la publication.
+Sanctions judiciaires des abus, différente de la censure qui est souvent politique, administrative, sociale, sociétale. Elle est préalable à la publication. A PRIORI / A POSTERIORI
 
 ## Jurisprudence
 
@@ -133,23 +133,16 @@ Madame Le Pen caricaturée en étron fumant​ sur une affiche diffusée dans
 
 → Jugement pas encore fini car plusieurs appels.
 
-→ Critères du jugement
+→ Critères du jugement : intention de l’animateur = faire rire, caricature de tous les candidats. &gt; Donc Cours d’appel, avril 2015, relaxe France TV &gt; Puis Cours de cassation, septembre 2016, dépasse les limites de la liberté d’expression \(mais on ne sait pas pourquoi\) &gt; Puis Cours d’appel, septembre 2017, relaxe France TV...
 
-Intention de l’animateur = faire rire, caricature de tous les candidats.
-
-Donc Cours d’appel, avril 2015, relaxe France TV
-
-Puis Cours de cassation, septembre 2016, dépasse les limites de la liberté d’expression \(mais on ne sait pas pourquoi\)
-
-Puis Cours d’appel, septembre 2017, relaxe France TV...
-
-Même les juges ne sont pas toujours d’accord.
+Même _les juges ne sont pas toujours d’accord_.
 
 Concilier la liberté d’expression et d’autres droits individuels et collectifs.
 
 * Droits individuels : présomption d’innocence, droit d’auteur, liberté d’accès à Internet, vie privée, réputation d’autrui...
+* Droits collectifs : santé publique, ordre public, lutte contre le racisme \(Taubira\), lutte contre le sexime \(Orelsan “sale pute”, condamné en 1re instance à 1000€ d'amende et sursis, mais infirmée par la cour d’appel de Versailles en 2016, qui fait prévaloir la liberté de création\), lutte contre l’homophobie \(une de minute, propos de Christine Boutin\), contrôle judiciaire répressif et censure \(Mediapart qui affiche “censure” lorsque la décision de justice leur impose de retirer les enregistrements du dossier Bettencourt.
 
-Ex : ​Hadopi​, droit d’auteur VS liberté d’accès à Internet...
+Ex : ​HADOPI​, droit d’auteur VS liberté d’accès à Internet...
 
 \(Juge, celui qui arbitre entre différents droits\) Infractions liées au sexisme, n’existent que depuis 2004 !
 
@@ -169,7 +162,7 @@ Pose deux questions :
 
   * Amalgame entre sanctions et censure
 
-\[En matière pénale :
+**En matière pénale**
 
 * Tribunal correctionnel
 
@@ -179,31 +172,25 @@ Pose deux questions :
 
   Une de Minute​, considérée comme expression outrageante envers personnes homosexuelles.
 
-« Bientôt ils vont pouvoir s’enfiler la bague au doigt », « malgré les risques ils vont pouvoir donner leur sang ».
+« Bientôt ils vont pouvoir s’enfiler la bague au doigt », « malgré les risques ils vont pouvoir donner leur sang ». → Jeux de mots vulgaire, incitation à la haine donc condamnation.
 
-→ Jeux de mots vulgaire, incitation à la haine donc condamnation.
-
-Christine Boutin, « l’homosexualité est une abomination​ »
-
-→ Considéré comme provocation à la haine.
+Christine Boutin, « l’homosexualité est une abomination​ » → Considéré comme provocation à la haine.
 
 MAIS cour de cassation : critiquer l’homosexualité ce n’est pas critiquer les homosexuels, donc pas de dépassement des limites de la liberté d’expression.
 
-Attention, ​NE PAS CONFONDRE​ :
+**Attention, ​NE PAS CONFONDRE​ :**
 
-* \(a posteriori, juridique\)
+* \(a posteriori, _juridique_\)
 
-* ​\(a priori/préalable, politique/administratif...\)
+* ​\(a priori/préalable, _politique/administratif_...\)
 
-Mediapart​ les confond lorsqu’il se plaint pour censure après avoir été contraint de retirer les
-
-enregistrements fait par le majordome de Mme Bettencourt à son insu.
+Médiapart​ les confond lorsqu’il se plaint pour censure après avoir été contraint de retirer les enregistrements fait par le majordome de Mme Bettencourt à son insu.
 
 ## Atteintes au principe ?
 
-1. Atteintes publiques à la liberté d’expression
+1. Atteintes publiques au principe de liberté d’expression
 
-Visa d’exploitation cinématographique
+* Visa d’exploitation cinématographique délivré par le Min. de la culture via le CNC, considéré comme une autorisation préalable \(protection de l'enfance et de la jeunesse, et protection de la dignité humaine\).
 
 Code du cinéma :
 
@@ -213,13 +200,13 @@ Code du cinéma :
 
 * Autorisation d’exploitation des chaînes privées par le CSA sur la TNT
 
-* Pouvoirs de police administrative
+* Pouvoirs de police administrative et maintien de l'ordre public, détenus par les maires, préfets, min. de l'Intérieur.
 
 Permet par exemple l’interdiction d’un spectacle si nécessaire, adaptée, proportionnée.
 
-Ex : spectacle de Dieudonné, ​« Dieudonné dans la guerre ».
+_Ex_ : spectacle de Dieudonné, ​« Dieudonné dans la guerre » interdit par quelques arrêtés municipaux et préfectoraux.
 
-Récemment, conseil d’Etat a annulé interdiction spectacle Dieudonné par maire de Marseille pour risque de troubles à l’ordre public.
+Récemment, conseil d’Etat a annulé l'interdiction d'un spectacle de Dieudonné par le maire de Marseille pour risque de troubles à l’ordre public. L'interdiction d'un spectacle doit être "nécessaire au maintien de l'ordre public, adaptée et proportionnée aux troubles réels ou potentiels".
 
 * Etc...
 
