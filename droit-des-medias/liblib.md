@@ -30,5 +30,5 @@ Entre les deux : **régulation** \(=mode de gestion d'un secteur par des autorit
 
 ---
 
-Droit des médias instable
+Droits des médias instables : 
 
