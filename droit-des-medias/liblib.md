@@ -224,25 +224,21 @@ Liberté de communication : liberté d’expression et droit à l’informati
 
 1. Textes internationaux et européens
 
-Droit à l’information : garantir l’effectivité de la liberté d’expression par une intervention de l’Etat. Résulte de la jurisprudence du conseil constitutionnel en matière de pluralisme.
+Textes affirment le droit de “répandre et de recevoir” \(art. 10 de la Convention Européenne, art. 19 DUDH\). Droit de recevoir des informations. Pas de consécration générale, chacun à droit à l’information. Droit à l’information : garantir l’effectivité de la liberté d’expression par une intervention de l’Etat. Résulte de la jurisprudence du Conseil constitutionnel en matière de pluralisme.
 
-Conseil constitutionnel a dans deux décisions notamment \(presse et audiovisuel\), examiné les processus de lutte contre la concentration.
+Le Conseil constitutionnel a, dans deux décisions notamment examiné les processus de lutte contre la concentration dans la presse et l'audiovisuel.
 
 Concepts importants où le Conseil Constitutionnel se place du côté du récepteur pour que le droit à l’information soit effectif :
 
-* Pluralisme​ = diversité de publication, objectif de valeur constitutionnelle. Hissé au même rang que la liberté d’expression.
+* Pluralisme​ = diversité de publication, objectif de valeur constitutionnelle. Hissé au même rang que la liberté de communication \(1984 puis 1986 cf p.10\) "Nombre suffisant de publications à tendances différentes" et "libre choix".
 
 * Liberté de choix​ entre publication/programmes. →​ Intervention du législateur.
 
 ### Applications du droit à l’information
 
-1. Accès à l’information
+1. Accès à l’information : accès à l’information obligatoire qu’en ce qui concerne documents administratifs, archives, information en matière d’environnement, du sport -&gt; Art. L300-1 du Code des relations entre le public et l'administration. →​ Même si pas exclusivité, en cas de grande manifestation sportive, les autres chaînes peuvent diffuser de brefs extraits.
 
-2. Accès à l’information obligatoire qu’en ce qui concerne documents administratifs, archives, information en matière d’environnement, du sport.
-
-→​ Même si pas exclusivité, en cas de grande manifestation sportive, les autres chaînes peuvent diffuser de brefs extraits.
-
-1. Qualité de l’information
+2. Qualité de l'information
 
 
 
