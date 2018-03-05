@@ -145,7 +145,7 @@ Production de parole sociale. L'entretien peut avoir plusieurs objectifs : l'ana
 
 4. De groupe. Focus group.
 
-\#\# guide grille d'entretien.
+## guide grille d'entretien.
 
 Instrument dans lequel articuler différents thèmes sous la forme de questions guides. C un plan un pense bête. Des aspects du thème à aborder. Facilement et rapidement consultable pet l'entretien détaille et précis mais annotation brèves claires, phrases courtes. L'entretien doit suivre sa propre dynamique. Thème sujet dans la grille mais en vrai on doit switcher s'adapter à ce que nous dis l'interlocuteur. Présenter la recherche, soi même, L'organisme pour qui on travaille, les thèmes abordés lors de la recherche.... la consigne de départ : ca marque le début de l'entretien. Attention à la première question. J'aimerai que vous me parliez... attention aux question trop étroite factuelle trop large impersonnelle... comment plutôt que pourquoi.
 
