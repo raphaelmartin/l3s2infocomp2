@@ -78,19 +78,16 @@ Art. 10 : juridiction par la CEDH, souvent saisie. Très favorable à la libert�
 
 ## Principes à valeur législative, consacrés par les lois
 
-1. Loi du 29 juillet 1881
+* **Loi du 29 juillet 1881**
 
 « L’imprimerie et la librairie sont libres » : pas seulement presse écrite.
 
 Liberté de presse/d’expression : faculté d’émettre publiquement un propos sans autorisation préalable ou dépôt de cautionnement \(Art.5\).
 
-1. Loi du 30 septembre 1986 relative à la liberté de communication
-
-2. Loi du 21 juin 2004 pour la confiance dans l’économie numérique
-
-3. Loi du 7 juillet 2016
-
-4. Code pénal, articles 431-1
+* Loi du 30 septembre 1986 relative à la liberté de communication
+* Loi du 21 juin 2004 pour la confiance dans l’économie numérique \(LCEN\)
+* Loi du 7 juillet 2016 relative à la liberté de création \(Art. 1 & 2\).
+* Code pénal, articles 431-1 \(punit l'entrave à la liberté d'expression\).
 
 Application récente
 
