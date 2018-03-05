@@ -28,7 +28,27 @@ Entre les deux : **régulation** \(=mode de gestion d'un secteur par des autorit
 
 **Loi du 30 septembre 1986** : la communication au public par voie électronique \(communication audiovisuel et Internet\) est libre. Ex: Rachida D. a mis sur Facebook et sur MSN des critiques envers sa directrice : "on devrait exterminer les directrices chieuses". → Poursuivi par celle-ci. Cours de cassation : propos litigieux seulement accessibles à un nombre restreint de personnes agréées par l’individu. Communauté d’intérêt et donc pas injure publique.
 
+Droits des médias instables et sujet aux changements de majorités politiques.
+
 ---
 
-Droits des médias instables : 
+# Liberté d'expression
+
+## Textes de valeur constitutionnelle
+
+La liberté d'expression est affirmée par les textes, mais peut-on vraiment tout dire, tout écrire, tout publier? Ex: comparaison entre un singe et Christiane Taubira par une députée FN.
+
+1. DDHC \(déclaration des droits de l'homme et du citoyen\) du 26 août 1789 -&gt; Valeur constitutionnel car écrit dans la Constitution de 1958 qui renvoie à la DDHC.
+
+Loi ancienne. Article 11: libre communication des pensées et des opinions comme droit fondamental.
+
+Ex: la loi HADOPI voulait sanctionner les téléchargeurs illégaux en leur coupant l'accès à Internet. Mais le conseil constitutionnel a refusé la création de cette loi en raison de la DDHC : couper l'accès à internet = couper un moyen de liberté d'expression.
+
+1. Constitution du 4 octobre 1958
+
+Préambule + article 34
+
+
+
+
 
