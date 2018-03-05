@@ -38,17 +38,15 @@ Droits des médias instables et sujet aux changements de majorités politiques.
 
 La liberté d'expression est affirmée par les textes, mais peut-on vraiment tout dire, tout écrire, tout publier? Ex: comparaison entre un singe et Christiane Taubira par une députée FN.
 
-1. DDHC \(déclaration des droits de l'homme et du citoyen\) du 26 août 1789 -&gt; Valeur constitutionnel car écrit dans la Constitution de 1958 qui renvoie à la DDHC.
+1. **DDHC** \(déclaration des droits de l'homme et du citoyen\) du 26 août 1789 -&gt; Valeur constitutionnel car écrit dans la Constitution de 1958 qui renvoie à la DDHC.
+
+> “La libre communication des pensées et des opinions est un droit des plus précieux de l’homme, tout citoyen peut parler, écrire, imprimer, librement sauf à répondre de l’abus de cette liberté dans les cas déterminés par la loi.” \(Art. 11 DDHC 1789\).
 
 Loi ancienne. Article 11: libre communication des pensées et des opinions comme droit fondamental.
 
 Ex: la loi HADOPI voulait sanctionner les téléchargeurs illégaux en leur coupant l'accès à Internet. Mais le conseil constitutionnel a refusé la création de cette loi en raison de la DDHC : couper l'accès à internet = couper un moyen de liberté d'expression.
 
-1. Constitution du 4 octobre 1958
+2. **Constitution du 4 octobre 1958**
 
 Préambule + article 34
-
-
-
-
 
