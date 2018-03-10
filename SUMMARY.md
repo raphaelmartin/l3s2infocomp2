@@ -10,6 +10,18 @@
 * [Introduction](introduction.md)
 * [Liberté d'expression et droit à l'information](droit-des-medias/liblib.md)
 
+## Internationnalisation de l'information
+
+* [Syllabus](internationnalisation-de-la-communication/syllabus.md)
+
+## Approches SIC
+
+* [Plan/Biblio](approches-sic/bibliographie.md)
+
+## Sémiologie des images et des textes médiatiques
+
+* [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
+
 ## Méthodes qualitatives
 
 * [Syllabus](methodes-qualitatives/syllabus.md)
@@ -21,6 +33,12 @@
 * [Les méthodes en sociologie : l'observation — Henri PERETZ](methodes-qualitatives/les-methodes-en-sociologie-lobservation-henri-peretz.md)
 * [méthode de l'entretien](methodes-qualitatives/methode-de-lentretien.md)
 
+## Méthodes quantitatives
+
+* [Séances](methodes-quanti/seance-1.md)
+* [Bibliographie](bibliographie.md)
+* [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quanti/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
+
 ## Analyse du monde contemporain
 
 * [Bibliographie](analyse-du-monde-contemporain/bibliographie.md)
@@ -28,22 +46,4 @@
 * [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-fede.md)
 * [Les relations israélo-palestiniennes \(1993-2001\)](les-relations-israelo-palestiniennes-1993-2001.md)
 * Les nouveaux défis de l'OTAN
-
-## Méthodes quantitatives
-
-* [Séances](methodes-quanti/seance-1.md)
-* [Bibliographie](bibliographie.md)
-* [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quanti/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
-
-## Approches SIC
-
-* [Plan/Biblio](approches-sic/bibliographie.md)
-
-## Sémiologie des images et des textes médiatiques
-
-* [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
-
-## Internationnalisation de l'information
-
-* [Syllabus](internationnalisation-de-la-communication/syllabus.md)
 
