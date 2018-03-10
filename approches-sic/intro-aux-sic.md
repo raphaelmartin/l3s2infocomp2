@@ -12,7 +12,7 @@
    1. * la sociologie
       * la communication, un objet épineux
 
+---
 
 
-\*\*\* 
 
