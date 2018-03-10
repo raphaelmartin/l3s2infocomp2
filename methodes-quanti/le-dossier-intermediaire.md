@@ -15,6 +15,32 @@ Raphaël Martin — L2 Sociologie
 
 # Comment trouver une question de recherche / problématique?
 
+###### _in_ Le questionnaire — François DE SINGLY, chapitre 2 : la conception du questionnaire.
+
+### Construire l'objet de l'enquête
+
+### Avoir des idées
+
+### Les deux parties d'un questionnaire
+
+###### chapitre 5 : l'exploitation du questionnaire
+
+### le codage
+
+### Apprendre à lire un tableau
+
+### La demande de tableaux
+
+### L'écriture du compte-rendu
+
+###### in L'analyse quantitative des données — Olivier MARTIN, chapitre 2 : concevoir et préparer les variables nécessaires à l'analyse
+
+###### chapitre 3 : un intermède : saisir la diversité des situations
+
+###### chapitre 4 : analyser les relations entre deux variables
+
+###### chapitre 5 : analyser les relations entre plusieurs variables
+
 # Qu'est-ce qu'un tri à plat? un tri croisé?
 
 # Qu'est-ce qu'un recodage?
