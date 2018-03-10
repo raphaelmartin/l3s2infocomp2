@@ -9,10 +9,13 @@
 * [Syllabus](droit-des-medias/syllabus.md)
 * [Introduction](introduction.md)
 * [Liberté d'expression et droit à l'information](droit-des-medias/liblib.md)
+* Régulation audiovisuelle
+* Contrôle de la publicité
 
 ## Internationnalisation de l'information
 
 * [Syllabus](internationnalisation-de-la-communication/syllabus.md)
+* [Les agences de presse : actrices centrales de l’internationalisation de l’information](internationnalisation-de-la-communication/les-agences-de-presse-actrices-centrales-de-linternationalisation-de-linformation.md)
 
 ## Approches SIC
 
