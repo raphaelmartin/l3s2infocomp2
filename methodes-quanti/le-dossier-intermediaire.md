@@ -15,6 +15,10 @@ Raphaël Martin — L2 Sociologie
 
 # Comment trouver une question de recherche / problématique?
 
+###### _in_ Manuel de recherche en sciences sociales - CAMPENHOUDT, La question de départ.
+
+
+
 ###### _in_ Le questionnaire — François DE SINGLY, chapitre 2 : la conception du questionnaire.
 
 ### Construire l'objet de l'enquête
@@ -52,6 +56,8 @@ Raphaël Martin — L2 Sociologie
 ### Le test du khi-deux \(khi2\)
 
 ###### chapitre 5 : analyser les relations entre plusieurs variables
+
+
 
 # Qu'est-ce qu'un tri à plat? un tri croisé?
 
