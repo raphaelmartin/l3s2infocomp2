@@ -23,7 +23,7 @@
 
 * [Plan/Biblio](approches-sic/bibliographie.md)
 * [Intro aux SIC](approches-sic/intro-aux-sic.md)
-* Approche sociologique
+* [Approche sociologique](approches-sic/approche-sociologique.md)
 
 ## Sémiologie des images et des textes médiatiques
 
