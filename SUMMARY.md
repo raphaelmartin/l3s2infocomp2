@@ -45,6 +45,7 @@
 * [Séances](methodes-quanti/seance-1.md)
 * [Bibliographie](bibliographie.md)
 * [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quanti/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
+* [Le dossier intermédiaire](methodes-quanti/le-dossier-intermediaire.md)
 
 ## Analyse du monde contemporain
 
