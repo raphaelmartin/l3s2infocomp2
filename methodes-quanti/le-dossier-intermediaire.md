@@ -11,11 +11,13 @@ Le dossier de 5 pages environ \(sans les annexes\) doit comporter les éléments
 
 ---
 
-
-
 Raphaël Martin — L2 Sociologie
 
+# Comment trouver une question de recherche / problématique?
 
+# Qu'est-ce qu'un tri à plat? un tri croisé?
+
+# Qu'est-ce qu'un recodage?
 
 
 
