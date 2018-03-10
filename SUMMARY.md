@@ -43,5 +43,7 @@
 
 * [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
 
-## Internationnalisation de la communication
+## Internationnalisation de l'information
+
+* [Syllabus](internationnalisation-de-la-communication/syllabus.md)
 
