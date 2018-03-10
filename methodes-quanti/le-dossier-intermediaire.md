@@ -35,25 +35,23 @@ Raphaël Martin — L2 Sociologie
 
 ###### in L'analyse quantitative des données — Olivier MARTIN, chapitre 2 : concevoir et préparer les variables nécessaires à l'analyse
 
-Questions, variables et modalités
+### Questions, variables et modalités
 
-Variables quali / quanti
+### Variables quali / quanti
 
-De la nécessité de recoder les variables
+### De la nécessité de recoder les variables
 
-Passer des variables aux indicateurs théoriques : les variables synthétiques
+### Passer des variables aux indicateurs théoriques : les variables synthétiques
 
 ###### chapitre 3 : un intermède : saisir la diversité des situations
 
 ###### chapitre 4 : analyser les relations entre deux variables
 
-Juger la différence entre 2 pourcentages
+### Juger la différence entre 2 pourcentages
 
-Le test du khi-deux \(khi2\)
+### Le test du khi-deux \(khi2\)
 
 ###### chapitre 5 : analyser les relations entre plusieurs variables
-
-
 
 # Qu'est-ce qu'un tri à plat? un tri croisé?
 
