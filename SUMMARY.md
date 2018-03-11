@@ -1,6 +1,6 @@
 # Summary
 
-## introduction
+## intro
 
 * [📚🧠💢](README.md)
 * [Sommaire](SUMMARY.md)
