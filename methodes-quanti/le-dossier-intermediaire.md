@@ -45,15 +45,7 @@ Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des ex
 
 > Le résultat de ce précieux exercice n'occupera que 2 à 3 lignes sur une feuilles de papier, mais il constituera le véritable point de départ de votre travail.
 
-###### _in_ Le questionnaire — François DE SINGLY, chapitre 2 : la conception du questionnaire.
-
-### Construire l'objet de l'enquête
-
-### Avoir des idées
-
-### Les deux parties d'un questionnaire
-
-###### chapitre 5 : l'exploitation du questionnaire
+###### _in_ Le questionnaire — François DE SINGLY, chapitre 5 : l'exploitation du questionnaire
 
 ### le codage
 
