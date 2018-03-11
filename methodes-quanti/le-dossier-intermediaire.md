@@ -17,7 +17,28 @@ Raphaël Martin — L2 Sociologie
 
 ###### _in_ Manuel de recherche en sciences sociales - CAMPENHOUDT, La question de départ.
 
+S'efforcer d'énoncer son projet de recherche sous la forme d'une question de départ par laquelle le chercheur tente d'exprimer le plus exactement possible ce qu'il cherche à savoir, à élucider, à mieux comprendre.
 
+##### Les critères d'une bonne question de départ :
+
+* les qualités de clarté
+
+Précision et concision de la formulation de la question de départ. VS question vague/floue. Le sens ne doit pas prêter à confusion.
+
+* la qualité de faisabilité
+
+Le caractère réaliste ou non du travail que la question laisse entrevoir. En rapport avec les ressources perso, matérielles et techniques dont on peut raisonnablement disposer.
+
+* les qualités de pertinence
+
+Concerne le registre \(descriptif, explicatif, normatif, prédictif...\) dont relève la question de départ.
+
+##### Une bonne question de départ:
+
+* vise à mieux comprendre les phénomènes étudiés et pas seulement les décrire. = "reconstituer dans l'espace de la pensée, les processus réels par lesquels les phénomènes adviennent" \(Ladrière\).
+* n'étudie pas le changement sans s'appuyer sur l'examen de ce qui existe. Elle ne vise pas à prévoir l'avenir mais peut y contribuer, et à délimiter un champ de possibilités, à saisir des évolutions ou des ruptures historiques.
+* est rigoureuse. La recherche n'est pas une démonstration dont la réponse à la question est connue d'avance. Elle doit permettre l'investigation susceptible de produire des enseignements à l'encontre des idées préconcues du chercheur.
+* ne doit pas inciter à analyser les phénomènes sociaux en fonction des résultats souhaités. Une bonne question de départ est une question ouverte \(=a priori plusieurs réponses différentes doivent pouvoir être envisagées\).
 
 ###### _in_ Le questionnaire — François DE SINGLY, chapitre 2 : la conception du questionnaire.
 
@@ -56,8 +77,6 @@ Raphaël Martin — L2 Sociologie
 ### Le test du khi-deux \(khi2\)
 
 ###### chapitre 5 : analyser les relations entre plusieurs variables
-
-
 
 # Qu'est-ce qu'un tri à plat? un tri croisé?
 
