@@ -58,9 +58,9 @@
 ## CELSA
 
 * [Bibliographie](celsa/bibliographie.md)
-* [Y-a-t-il vraiment des technologies de l'information ? — JEANNERET Yves\)](y-a-t-il-vraiment-des-technologies-de-linformation-jeanneret-yves.md)
+* [Y-a-t-il vraiment des technologies de l'information ? — JEANNERET Yves\)](celsa/y-a-t-il-vraiment-des-technologies-de-linformation-jeanneret-yves.md)
 
 ## Gobelins
 
-* [test](gobelins/bibliographie.md)
+* [Bibliographie](gobelins/bibliographie.md)
 
