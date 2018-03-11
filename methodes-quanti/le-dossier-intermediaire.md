@@ -49,6 +49,8 @@ Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des ex
 
 ### le codage
 
+Objectif: rendre visible l'action éventuelle de déterminants sociaux.
+
 ### Apprendre à lire un tableau
 
 ### La demande de tableaux
