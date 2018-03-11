@@ -10,7 +10,7 @@
 * [Introduction](introduction.md)
 * [Liberté d'expression et droit à l'information](droit-des-medias/liblib.md)
 * Régulation audiovisuelle
-* Contrôle de la publicité
+* [Contrôle de la publicité](droit-des-medias/controle-de-la-publicite.md)
 
 ## Internationalisation de l'information
 
