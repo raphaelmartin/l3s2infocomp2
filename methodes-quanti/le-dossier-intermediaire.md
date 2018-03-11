@@ -1,6 +1,6 @@
 # Le dossier intermédiaire
 
-**Thème: les trajectoires scolaires et les choixd’orientation\(UPMC–Université Paris 6\)**
+**Thème: les trajectoires scolaires et les choix d’orientation \(UPMC–Université Paris 6\)**
 
 Ce dossier a pour objectif de voir si votre dossier final est « réalisable », et il s'agit aussi d'identifier ce que vous pourrez faire avec les données dont nous disposons. Autrement dit, vous devez choisir une entrée sociologique pour étudier une partie des résultats et montrer que vous pourrez apporter des éléments de réponse à une question générale. Ce dossier nous permettra donc de vous orienter et de vous aider pour le dossier final.
 
