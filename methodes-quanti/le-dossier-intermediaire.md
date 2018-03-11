@@ -12,8 +12,6 @@ Le dossier de 5 pages environ \(sans les annexes\) doit comporter les éléments
 
 ---
 
-Raphaël Martin — L2 Sociologie
-
 # Comment trouver une question de recherche / problématique?
 
 ###### _in_ Manuel de recherche en sciences sociales - CAMPENHOUDT, La question de départ.
