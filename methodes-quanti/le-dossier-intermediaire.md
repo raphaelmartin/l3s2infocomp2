@@ -8,6 +8,7 @@ Le dossier de 5 pages environ \(sans les annexes\) doit comporter les éléments
 2. Le sujet / thème qui a été retenu pour le dossier \(sous la forme d’une question de recherche brièvement argumentée\)  
 3. Une analyse des premiers tris à plat + Une liste des questions pertinentes dans l’enquête qui serviront pour répondre à la question de recherche  
 4. Les tris croisés/croisements et les recodages envisagés pour le dossier final
+5. Rechercher des articles qui traitent de la problématique / des résultats observés
 
 ---
 
@@ -43,8 +44,6 @@ Concerne le registre \(descriptif, explicatif, normatif, prédictif...\) dont re
 Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des exigences de clarté / secundo des exigences de faisabilité / tertio des exigences de pertinence.
 
 > Le résultat de ce précieux exercice n'occupera que 2 à 3 lignes sur une feuilles de papier, mais il constituera le véritable point de départ de votre travail.
-
-
 
 ###### _in_ Le questionnaire — François DE SINGLY, chapitre 2 : la conception du questionnaire.
 
