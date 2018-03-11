@@ -40,6 +40,12 @@ Concerne le registre \(descriptif, explicatif, normatif, prédictif...\) dont re
 * est rigoureuse. La recherche n'est pas une démonstration dont la réponse à la question est connue d'avance. Elle doit permettre l'investigation susceptible de produire des enseignements à l'encontre des idées préconcues du chercheur.
 * ne doit pas inciter à analyser les phénomènes sociaux en fonction des résultats souhaités. Une bonne question de départ est une question ouverte \(=a priori plusieurs réponses différentes doivent pouvoir être envisagées\).
 
+Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des exigences de clarté / secundo des exigences de faisabilité / tertio des exigences de pertinence.
+
+> Le résultat de ce précieux exercice n'occupera que 2 à 3 lignes sur une feuilles de papier, mais il constituera le véritable point de départ de votre travail.
+
+
+
 ###### _in_ Le questionnaire — François DE SINGLY, chapitre 2 : la conception du questionnaire.
 
 ### Construire l'objet de l'enquête
