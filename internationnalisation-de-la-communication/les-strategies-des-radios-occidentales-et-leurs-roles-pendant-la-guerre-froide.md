@@ -2,7 +2,7 @@
 
 #### 
 
-#### _"Radio free Europe" et "Radio Liberty" \(1950-1994\)_ — Anne-Chantal LEPEUPLE.
+#### _"Radio free Europe" et "Radio Liberty" \(1950-1994\)_ — Anne-Chantal LEPEUPLE
 
 #### 
 
