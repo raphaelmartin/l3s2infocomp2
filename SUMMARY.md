@@ -19,6 +19,7 @@
 * [Les agences de presse : actrices centrales de l’internationalisation de l’information](internationnalisation-de-la-communication/les-agences-de-presse-actrices-centrales-de-linternationalisation-de-linformation.md)
 * [La radio dans le dispositif transnational de l’Allemagne nazie](internationnalisation-de-la-communication/la-radio-dans-le-dispositif-transnational-de-lallemagne-nazie.md)
 * [Les radios alliées pendant la WW2](internationnalisation-de-la-communication/les-radios-alliees-pendant-la-ww2.md)
+* [Les stratégies des radios occidentales et leurs rôles pendant la guerre froide](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide.md)
 
 ## Approches SIC
 
