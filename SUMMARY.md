@@ -57,6 +57,7 @@
 * [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-fede.md)
 * [Les relations israélo-palestiniennes \(1993-2001\)](analyse-du-monde-contemporain/les-relations-israelo-palestiniennes-1993-2001.md)
 * [Les nouveaux défis de l'OTAN](analyse-du-monde-contemporain/les-nouveaux-defis-de-lotan.md)
+* [L'Asie, nouvelle puissance nucléaire](analyse-du-monde-contemporain/lasie-nouvelle-puissance-nucleaire.md)
 
 ## CELSA
 
