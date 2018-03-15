@@ -1,8 +1,8 @@
 # qu'est-ce qu'une image fixe?
 
-Sémiotique des images et des textes médiatiques
-
-Qu’est-ce qu’une image fixe ?
+> Différencier les images fixes des images en mouvement en utilisant un adjectif désignant une immobilité ne signifie pas pour autant que celles-ci ne circulent pas. À travers la figure de la Madone, et ses multiples représentations, nous interrogerons les processus de figement et de stéréotypage à l’oeuvre dans la photographie de presse \(D. Ducard\). Les images se déplacent, se citent et se transforment au gré des sociétés et des actualités. Nous verrons
+>
+> que le travail d’interprétation nécessite une prise en compte du contexte de production, de diffusion et de réception. Et nous aborderons également la notion de récit \(P. Ricoeur\) : comment ces images « fixes » nous racontent des histoires \(P. Marion\) ? Nous étudierons différents procédés de mise en intrigue comme l’ellipse, la diffraction, le hors-champ, la distribution des éléments.
 
 Pourquoi, rapport dialectique entre réel, imitation, ressemblance, vérité ?
 
