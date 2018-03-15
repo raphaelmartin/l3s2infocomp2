@@ -31,6 +31,7 @@
 
 * [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
 * [Qu'est-ce qu'un mythe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-mythe.md)
+* [Qu'est-ce qu'une image fixe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quune-image-fixe.md)
 
 ## Méthodes qualitatives
 
