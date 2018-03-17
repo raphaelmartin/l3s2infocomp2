@@ -67,6 +67,8 @@ Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des ex
 
 ###### chapitre 5 : analyser les relations entre plusieurs variables
 
+# 
+
 # Qu'est-ce qu'un tri à plat? un tri croisé?
 
 ###### _in_ Le questionnaire — François DE SINGLY, chapitre 5 : l'exploitation du questionnaire
@@ -76,6 +78,8 @@ Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des ex
 ### La demande de tableaux
 
 ### L'écriture du compte-rendu
+
+# 
 
 # Qu'est-ce qu'un recodage?
 
