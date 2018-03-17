@@ -45,7 +45,25 @@ Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des ex
 
 > Le résultat de ce précieux exercice n'occupera que 2 à 3 lignes sur une feuilles de papier, mais il constituera le véritable point de départ de votre travail.
 
-###### 
+# Qu'est-ce qu'un tri à plat? un tri croisé?
+
+###### _in_ Le questionnaire — François DE SINGLY, chapitre 5 : l'exploitation du questionnaire
+
+### Apprendre à lire un tableau
+
+### La demande de tableaux
+
+### L'écriture du compte-rendu
+
+# 
+
+# Qu'est-ce qu'un recodage?
+
+###### _in_ Le questionnaire — François DE SINGLY, chapitre 5 : l'exploitation du questionnaire
+
+### le codage
+
+Objectif: rendre visible l'action éventuelle de déterminants sociaux.
 
 ###### in L'analyse quantitative des données — Olivier MARTIN, chapitre 2 : concevoir et préparer les variables nécessaires à l'analyse
 
@@ -66,28 +84,6 @@ Une bonne question de départ doit respecter 3 niveaux d'exigence : primo des ex
 ### Le test du khi-deux \(khi2\)
 
 ###### chapitre 5 : analyser les relations entre plusieurs variables
-
-# 
-
-# Qu'est-ce qu'un tri à plat? un tri croisé?
-
-###### _in_ Le questionnaire — François DE SINGLY, chapitre 5 : l'exploitation du questionnaire
-
-### Apprendre à lire un tableau
-
-### La demande de tableaux
-
-### L'écriture du compte-rendu
-
-# 
-
-# Qu'est-ce qu'un recodage?
-
-###### _in_ Le questionnaire — François DE SINGLY, chapitre 5 : l'exploitation du questionnaire
-
-### le codage
-
-Objectif: rendre visible l'action éventuelle de déterminants sociaux.
 
 ### 
 
