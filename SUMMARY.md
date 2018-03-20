@@ -12,6 +12,7 @@
 * [Liberté d'expression et droit à l'information](droit-des-medias/liblib.md)
 * [Régulation audiovisuelle](droit-des-medias/regulation-audiovisuelle.md)
 * [Contrôle de la publicité](droit-des-medias/controle-de-la-publicite.md)
+* [Déontologie](droit-des-medias/deontologie.md)
 
 ## Internationalisation de l'information
 
