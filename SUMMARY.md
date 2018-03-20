@@ -12,7 +12,7 @@
 * [Liberté d'expression et droit à l'information](droit-des-medias/liblib.md)
 * [Régulation audiovisuelle](droit-des-medias/regulation-audiovisuelle.md)
 * [Contrôle de la publicité](droit-des-medias/controle-de-la-publicite.md)
-* [Déontologie](droit-des-medias/deontologie.md)
+* [Déontologie des journalistes](droit-des-medias/deontologie.md)
 
 ## Internationalisation de l'information
 
@@ -45,6 +45,7 @@
 * [Les méthodes en sociologie : l'observation — Henri PERETZ](methodes-qualitatives/les-methodes-en-sociologie-lobservation-henri-peretz.md)
 * [méthode de l'entretien](methodes-qualitatives/methode-de-lentretien.md)
 * [Corpus thématique](methodes-qualitatives/corpus-thematique.md)
+* La culture des individus — LAHIRE
 
 ## Méthodes quantitatives
 
