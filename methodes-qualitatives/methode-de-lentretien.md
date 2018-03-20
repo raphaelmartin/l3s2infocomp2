@@ -153,5 +153,33 @@ Instrument dans lequel articuler différents thèmes sous la forme de questions 
 
 Lire le texte de Bourdieu. Tester ses hypothèses. Existe-t-il une culture jeune qui transcende la culture de classe?
 
+_guide:_ thématique sur lesquelles vous voulez que votre interlocuteur vous renseigne ,il ne doit pas être détaillé , il se résume à des thématiques
+
+_organisation du guide d'enquête_: Kaufmann insiste sur le caractère logique à respecter dans la suite de question, le guide s'organise à partir:
+
+* d'un préambule \(doit susciter une adhésion\)
+* d'une consigne de départ
+* de thème \(trame de l'enquete\)
+* des opérateurs \(sous-thèmes\)
+* des indicateurs \(éléments précis à connaître\)
+* stratégies d'écoute et d'intervention \(recentrer le débat, relance\)
+
+Ce qui doit être dit dans le préambule = tps de l'enquête, enquête anonymisée, confidentialité
+
+Constitution d'un guide thématique formalisé = définir les grands thèmes qui structurent le guide, transformation de vos interrogations \(hypothèses\) en questionnement opérationnel
+
+Une enquête ne s'improvise pas et nécessite de la préparation, voici quelques conseils de Beaud et Weber:
+
+* se récapituler par avance ce que vous savez sur votre interviewé \(pour avoir une image précise de l'individu, permet de réfléchir sur les infos complémentaires, réfléchir sur les stratégies de relance
+* préparer la liste des thèmes
+* contrôler le matériel d'enregistrement
+* mettre les interviewés en confiance
+* un entretien se négocie: négocier la temporalité, le déroulement de l'entretien, le poids de la recommandation, faire preuve de légitimité au regard de l'interviewé, légitimé la question posée et légitimer l'interviewé
+* préparer un discours de présentation de soi
+* préparer discours de présentation de la recherche
+* préparer discours légitimant l'entretien avec cet interlocuteur
+
+ex: travaux sur la bourgeoisie de Pincon-Charlot, pour eux, la recommandation est indispensable pour le déroulement de l'entretien, forte importance du parainnage
+
 
 
