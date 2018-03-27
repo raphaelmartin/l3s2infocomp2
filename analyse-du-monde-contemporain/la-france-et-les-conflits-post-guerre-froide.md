@@ -8,17 +8,23 @@
 
 ## Les conflits post-Guerre Froide
 
-1. Les conflits périphériques des années 90
+* Les conflits périphériques des années 90
 
-Pourquoi intervenir?  
-des interventions limitées mais complexes: l’exemple de la Bosnie \(92-96\)
+1. Pourquoi intervenir?
+2. Des interventions limitées mais complexes: l’exemple de la Bosnie \(92-96\)
+3. Les leçons tirées et le nouveau modèle de gestion de crise
 
-Les leçons tirées et le nouveau modèle de gestion de crise
+* 2002-2012 : guerres tropicales, remèdes européens?
 
-2. 2002-2012 : guerres tropicales, remèdes européens?
+1. RCI: une crise inattendue \(2002-2011\)
+2. Les tentatives européennes au secours de l’Afrique \(2003- aujourd’hui\)
+3. L’intervention en Libye et le_ lead from behind_ US\(2011\)
 
-RCI: une crise inattendue \(2002-2011\)  
-Les tentatives européennes au secours de l’Afrique \(2003- aujourd’hui\) ’intervention en Libye et lelead from behind US\(2011\)
+* Durcissement des conflits et le nouvel équilibre des puissances \(2005- 15\)
 
-3. Durcissement des conflits et le nouvel équilibre des puissances \(2005- 15\)
+1. L’Afghanistan et le retour de la guerre
+2. Serval ou l’Afghanistan aux portes de l’Europe
+3. L’Irak et la Syrie : retour des puissances régionales & nouvelles formes de guerre
+
+
 
