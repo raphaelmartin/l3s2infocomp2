@@ -1,7 +1,5 @@
 # Syllabus TD
 
-![](blob:https://www.gitbook.com/898e4777-c00d-4cf5-9dee-ec0815eb7b9c "page4image1648368")
-
 | **Introduction à l’étude des signesRegard, lecture, esprit critique : des bancs de l’université à une pratique quotidienne** |
 | :--- |
 | -DE SAUSSURE Ferdinand,Cours de linguistique générale, 1967 \[1916\], p. 97-103. -ECO Umberto, « Avant propos », dansLe signe, 1988. -FRESNAULT-DERUELLE Pierre, « Pour l'analyse des images »,Communication et langages, n°147, 2006, p. 3-14. |
