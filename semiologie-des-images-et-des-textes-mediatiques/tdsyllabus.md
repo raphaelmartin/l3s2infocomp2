@@ -1,6 +1,6 @@
 # Syllabus TD
 
-| **Introduction à l’étude des signesRegard, lecture, esprit critique : des bancs de l’université à une pratique quotidienne** |
+| **Introduction à l’étude des signes Regard, lecture, esprit critique : des bancs de l’université à une pratique quotidienne** |
 | :--- |
 | -DE SAUSSURE Ferdinand,Cours de linguistique générale, 1967 \[1916\], p. 97-103. -ECO Umberto, « Avant propos », dansLe signe, 1988. -FRESNAULT-DERUELLE Pierre, « Pour l'analyse des images »,Communication et langages, n°147, 2006, p. 3-14. |
 | **Le diable est dans les détails L’art de l’indice dans les réalisations de David Fincher** |
