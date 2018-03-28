@@ -36,7 +36,8 @@
 * [Qu'est-ce qu'un mythe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-mythe.md)
 * [Qu'est-ce qu'une image fixe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quune-image-fixe.md)
 * [Les images et les textes sont-ils des actes ?](semiologie-des-images-et-des-textes-mediatiques/les-images-et-les-textes-sont-ils-des-actes.md)
-* [TD\_syllabus](semiologie-des-images-et-des-textes-mediatiques/tdsyllabus.md)
+* [TD](semiologie-des-images-et-des-textes-mediatiques/tdsyllabus.md)
+  * [Roland Barthes et les mythologies. Travail collectif sur des mythes contemporains](semiologie-des-images-et-des-textes-mediatiques/tdsyllabus/roland-barthes-et-les-mythologies-travail-collectif-sur-des-mythes-contemporains.md)
 
 ## Méthodes qualitatives
 
