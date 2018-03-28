@@ -32,7 +32,7 @@
 
 * [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
 * [Qu'est-ce qu'un signe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-signe.md)
-* Qu'est-ce qu'un détail?
+* [Qu'est-ce qu'un détail?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-detail.md)
 * [Qu'est-ce qu'un mythe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-mythe.md)
 * [Qu'est-ce qu'une image fixe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quune-image-fixe.md)
 * [Les images et les textes sont-ils des actes ?](semiologie-des-images-et-des-textes-mediatiques/les-images-et-les-textes-sont-ils-des-actes.md)
