@@ -49,11 +49,9 @@ Qu’est-ce qu’une photographie ?
 
 Échelles de plans \(distance sujet/objectif\), profondeur de champ \(distance premier/dernier plan\), angles de vue \(place caméra\), axe de prise de vue \(position caméra par rapport au sujet\).
 
-Plan italien \(genoux\), plan américain \(mi-cuisse\), plan rapproché épaules \(haut du buste\) : volonté de valoriser des détails, le général ou le particulier![](/assets/Capture d’écran 2018-03-15 à 15.35.11.png)
+Plan italien \(genoux\), plan américain \(mi-cuisse\), plan rapproché épaules \(haut du buste\) : volonté de valoriser des détails, le général ou le particulier
 
 “La fille à la fleur”, 1967. Manifestation contre la guerre du Vietnam. “Kim Phuc brûlée au napalm”Nick Ut, 1972.
-
-![](/assets/Capture d’écran 2018-03-15 à 15.35.55.png)
 
 **La Madone de Benthala**
 
@@ -81,8 +79,6 @@ Différence **récit / histoire / narration**. La prof raconte sa journée en
 
 Toutes les images ne sont pas porteuses de récit mais peuvent en porter.
 
-![](/assets/Capture d’écran 2018-03-15 à 15.36.03.png)![](/assets/Capture d’écran 2018-03-15 à 15.36.07.png)
-
 Longue tradition de création de récit à des images dans la religion catholique. Triptyque du Jardin des Délices, Jérôme Bosch.
 
 travers
@@ -95,8 +91,6 @@ La disposition des personnages est également utilisée par les artistes et cr
 
 La Chute d’Icare, le tableau ne montre que très peu Icare, dont on voit la jambe émergeant de la mer, qui se noie. Pieter Brueghel l’Ancien. Il faut connaître le mythe, et chercher avec attention, pour comprendre le tableau correctement et en déceler le sens et la visée : montrer qu’il meurt dans l’indifférence générale ?
 
-![](/assets/Capture d’écran 2018-03-15 à 15.36.12.png)
-
 La Sonnette,Robert Doisneau \(1934\).  
 L’enfant sonne, le groupe semble se préparer à fuir. On a tous les éléments de contexte pour faire la mise en récit, et imaginer la suite. On nous raconte quelque chose, car on peut l’identifier, ayant les références nécessaires \(sonnette, etc\). Pour celui qui ne le peut pas, l’image et fixe et on ne peut contextualiser.
 
@@ -104,8 +98,6 @@ Que voit-on dans l’image ? Ce qui est dénoté.
 Que signifie ce qu’on voit dans l’image ? Ce qui est connoté.
 
 Toute connotation est interprétation, lecture extensive des éléments. On ne peut se passer totalement de connotation.
-
-![](/assets/Capture d’écran 2018-03-15 à 15.36.17.png)
 
 Case de Tintin dans le désert,Le crabe aux pinces d’or, distribution des personnages en 4 séquences de l’image en question \(Haddock, tireur embusqué, tireur hésitant, tireurs en fuite\)
 
@@ -122,8 +114,6 @@ Culture de l’affiche imprimée de longue date, corrélée à une publiphob
 * * Aussi reprise transformée d’énoncés bien connus issus de la littérature merveilleuse
 * * Reprise de motifs iconiques renvoyant à des univers fictionnels et magiques
 * * Emploi de la formule inaugurale du conte de fées : “il était une fois”.
-
-![](/assets/Capture d’écran 2018-03-15 à 15.36.23.png)
 
 Chez Fraysse, rue de Seine.Photographie de Doisneau \(1958\). De nombreuses lectures possibles.
 
