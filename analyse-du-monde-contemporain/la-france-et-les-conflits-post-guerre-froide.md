@@ -15,12 +15,12 @@
 * Pourquoi intervenir?
 
 * Des interventions limitées mais complexes: l’exemple de la Bosnie \(92-96\)
+
 * Les leçons tirées et le nouveau modèle de gestion de crise
 
-* 2002-2012 : guerres tropicales, remèdes européens?
+**2002-2012 : guerres tropicales, remèdes européens?**
 
-##### RCI: une crise inattendue \(2002-2011\)
-
+* RCI : une crise inattendue 
 * Les tentatives européennes au secours de l’Afrique \(2003- aujourd’hui\)
 * L’intervention en Libye et le_ lead from behind_ US\(2011\)
 
@@ -29,6 +29,7 @@
 * L’Afghanistan et le retour de la guerre
 
 * Serval ou l’Afghanistan aux portes de l’Europe
+
 * L’Irak et la Syrie : retour des puissances régionales & nouvelles formes de guerre
 
 
