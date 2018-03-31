@@ -62,15 +62,15 @@ La spécificité de l'observation, c'est de pouvoir saisir _en même temps_ diff
 
 Le questionnement théorique qui fonde la recherche oriente le regard. Des choix s'opèrent, on regarde cette personne plutôt que telle autre... Plutôt que de prétendre éviter la subjectivité, parvenir à l'analyser = garder la trace des choix que l'on a fait.
 
-L'observation ne fait pas qu'appel aux yeux mais à tous nos sens. Comme l'audition, l'observation recueille la parole des acteurs en situation_s_. Chercher le sens des expressions, mots non dans une déf. mais dans leurs usages concrets, contexte immédiat.
+L'observation ne fait pas qu'appel aux yeux mais à tous nos sens. Comme l'audition, l'observation recueille la parole des acteurs en situation_s_. Chercher le sens des expressions non dans une déf. mais dans leurs usages concrets, contexte immédiat.
 
 ###### Le journal de terrain et le compte rendu
 
 Un journal de terrain est un texte lourd, désordonné et répétitif. A terme, il est supposé refléter jusqu'à la nausée la "saturation" du terrain.
 
-La refléxivité doit se faire épidémique plutôt que narcissique = analyser notre subjectivité de chercheur pour mieux connaître l'objet de recherche.
+La refléxivité doit se faire épistémique plutôt que narcissique = analyser notre subjectivité de chercheur pour mieux connaître l'objet de recherche.
 
-Comment ordonner analyse et récit ethnographiques dans un compte rendu d'enquête ARBORIO et FOURNIER proposent 3 méthodes:
+Comment ordonner analyse et récit ethnographiques dans un compte rendu d'enquête? ARBORIO et FOURNIER proposent 3 méthodes:
 
 1. la description ordonnée : reconstruction à partir d'une multitude d'obs. du déroulement d'un processus
 2. raisonnement illustré : juxtaposer des paragraphes d'analyse avec des extraits de journal de terrain.

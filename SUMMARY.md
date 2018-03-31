@@ -42,14 +42,15 @@
 ## Méthodes qualitatives
 
 * [Syllabus](methodes-qualitatives/syllabus.md)
-* [L'observation directe — Chauvin/Jounin](methodes-qualitatives/lobservation-directe-chauvinjounin.md)
-* [L'usage de l'entretien en sciences sociales — BEAUD](methodes-qualitatives/lusage-de-lentretien-en-sciences-sociales-beaud.md)
-* [l’Entretien — Alain Blanchet](methodes-qualitatives/lentretien-alain-blanchet.md)
+* [CHAUVIN/JOUNIN — L'observation directe](methodes-qualitatives/lobservation-directe-chauvinjounin.md)
+* [ARBORIO/FOURNIER — L'observation directe](methodes-qualitatives/arboriofournier-lobservation-directe.md)
+* [PERETZ — Les méthodes en sociologie : l'observation](methodes-qualitatives/les-methodes-en-sociologie-lobservation-henri-peretz.md)
+* [BEAUD — L'usage de l'entretien en sciences sociales](methodes-qualitatives/lusage-de-lentretien-en-sciences-sociales-beaud.md)
+* [BLANCHET — L'entretien](methodes-qualitatives/lentretien-alain-blanchet.md)
+* [LAHIRE — La culture des individus](methodes-qualitatives/lahire-la-culture-des-individus.md)
 * [Culture de jeunes ou culture de classe ?](methodes-qualitatives/problematique-culture-de-jeunes-ou-culture-de-classe.md)
 * [COULANGEON/BOURDIEU](methodes-qualitatives/fiches-coulangeonbourdieu.md)
-* [PERETZ — Les méthodes en sociologie : l'observation](methodes-qualitatives/les-methodes-en-sociologie-lobservation-henri-peretz.md)
 * [méthode de l'entretien](methodes-qualitatives/methode-de-lentretien.md)
-* [Corpus thématique](methodes-qualitatives/corpus-thematique.md)
 * [LAHIRE — La culture des individus](methodes-qualitatives/lahire-la-culture-des-individus.md)
 
 ## Méthodes quantitatives
