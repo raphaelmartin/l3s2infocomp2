@@ -47,11 +47,20 @@ Elle risque de confiner l'enquêteur à son rôle de "participant":
 
 ###### L'observation, méthode "qualitative"?
 
+Il n'y a pas grand sens à demander à une observation d'être "représentative" ≠ logique de l'échantillon car:
 
+1. c'est précisément son caractère particulier qui en fait l'intérêt, un milieu situé dans le temps l'espace.
+2. on peut par la suite, en resituant le cas, le comparer à d'autres
+
+L'observation peut se prêter à des formes de systématisation et de comptage. PENEFF: "Le recensement des actes et des interactions, le comptage des gestes, des malades, du temps, des parcours \[...\], tout peut se mesurer". BECKER: "quasi-statistiques".
+
+La spécificité de l'observation, c'est de pouvoir saisir _en même temps_ différentes dimensions du social \(actions des individus, discours des individus sur les actions\)... Accumuler un matériau dont l'hétérogénéité, loin d'être un frein, serait un point de départ pour l'analyse.
 
 ### Les techniques
 
 ###### Comment et quoi observer?
+
+Le questionnement théorique qui fonde la recherche oriente le regard. Des choix s'opèrent, on regarde cette personne plutôt que telle autre... Plutôt que de prétendre éviter la subjectivité, parvenir à l'analyser = garder la trace des choix que l'on a fait.
 
 ###### La collecte des données
 
