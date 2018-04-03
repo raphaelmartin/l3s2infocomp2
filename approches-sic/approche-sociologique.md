@@ -26,13 +26,13 @@ Origine de l'expression
 
 4. L'aspect **idéologique**
 
-B. La communication comme contrôle social : propagande militaire, politique, commerciale
+###### B. La communication comme contrôle social : propagande militaire, politique, commerciale
 
 1. les conditions d'émergence et de succès de la propagande
 2. les grandes techniques de persuasion
 3. La démocratie ou le "régime du convaincre"
 
-C. Les effets des médias
+###### C. Les effets des médias
 
 1. Le paradigme des effets directs et puissants
 2. De la "masse" à l'épaisseur du social...
