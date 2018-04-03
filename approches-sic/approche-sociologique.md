@@ -35,6 +35,8 @@ B. La communication comme contrôle social : propagande militaire, politique, co
 C. Les effets des médias
 
 1. Le paradigme des effets directs et puissants
+2. De la "masse" à l'épaisseur du social...
+3. L'influence prédominante des groupes primaires
 
 
 
