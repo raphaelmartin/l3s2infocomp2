@@ -6,7 +6,7 @@
 
 Origine de l'expression
 
-4 fondement de la société de la communication
+_4 fondements de la société de la communication_
 
 1. L'aspect **politique et culturel**
 
