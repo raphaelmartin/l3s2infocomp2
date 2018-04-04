@@ -1,7 +1,5 @@
 # Approche sociologique
 
-#### 
-
 #### I\) La communication et les médias : des « masses » aux relations sociales
 
 ###### A/ La « société de communication » : réalité, utopie et paradoxe
