@@ -45,11 +45,13 @@ manipulation symbolique - art de la persuasion - effets importants - spécialist
 
 Gustave LE BON La psychologie des foules - psychologie béhavioriste PAVLOV - stimulus - TCHAKHOTINE - seringue hypodermique Lasswell - effets puissants VS Two-step flow LAZARSFELD KATZ
 
-1. De la "masse" à l'épaisseur du social...
+2. De la "masse" à l'épaisseur du social...
 
-Détermination sociale de la perception du jugement - expérience de Muzafer SHERIF 1935 - autocinétique - pression au conformisme - la tyrannie de la majorité PASQUIER - The people's choice LAZARSFELD - groupes primaires - spirale du silence - Personal influence KATZ & LAZARSFELD - effets indirects ou faibles des médias.
+Détermination sociale de la perception du jugement - expérience de Muzafer SHERIF 1935 - autocinétique - pression au conformisme - la tyrannie de la majorité PASQUIER
 
-1. L'influence prédominante des groupes primaires
+3. L'influence prédominante des groupes primaires
+
+- The people's choice LAZARSFELD - groupes primaires - spirale du silence - Personal influence KATZ & LAZARSFELD - effets indirects ou faibles des médias.
 
 Mais on parle ici des effets à court terme, on ne peut pas exclure l'hypothèse d'effets réels sur le long terme des médias.
 
