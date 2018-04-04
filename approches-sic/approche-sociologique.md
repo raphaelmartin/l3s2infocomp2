@@ -51,7 +51,7 @@ Détermination sociale de la perception du jugement - expérience de Muzafer SHE
 
 * L'influence prédominante des groupes primaires
 
-The people's choice LAZARSFELD - groupes primaires - spirale du silence - Personal influence KATZ & LAZARSFELD - effets indirects ou faibles des médias.
+The people's choice LAZARSFELD - groupes primaires - spirale du silence - exposition séléctive - Personal influence KATZ & LAZARSFELD - relations interpersonnelles - 2-step-flow of communication - effets indirects ou faibles des médias.
 
 Mais on parle ici des effets à court terme, on ne peut pas exclure l'hypothèse d'effets réels sur le long terme des médias.
 
