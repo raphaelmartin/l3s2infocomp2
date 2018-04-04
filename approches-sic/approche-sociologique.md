@@ -37,7 +37,7 @@ origine de l'expression - médias de masse/pouvoir politique - type de propagand
 1. les grandes techniques de persuasion
 2. La démocratie ou le "régime du convaincre"
 
-manipulation symbolique - art de la persuasion - effets importants - spécialistes en communication - sondeurs d'opinion
+manipulation symbolique - art de la persuasion - effets importants - spécialistes en communication - sondeurs d'opinion - opinion publique - effet de verdict - photographies retouchées.
 
 ###### C. Les effets des médias
 
@@ -47,7 +47,7 @@ Gustave LE BON La psychologie des foules - psychologie béhavioriste PAVLOV - st
 
 1. De la "masse" à l'épaisseur du social...
 
-Détermination sociale de la perception du jugement - expérience de Muzafer SHERIF 1935 - autocinétique - pression au conformisme - la tyrannie de la majorité PASQUIER - The people's choice LAZARSFELD - groupes primaires - spirale du silence - Personal influence KATZ & LAZARSFELD - effets indirects ou faibles des médias. 
+Détermination sociale de la perception du jugement - expérience de Muzafer SHERIF 1935 - autocinétique - pression au conformisme - la tyrannie de la majorité PASQUIER - The people's choice LAZARSFELD - groupes primaires - spirale du silence - Personal influence KATZ & LAZARSFELD - effets indirects ou faibles des médias.
 
 1. L'influence prédominante des groupes primaires
 
