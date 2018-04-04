@@ -6,6 +6,10 @@
 
 Origine de l'expression
 
+Les Lumières - Habermas -  espace public - publicité 
+
+fin 40s - cybernétique - déterminisme - nouvelle société - autoroute de l'information - société de communication
+
 _4 fondements de la société de la communication_
 
 1. L'aspect **politique et culturel**
