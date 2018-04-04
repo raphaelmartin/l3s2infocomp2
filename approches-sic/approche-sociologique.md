@@ -6,7 +6,7 @@
 
 Origine de l'expression
 
-Les Lumières - Habermas -  espace public - publicité 
+Les Lumières - Habermas -  espace public - publicité
 
 fin 40s - cybernétique - déterminisme - nouvelle société - autoroute de l'information - société de communication
 
@@ -31,14 +31,25 @@ _4 fondements de la société de la communication_
 ###### B. La communication comme contrôle social : propagande militaire, politique, commerciale
 
 1. les conditions d'émergence et de succès de la propagande
-2. les grandes techniques de persuasion
-3. La démocratie ou le "régime du convaincre"
+
+origine de l'expression - médias de masse/pouvoir politique - type de propagande \(militaire, politique, comm.\).
+
+1. les grandes techniques de persuasion
+2. La démocratie ou le "régime du convaincre"
+
+manipulation symbolique - art de la persuasion - effets importants - spécialistes en communication - sondeurs d'opinion
 
 ###### C. Les effets des médias
 
 1. Le paradigme des effets directs et puissants
-2. De la "masse" à l'épaisseur du social...
-3. L'influence prédominante des groupes primaires
 
+Gustave LE BON La psychologie des foules - psychologie béhavioriste PAVLOV - stimulus - TCHAKHOTINE - seringue hypodermique Lasswell - effets puissants VS Two-step flow LAZARSFELD KATZ
 
+1. De la "masse" à l'épaisseur du social...
+
+Détermination sociale de la perception du jugement - expérience de Muzafer SHERIF 1935 - autocinétique - pression au conformisme - la tyrannie de la majorité PASQUIER - The people's choice LAZARSFELD - groupes primaires - spirale du silence - Personal influence KATZ & LAZARSFELD - effets indirects ou faibles des médias. 
+
+1. L'influence prédominante des groupes primaires
+
+Mais on parle ici des effets à court terme, on ne peut pas exclure l'hypothèse d'effets réels sur le long terme des médias.
 
