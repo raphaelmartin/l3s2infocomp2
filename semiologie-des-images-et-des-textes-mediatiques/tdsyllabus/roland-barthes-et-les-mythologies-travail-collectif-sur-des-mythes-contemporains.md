@@ -2,6 +2,14 @@
 
 #### TEXTE 1 — Mythologies / BARTHES
 
+###### Iconographie de l'abbé Pierre
+
+###### Publicité de la profondeur
+
+###### Photos-chocs
+
+###### Astrologie
+
 #### TEXTE 2 — Petits arrangements avec les mythes / Frédéric LAMBERT
 
 ###### le naturel comme alibi
