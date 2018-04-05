@@ -4,9 +4,21 @@
 
 #### TEXTE 2 — Petits arrangements avec les mythes / Frédéric LAMBERT
 
+###### le naturel comme alibi
+
 Le mythe pour Roland Barthes est consommé naïvement, il prend l'aspect de vérité. C'est pourquoi il dénonce les médias, véhicule de nos mythes. La sémiologie se veut militante, le sémiologue traque l'abus. Noble bataille mais que LAMBERT souhaite adoucir. "Si les mythes sont des monstres, le temps qui les produit et le temps de l'écoute savent prendre leurs distances et leurs précautions. Le mythe n'est ni universel, ni éternel. Circonscrit à la société qui le partage et le réinvente chaque jour.
 
 La croyance pour LAMBERT, c'est l'adhésion provisoire et nécessaire aux récits que l'on se fait pour que nos histoires tiennent debout. Elle est provisoire et circonscrite à une culture. Le mythe est un objet vivant qui prend les formes qui conviennent aux goûts du jour.
+
+###### les Grecs ont-ils cru à leurs mythes? Demandez le programme
+
+VEYNE, la théorie du doute: les hommes ne trouvent pas la vérité: ils la font, comme ils font leur histoire, et elles le leur rendent bien. Il faut refuser la croyance de l'autre comme acquise, mais la considérer comme un petit arrangement entre lui et sa société.
+
+"Les Grecs, croient et ne croient pas à leurs mythes: il y croient mais il s'en servent et ils cessent d'y croire là où il n'y ont plus d'intérêt". VEYNE parle alors de mauvaise foi.
+
+Ainsi, pour parvenir à leurs fins, les société parviennent à leurs vérités, et pour parvenir à leurs vérités, les sociétés s'inventent des mythes. NIETZSCHE: "la vérité est que la vérité varie". Vérité fille de l'imagination: c'est nous qui fabriquons nos vérités et ce n'est pas la réalité qui nous fait croire.
+
+###### le mythe comme allégorie et déformation de la vérité historique
 
 #### TEXTE 3 — Roland Barthes par Roland Barthes
 
