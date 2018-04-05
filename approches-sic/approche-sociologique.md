@@ -28,6 +28,10 @@ _4 fondements de la société de la communication_
 
 4. L'aspect **idéologique**
 
+_**Une société de communication? - Erik NEVEU**_
+
+résumé&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+
 ###### B. La communication comme contrôle social : propagande militaire, politique, commerciale
 
 1. les conditions d'émergence et de succès de la propagande
