@@ -20,6 +20,24 @@ Ainsi, pour parvenir à leurs fins, les société parviennent à leurs vérités
 
 ###### le mythe comme allégorie et déformation de la vérité historique
 
+Qu'est-ce que le mythe? Pour le philosophe, une allégorie de vérités philo. Pour l'historien, une légère déformation des vérités historiques. Il se donnait sur la scène publique chez les classiques, il se cache chez les modernes.
+
+Aujourd'hui, le mythe est un récit partagé, il prend la forme d'un récit singulier et cache sa narration exemplaire sous l'épaisseur d'une vérité documentée. "le mythe est donc cette matière vivante qui prend la forme que la tribu veut donner à ses vérités, afin de pouvoir y croire".
+
+###### Journalistes, historiens, mythologues, même combat : les sources
+
+Pour tout récit qui s'adresse à la collectivité devrait-on disposer de ses origines. De quelle histoire sociale, politique ou économique s'inspire celui qui s'approprie les récits qui réunissent?
+
+###### Foule enfantine
+
+Les collectifs contemporains sont supposés dociles face aux récits médiatiques. "La foule indigne croit tout digne de foi". La foule, l'audience, la masse... est ce paradigme de la réception collectique que nous imaginons, où le croyant et le participant confondraient le vrai du faux.
+
+Le mythe se réclame à la fois de l'histoire et de la fiction. Les Grecs savaient cette double matière de leurs mythes qui installaient le croyant dans le confort de ses horizons culturels, politiques, économiques.
+
+Il en va de même aujourd'hui, nos mythes sont fait d'authentiques images scénarisées, et de fictions authentifiées pour que leurs supposées vérités nous rencontrent.
+
+##### A qui profitent la croyance?
+
 #### TEXTE 3 — Roland Barthes par Roland Barthes
 
 Les coulisses de _Mythologies_. Année 1956. La postface sera finalement un texte théorique. Barthes dénonce la distorsion idéologique, la tentative de faire passer comme naturel ce qui est en fait profondément culturel. Faire passer pour inné ce qui est acquis.
