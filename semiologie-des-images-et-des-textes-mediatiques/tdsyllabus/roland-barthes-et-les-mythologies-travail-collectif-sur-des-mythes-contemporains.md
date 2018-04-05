@@ -36,7 +36,11 @@ Le mythe se réclame à la fois de l'histoire et de la fiction. Les Grecs savaie
 
 Il en va de même aujourd'hui, nos mythes sont fait d'authentiques images scénarisées, et de fictions authentifiées pour que leurs supposées vérités nous rencontrent.
 
-##### A qui profitent la croyance?
+###### A qui profitent la croyance?
+
+Retenons 2 questions : A qui profite que l'on croit? Quelle égalité des chances face au croire? Lâcheté, stratégie de l'autruche et abandon de ses convictions, riment avec nécessité, adaptation et respect de l'ordre. Bonne foi et mauvaise foi sont soeurs jumelles.
+
+Tolérance face au croire de l'autre que naît pour partie la culture de la démocratie. Aujd, nos démocraties font régner l'ordre des réalités, les faits avérés de l'actualité, et les reconstruisent aussitot sous les formes de la fiction, sous celles aussi de la communication et de la publicité. "Les médias des démocraties libérales, en faisant du réel un spectacle, de l'information une fiction, laissent planer un doute. Cette libre circulation de nos récits entre formes fictionnelles et formes factuelles est la configuration constituée de nos croyances".
 
 #### TEXTE 3 — Roland Barthes par Roland Barthes
 
