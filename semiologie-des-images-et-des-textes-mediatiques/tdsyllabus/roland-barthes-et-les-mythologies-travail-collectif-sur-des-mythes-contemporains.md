@@ -4,7 +4,13 @@
 
 ###### Iconographie de l'abbé Pierre
 
+"la neutralité finit par fonctionner comme signe de la neutralité" / "une société qui consomme si avidement l'affiche de la charité qu'elle en oublie..." / "si l'iconographie de l'abbé Pierre n'est pas l'alibi pour substituer impunément les signes de la charité à la réalité de la justice".
+
+=&gt; la société se sert du mythe pour se raconter un mensonge, se divertir des réalités froides. Elle "consomme" avec avidité les signes comme stratégie. Le mythe est ici utilitaire : il sert à ne pas nous interroger sur les mécanismes de la justice, comment se forme la pauvreté, quelles solutions politiques etc...
+
 ###### Publicité de la profondeur
+
+La publicité des produits de beauté / l'idée de profondeur \(derme puis épiderme\) / 
 
 ###### Photos-chocs
 
