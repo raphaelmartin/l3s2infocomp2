@@ -85,5 +85,25 @@ Ces diverses analyses, souvent un témoignage passionnant sur la première moiti
 
 ### Le mythe, aujourd'hui
 
+###### le mythe est une parole
+
+le mythe est un système de communication, c'est un message, un mode de signification, une FORME. Tout peut être mythe. Cette parole peut être autre chose que de l'oral : discours, photo, cinéma, sport, spectacle, publicité...
+
+###### le mythe comme système sémiologique
+
+La sémiologie est une sciences formes puisqu'elle étudie des significations indépendamment de leur contenu.
+
+De la mythologie, elle fait partie à la fois de la sémiologie comme science formelle et de l'idéologie comme science historique : elle étudie des idées-en-forme.
+
+Toute sémiologie postule un rapport entre 2 termes : un signifiant et un signifié. Ce rapport porte sur des objets d'ordre différent, pas une égalité mais une équivalence. Le signifiant n'exprime pas le signifié car nous avons affaire à 3 termes différents:
+
+* le signifié
+* le signifiant
+* le signe: total associatif des 2 termes
+
+Le mythe est un système sémiologique second. Ce qui est signe dans le premier système devient simple signifiant dans le second.
+
+
+
 
 
