@@ -22,6 +22,8 @@ Il ne suffit pas au photographe de nous signifier l'horrible pour que nous l'ép
 
 ###### Astrologie
 
+La semaine astrologique dans Elle / description réaliste d'un milieu social précis, les lectrices du journal / "elle reste institution du réel devant la conscience de ses lectrices / cette pure description, loin de servir à s'évader, sert à exorciser le réel en le nommant. Objective le réel sans pour autant le démystifier / nommer le vécu / l'astrologie et la littérature ont la même tâche d'institution du réel, l'astrologie est la littérature du monde petit-bourgeois.
+
 #### TEXTE 2 — Petits arrangements avec les mythes / Frédéric LAMBERT
 
 ###### le naturel comme alibi
