@@ -70,7 +70,7 @@ Les coulisses de _Mythologies_. Année 1956. La postface sera finalement un text
 
 Le ce-qui-va-de-soi
 
-> Je souffrais de voir à tout moment confondues dans le récit de notre actualité Nature et Histoire, et je voulais ressaisir dans l'exposition décorative de ce-qui-va-de-si, l'abus idéologique qui, à mon sens, s'y trouve caché.
+> Je souffrais de voir à tout moment confondues dans le récit de notre actualité Nature et Histoire, et je voulais ressaisir dans l'exposition décorative de ce-qui-va-de-soi, l'abus idéologique qui, à mon sens, s'y trouve caché.
 
 le mythe peux avoir au moins 2 sens:
 
