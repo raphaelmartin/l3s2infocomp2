@@ -10,9 +10,15 @@
 
 ###### Publicité de la profondeur
 
-La publicité des produits de beauté / l'idée de profondeur \(derme puis épiderme\) / 
+La publicité des produits de beauté / l'idée de profondeur \(derme puis épiderme\) / "le vrai drame c'est le conflit de 2 substances ennemies" / l'eau et la graisse / "conjonction miraculeuse des liquides ennemis" / "imposer la conviction heureuse que les graisses sont véhicule d'eau"
+
+=&gt; le mythe permet là de faire passer une image ordinairement contradictoire \(le mariage de l'eau et l'huile\) en quelque chose de naturel, grâce à la publicité.
 
 ###### Photos-chocs
+
+Il ne suffit pas au photographe de nous signifier l'horrible pour que nous l'éprouvions / la photographie littérale introduit au scandale de l'horreur, non à l'horreur elle-même / un signe pur / réduite à l'état de pure langage, la photographie ne nous désorganise pas / lisibilité parfaite vs épaisseur de l'ambiguïté.
+
+=&gt; la signification ne se laisse pas apprivoiser. Quand on veut signifier le choc, la violence, on rate souvent sa cible. Trop intentionnel, trop exact, la photo ne fait pas "naturel". Le photographe transfert alors au signe un: "regardez comme c'est choquant" au lieu de transférer au signe **le choc** lui même.
 
 ###### Astrologie
 
