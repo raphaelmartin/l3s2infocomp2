@@ -95,7 +95,7 @@ le mythe est un système de communication, c'est un message, un mode de signific
 
 La sémiologie est une science des formes puisqu'elle étudie des significations indépendamment de leur contenu.
 
-De la mythologie, elle fait partie à la fois de la sémiologie comme science formelle et de l'idéologie comme science historique : elle étudie des idées-en-forme.
+La mythologie, elle fait partie à la fois de la sémiologie comme science formelle et de l'idéologie comme science historique : elle étudie des idées-en-forme.
 
 Toute sémiologie postule un rapport entre 2 termes : un signifiant et un signifié. Ce rapport porte sur des objets d'ordre différent, pas une égalité mais une équivalence. Le signifiant n'exprime pas le signifié car nous avons affaire à 3 termes différents:
 
