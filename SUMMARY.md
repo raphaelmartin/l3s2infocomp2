@@ -78,5 +78,5 @@
 ## front-end dev.
 
 * [Bibliographie](gobelins/bibliographie.md)
-* book technique
+* [book technique](gobelins/book-technique.md)
 
