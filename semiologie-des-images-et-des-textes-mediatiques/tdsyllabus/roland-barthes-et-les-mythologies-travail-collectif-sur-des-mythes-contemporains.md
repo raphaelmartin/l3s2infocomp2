@@ -93,7 +93,7 @@ le mythe est un système de communication, c'est un message, un mode de signific
 
 ###### le mythe comme système sémiologique
 
-La sémiologie est une sciences formes puisqu'elle étudie des significations indépendamment de leur contenu.
+La sémiologie est une science des formes puisqu'elle étudie des significations indépendamment de leur contenu.
 
 De la mythologie, elle fait partie à la fois de la sémiologie comme science formelle et de l'idéologie comme science historique : elle étudie des idées-en-forme.
 
