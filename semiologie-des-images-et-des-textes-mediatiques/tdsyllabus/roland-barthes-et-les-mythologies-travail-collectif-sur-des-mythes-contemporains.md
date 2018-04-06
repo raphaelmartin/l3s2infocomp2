@@ -81,3 +81,9 @@ Au cours de l'été 56, Barthes se trouve face à un problème : comment relier 
 
 Ces diverses analyses, souvent un témoignage passionnant sur la première moitié des années cinquante mettent parfois en défaut l'instinct du sémiologue. L'analyse qu'il donne, en janvier 54, du film de Mankiewicz adapté de Jules César apparait moins convaincante : "Barthes semble avoir largement inventé le film pour le faire rentrer dans une analyse en grande parti _a priori_. Et l'on trouverait d'autres exemples de cette distorsion en confrontant chacune des "mythologies" à l'évènement qui lui a donné naissance : c'est souvent à ce prix que se constitue un système."
 
+\*\*\*
+
+### Le mythe, aujourd'hui
+
+
+
