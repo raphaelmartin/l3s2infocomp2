@@ -17,12 +17,13 @@
 ## Internationalisation de l'information
 
 * [Syllabus](internationnalisation-de-la-communication/syllabus.md)
-* [Les agences de presse : actrices centrales de l’internationalisation de l’information](internationnalisation-de-la-communication/les-agences-de-presse-actrices-centrales-de-linternationalisation-de-linformation.md)
-* [La radio dans le dispositif transnational de l’Allemagne nazie](internationnalisation-de-la-communication/la-radio-dans-le-dispositif-transnational-de-lallemagne-nazie.md)
-* [Les radios alliées pendant la WW2](internationnalisation-de-la-communication/les-radios-alliees-pendant-la-ww2.md)
+* [1/ Les agences de presse : actrices centrales de l’internationalisation de l’information](internationnalisation-de-la-communication/les-agences-de-presse-actrices-centrales-de-linternationalisation-de-linformation.md)
+* [2/ La radio dans le dispositif transnational de l’Allemagne nazie](internationnalisation-de-la-communication/la-radio-dans-le-dispositif-transnational-de-lallemagne-nazie.md)
+* [3/ Les radios alliées pendant la WW2](internationnalisation-de-la-communication/les-radios-alliees-pendant-la-ww2.md)
+* [4/ Les appels à réformer l'ordre international de l'information](internationnalisation-de-la-communication/les-appels-a-reformer-lordre-international-de-linformation.md)
+* [5/ Les activités de propagande internationale dans la guerre froide](internationnalisation-de-la-communication/5-les-activites-de-propagande-internationale-dans-la-guerre-froide.md)
 * [TD](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide/td.md)
-  * [les stratégies des radios occidentales](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide/td/les-strategies-des-radios-occidentales.md)
-* [Les stratégies des radios occidentales et leurs rôles pendant la guerre froide](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide.md)
+  * [les stratégies des radios occidentales pendant la guerre froide](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide/td/les-strategies-des-radios-occidentales.md)
 
 ## Approches SIC
 
