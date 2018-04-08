@@ -68,7 +68,7 @@ _SMYRNAIOS, REBILLARD_ / "L'actualité selon Google. L'emprise du principal mote
 
 _GUIBERT, REBILLARD, ROCHELAND_ / "Média, culture et numérique, approches socioéconomiques. Chapitre 5 : Information en ligne"
 
-* Internet et la diffusion de l'information en temps de crise internationale
+* ### Internet et la diffusion de l'information en temps de crise internationale
 
 ...
 
