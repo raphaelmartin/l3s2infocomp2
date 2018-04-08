@@ -1,24 +1,12 @@
 {
-  "name": "gitbook-plugin-ga",
-  "version": "1.0.0",
-  "description": "Fiches de lecture, concepts abordés en cours, approfondissements...",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "l2l3sorbonneassas",
+  "dependencies": {
+    "gitbook-plugin-ga": "2.0.0"
   },
+
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raphaelmartin/l3s2infocomp2.git"
+    "url": "https://github.com/raphaelmartin/l3s2infocomp2.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/raphaelmartin/l3s2infocomp2/issues"
-  },
-  "homepage": "https://github.com/raphaelmartin/l3s2infocomp2#readme",
-  "dependencies": {
-    "gitbook-plugin-ga": "^2.0.0"
-  },
-  "devDependencies": {}
+  "author": "Raphaël Martin <itsraphaelmartin@gmail.com>"
 }
