@@ -14,6 +14,12 @@ _LAGNEAU_ / "Hiérarchiser dans l'urgence : les flashs de l'AFP, 1984-2006"
 
 **— Les stratégies des radios américaines à l'Est du rideau de fer**
 
+LEPEUPLE / "Radio free Europe et Radio liberty \(1950-1994\)
+
+**— Le rôle des médias internationaux pendant la crise de Gdansk en 1980**
+
+SEMELIN / "La liberté au bout des ondes : du coup de Prague à la chute de Berlin"
+
 * Les chaînes transnationales d'information en continu
 * Des chaînes alternatives aux médias "occidentaux"?
 
