@@ -18,10 +18,10 @@ _LAGNEAU_ / "Hiérarchiser dans l'urgence : les flashs de l'AFP, 1984-2006"
 * Des chaînes alternatives aux médias "occidentaux"?
 
 * Les médias de mouvements sociaux transnationaux
+
 * L'émergence d'une nouvelle génération d'infomédiaires numériques
+
 * Internet et la diffusion de l'information en temps de crise internationale
 
 ...
-
-
 
