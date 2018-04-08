@@ -1,6 +1,8 @@
 # TD / I16n de l'info
 
-* Le rôle des agences de presse dans la hiérarchie de l'information
+
+
+* ### Le rôle des agences de presse dans la hiérarchie de l'information
 
 **— Le traitement d'un événement à l'étranger par une agence de presse**
 
@@ -10,7 +12,7 @@ _KINGSTON_ / "Réduire à l'évènement : la couverture de sujets irlandais par 
 
 _LAGNEAU_ / "Hiérarchiser dans l'urgence : les flashs de l'AFP, 1984-2006"
 
-* Les stratégies des radios occidentales et leurs rôles pendant la guerre froide
+* ### Les stratégies des radios occidentales et leurs rôles pendant la guerre froide
 
 **— Les stratégies des radios américaines à l'Est du rideau de fer**
 
@@ -22,7 +24,7 @@ _SEMELIN_ / "La liberté au bout des ondes : du coup de Prague à la chute de Be
 
 _article complémentaire: SEMELIN / "Communication et résistance : les radios occidentales comme vecteur d'ouverture à l'Est_
 
-* Les chaînes transnationales d'information en continu
+* ### Les chaînes transnationales d'information en continu
 
 **— Les mutations du marché des images d'actualité internationale**
 
@@ -34,21 +36,21 @@ _BAISNEE, MARCHETTI_ / "Euronews, un laboratoire de la production de l'informati
 
 _article complémentaire: BLET / "Les chaines d'information internationale en Europe : une réponse au défi de CNNI"_
 
-* Des chaînes alternatives aux médias "occidentaux"?
+* ### Des chaînes alternatives aux médias "occidentaux"?
 
 **— La chaîne Al Jazeera**
 
-EL OIFI / "L'effet Al-Jazira"
+_EL OIFI_ / "L'effet Al-Jazira"
 
 _article complémentaire: TALON / "Al Jazeera, objet médiatique original. Une critique des normes journalistiques occidentales"_
 
-— La chaîne TeleSUR
+**— La chaîne TeleSUR**
 
 GOMEZ MEIJA / "Notre Nord, c'est le Sud? L'amérique latine face aux projections géopolitiques de la chaîne TeleSUR"
 
-* Les médias de mouvements sociaux transnationaux
+* ### Les médias de mouvements sociaux transnationaux
 
-— Le réseau médiatique autonome zapatiste
+**— Le réseau médiatique autonome zapatiste**
 
 FERRON / "La communication internationale du zapatisme 1994-2006 - Chapitre 5: la mise en place d'un réseau médiatique autonome"
 
