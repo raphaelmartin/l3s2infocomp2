@@ -1,7 +1,5 @@
 # TD / I16n de l'info
 
-
-
 * ### Le rôle des agences de presse dans la hiérarchie de l'information
 
 **— Le traitement d'un événement à l'étranger par une agence de presse**
@@ -46,21 +44,29 @@ _article complémentaire: TALON / "Al Jazeera, objet médiatique original. Une c
 
 **— La chaîne TeleSUR**
 
-GOMEZ MEIJA / "Notre Nord, c'est le Sud? L'amérique latine face aux projections géopolitiques de la chaîne TeleSUR"
+_GOMEZ MEIJA_ / "Notre Nord, c'est le Sud? L'amérique latine face aux projections géopolitiques de la chaîne TeleSUR"
 
 * ### Les médias de mouvements sociaux transnationaux
 
 **— Le réseau médiatique autonome zapatiste**
 
-FERRON / "La communication internationale du zapatisme 1994-2006 - Chapitre 5: la mise en place d'un réseau médiatique autonome"
+_FERRON_ / "La communication internationale du zapatisme 1994-2006 - Chapitre 5: la mise en place d'un réseau médiatique autonome"
 
-— Indymedia, l'Independent Media Center
+**— Indymedia, l'Independent Media Center**
 
-ESTIENNE / "Indymedia aujourd'hui : la critique en acte du journalisme et les paradoxes de l'open publishing"
+_ESTIENNE_ / "Indymedia aujourd'hui : la critique en acte du journalisme et les paradoxes de l'open publishing"
 
-article complémentaire : FERRON / "Des médias de mouvements aux mouvements de médias. Retour sur la genèse du "Réseau Intercontinental de Communication Alternative \(1996-1999\)
+_article complémentaire : FERRON / "Des médias de mouvements aux mouvements de médias. Retour sur la genèse du "Réseau Intercontinental de Communication Alternative \(1996-1999\)_
 
-* L'émergence d'une nouvelle génération d'infomédiaires numériques
+* ### L'émergence d'une nouvelle génération d'infomédiaires numériques
+
+**— Google News, infomédiaire numérique incontournable**
+
+_SMYRNAIOS, REBILLARD_ / "L'actualité selon Google. L'emprise du principal moteur de recherche sur l'information en ligne"
+
+**— Les acteurs multiples de l'information d'actualités sur Internet**
+
+_GUIBERT, REBILLARD, ROCHELAND_ / "Média, culture et numérique, approches socioéconomiques. Chapitre 5 : Information en ligne"
 
 * Internet et la diffusion de l'information en temps de crise internationale
 
