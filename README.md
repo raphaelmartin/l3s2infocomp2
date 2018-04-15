@@ -1,4 +1,4 @@
-# L3 S2 info-com/sociologie
+# Introduction
 
 Fiches de lecture, concepts abordés en cours, approfondissements...
 

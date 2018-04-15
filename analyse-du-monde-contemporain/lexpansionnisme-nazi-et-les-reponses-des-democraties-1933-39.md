@@ -6,5 +6,3 @@ _Appeasement_
 
 La tentation isolationniste des Etats-Unis
 
-
-

@@ -1,10 +1,8 @@
-#### Devoirs
+# Syllabus
 
 Lire pour le 19 février : Stéphane Beaud, sur _l’Usage de l’entretien_, dans le fascicule donné. Faire une fiche de synthèse.
 
 Supplément : Lire _l’Entretien_ de Alain Blanchet, voir fiche biographique
-
----
 
 **Second semestre : Technique de l’entretien.**
 
@@ -39,16 +37,11 @@ Rapport d’observation : Moins long, 10 pages environ, à rendre pour la fin d
 **Entretien** :
 
 * Canonique/Semi directif
-
 * Collectif : Ex Marketing
-
 * Récit de vie : Ex Paysan Polonais
 
 **Ouvrages de la sociologie de la culture** :
 
 * Coulangeon, Sociologie des pratiques culturelles, 2005 et Les Métamorphoses de la distinction, 2011
-
 * Bourdieu, L’amour de l’Art
-
-
 

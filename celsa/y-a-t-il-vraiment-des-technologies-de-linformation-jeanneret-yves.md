@@ -1,6 +1,4 @@
-# Y-a-t-il vraiment des technologies de l'information ? — Yves JEANNERET
+# Y-a-t-il vraiment des technologies de l'information ? — JEANNERET Yves
 
 à lire.
-
-
 

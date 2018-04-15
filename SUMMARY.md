@@ -1,71 +1,73 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## intro
 
-* [📚🧠💢](README.md)
-* [Sommaire](SUMMARY.md)
+* [📚🧠💢](intro/undefined.md)
+* [Sommaire](intro/sommaire.md)
 
 ## Droit des médias
 
 * [Syllabus](droit-des-medias/syllabus.md)
-* [Introduction](introduction.md)
-* [Liberté d'expression et droit à l'information](droit-des-medias/liblib.md)
+* [Introduction](droit-des-medias/introduction.md)
+* [Liberté d'expression et droit à l'information](droit-des-medias/liberte-dexpression-et-droit-a-linformation.md)
 * [Régulation audiovisuelle](droit-des-medias/regulation-audiovisuelle.md)
 * [Contrôle de la publicité](droit-des-medias/controle-de-la-publicite.md)
-* [Déontologie des journalistes](droit-des-medias/deontologie.md)
+* [Déontologie des journalistes](droit-des-medias/deontologie-des-journalistes.md)
 
 ## Internationalisation de l'information
 
-* [Syllabus](internationnalisation-de-la-communication/syllabus.md)
-* [1/ Les agences de presse : actrices centrales de l’internationalisation de l’information](internationnalisation-de-la-communication/les-agences-de-presse-actrices-centrales-de-linternationalisation-de-linformation.md)
-* [2/ La radio dans le dispositif transnational de l’Allemagne nazie](internationnalisation-de-la-communication/la-radio-dans-le-dispositif-transnational-de-lallemagne-nazie.md)
-* [3/ Les radios alliées pendant la WW2](internationnalisation-de-la-communication/les-radios-alliees-pendant-la-ww2.md)
-* [4/ Les appels à réformer l'ordre international de l'information](internationnalisation-de-la-communication/les-appels-a-reformer-lordre-international-de-linformation.md)
-* [5/ Les activités de propagande internationale dans la guerre froide](internationnalisation-de-la-communication/5-les-activites-de-propagande-internationale-dans-la-guerre-froide.md)
-* [TD](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide/td.md)
-  * [les stratégies des radios occidentales pendant la guerre froide](internationnalisation-de-la-communication/les-strategies-des-radios-occidentales-et-leurs-roles-pendant-la-guerre-froide/td/les-strategies-des-radios-occidentales.md)
+* [Syllabus](internationalisation-de-linformation/syllabus.md)
+* [1/ Les agences de presse : actrices centrales de l’internationalisation de l’information](internationalisation-de-linformation/1-les-agences-de-presse-actrices-centrales-de-linternationalisation-de-linformation.md)
+* [2/ La radio dans le dispositif transnational de l’Allemagne nazie](internationalisation-de-linformation/2-la-radio-dans-le-dispositif-transnational-de-lallemagne-nazie.md)
+* [3/ Les radios alliées pendant la WW2](internationalisation-de-linformation/3-les-radios-alliees-pendant-la-ww2.md)
+* [4/ Les appels à réformer l'ordre international de l'information](internationalisation-de-linformation/4-les-appels-a-reformer-lordre-international-de-linformation.md)
+* [5/ Les activités de propagande internationale dans la guerre froide](internationalisation-de-linformation/5-les-activites-de-propagande-internationale-dans-la-guerre-froide.md)
+* [TD](internationalisation-de-linformation/td/README.md)
+  * [les stratégies des radios occidentales pendant la guerre froide](internationalisation-de-linformation/td/les-strategies-des-radios-occidentales-pendant-la-guerre-froide.md)
 
 ## Approches SIC
 
-* [Plan/Biblio](approches-sic/bibliographie.md)
+* [Plan/Biblio](approches-sic/plan-biblio.md)
 * [Intro aux SIC](approches-sic/intro-aux-sic.md)
 * [Approche sociologique](approches-sic/approche-sociologique.md)
 
 ## Sémiologie des images et des textes médiatiques
 
-* [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/intro.md)
+* [Syllabus/Biblio](semiologie-des-images-et-des-textes-mediatiques/syllabus-biblio.md)
 * [Qu'est-ce qu'un signe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-signe.md)
 * [Qu'est-ce qu'un détail?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-detail.md)
 * [Qu'est-ce qu'un mythe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-mythe.md)
 * [Qu'est-ce qu'une image fixe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quune-image-fixe.md)
 * [Les images et les textes sont-ils des actes ?](semiologie-des-images-et-des-textes-mediatiques/les-images-et-les-textes-sont-ils-des-actes.md)
-* [TD](semiologie-des-images-et-des-textes-mediatiques/tdsyllabus.md)
-  * [Roland Barthes et les mythologies. Travail collectif sur des mythes contemporains](semiologie-des-images-et-des-textes-mediatiques/tdsyllabus/roland-barthes-et-les-mythologies-travail-collectif-sur-des-mythes-contemporains.md)
+* [TD](semiologie-des-images-et-des-textes-mediatiques/td/README.md)
+  * [Roland Barthes et les mythologies. Travail collectif sur des mythes contemporains](semiologie-des-images-et-des-textes-mediatiques/td/roland-barthes-et-les-mythologies.-travail-collectif-sur-des-mythes-contemporains.md)
 
 ## Méthodes qualitatives
 
 * [Syllabus](methodes-qualitatives/syllabus.md)
-* [CHAUVIN/JOUNIN — L'observation directe](methodes-qualitatives/lobservation-directe-chauvinjounin.md)
-* [ARBORIO/FOURNIER — L'observation directe](methodes-qualitatives/arboriofournier-lobservation-directe.md)
-* [PERETZ — Les méthodes en sociologie : l'observation](methodes-qualitatives/les-methodes-en-sociologie-lobservation-henri-peretz.md)
-* [BEAUD — L'usage de l'entretien en sciences sociales](methodes-qualitatives/lusage-de-lentretien-en-sciences-sociales-beaud.md)
-* [BLANCHET — L'entretien](methodes-qualitatives/lentretien-alain-blanchet.md)
-* [Culture de jeunes ou culture de classe ?](methodes-qualitatives/problematique-culture-de-jeunes-ou-culture-de-classe.md)
-* [COULANGEON/BOURDIEU](methodes-qualitatives/fiches-coulangeonbourdieu.md)
+* [CHAUVIN/JOUNIN — L'observation directe](methodes-qualitatives/chauvin-jounin-lobservation-directe.md)
+* [ARBORIO/FOURNIER — L'observation directe](methodes-qualitatives/arborio-fournier-lobservation-directe.md)
+* [PERETZ — Les méthodes en sociologie : l'observation](methodes-qualitatives/peretz-les-methodes-en-sociologie-lobservation.md)
+* [BEAUD — L'usage de l'entretien en sciences sociales](methodes-qualitatives/beaud-lusage-de-lentretien-en-sciences-sociales.md)
+* [BLANCHET — L'entretien](methodes-qualitatives/blanchet-lentretien.md)
+* [Culture de jeunes ou culture de classe ?](methodes-qualitatives/culture-de-jeunes-ou-culture-de-classe.md)
+* [COULANGEON/BOURDIEU](methodes-qualitatives/coulangeon-bourdieu.md)
 * [LAHIRE — La culture des individus](methodes-qualitatives/lahire-la-culture-des-individus.md)
 
 ## Méthodes quantitatives
 
-* [Séances](methodes-quanti/seance-1.md)
-* [Bibliographie](methodes-quanti/bibliographie.md)
-* [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quanti/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
-* [Le dossier intermédiaire](methodes-quanti/le-dossier-intermediaire.md)
+* [Séances](methodes-quantitatives/seances.md)
+* [Bibliographie](methodes-quantitatives/bibliographie.md)
+* [Méthodes quantitatives pour l'historien — LEMERCIER / ZALC](methodes-quantitatives/methodes-quantitatives-pour-lhistorien-lemercier-zalc.md)
+* [Le dossier intermédiaire](methodes-quantitatives/le-dossier-intermediaire.md)
 
 ## Analyse du monde contemporain
 
 * [Bibliographie](analyse-du-monde-contemporain/bibliographie.md)
 * [Génocide des Tutsi du Rwanda](analyse-du-monde-contemporain/genocide-des-tutsi-du-rwanda.md)
-* [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-fede.md)
+* [La Fédération de Russie, de Eltsine à Poutine 1991-2003](analyse-du-monde-contemporain/la-federation-de-russie-de-eltsine-a-poutine-1991-2003.md)
 * [Les relations israélo-palestiniennes \(1993-2001\)](analyse-du-monde-contemporain/les-relations-israelo-palestiniennes-1993-2001.md)
 * [Les nouveaux défis de l'OTAN](analyse-du-monde-contemporain/les-nouveaux-defis-de-lotan.md)
 * [L'Asie, nouvelle puissance nucléaire](analyse-du-monde-contemporain/lasie-nouvelle-puissance-nucleaire.md)
@@ -80,6 +82,6 @@
 
 ## front-end dev.
 
-* [Bibliographie](gobelins/bibliographie.md)
-* [book technique](gobelins/book-technique.md)
+* [Bibliographie](front-end-dev./bibliographie.md)
+* [book technique](front-end-dev./book-technique.md)
 

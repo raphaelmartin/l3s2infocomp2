@@ -1,4 +1,4 @@
-# **LE GÉNOCIDE DES TUTSI DU RWANDA**
+# Génocide des Tutsi du Rwanda
 
 **I/ Les origines historiques et intellectuelles du problème ethnique**
 
@@ -20,7 +20,17 @@ A-Les responsabilités extérieures
 
 B-Un Tribunal Pénal International pour le Rwanda \(TPIR\)
 
-![](/assets/6 avril 1994.jpg)![](/assets/FPR.jpg)![](/assets/Hutu-Tutsi-TwaTogether.jpg)![](/assets/Rwanda-Carte-1-12.jpg)![](/assets/TPIR.jpg)![](/assets/Opération Turquoise.jpg)![](/assets/Miliciens.jpg)
+![](../.gitbook/assets/6-avril-1994.jpg)
 
+![](../.gitbook/assets/fpr.jpg)
 
+![](../.gitbook/assets/hutu-tutsi-twatogether.jpg)
+
+![](../.gitbook/assets/rwanda-carte-1-12.jpg)
+
+![](../.gitbook/assets/tpir.jpg)
+
+![](https://github.com/raphaelmartin/l3s2infocomp2/tree/8e8ab2177efea44b93e643768185968b8d6ef5c9/assets/Opération%20Turquoise.jpg)
+
+![](../.gitbook/assets/miliciens.jpg)
 

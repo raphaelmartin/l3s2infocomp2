@@ -1,38 +1,31 @@
 # Approche sociologique
 
-#### I\) La communication et les médias : des « masses » aux relations sociales
+## I\) La communication et les médias : des « masses » aux relations sociales
 
-###### A/ La « société de communication » : réalité, utopie et paradoxe
+### A/ La « société de communication » : réalité, utopie et paradoxe
 
 Origine de l'expression
 
-Les Lumières - Habermas -  espace public - publicité
+Les Lumières - Habermas - espace public - publicité
 
 fin 40s - cybernétique - déterminisme - nouvelle société - autoroute de l'information - société de communication
 
 _4 fondements de la société de la communication_
 
 1. L'aspect **politique et culturel**
-
    1. disparition de la transcendance divine
-
    2. organisation et fonctionnement de la société se base sur un savoir consensuel et dépend de l'accord des membres de la société
-
    3. avènement de l'individu
-
    4. la démocratie et le principe de la publicité
-
 2. L'aspect **économique**
-
 3. L'aspect **technique**
-
 4. L'aspect **idéologique**
 
 _**Une société de communication? - Erik NEVEU**_
 
 résumé&gt;&gt;&gt;&gt;&gt;&gt;&gt;
 
-###### B. La communication comme contrôle social : propagande militaire, politique, commerciale
+### B. La communication comme contrôle social : propagande militaire, politique, commerciale
 
 1. les conditions d'émergence et de succès de la propagande
 
@@ -43,7 +36,7 @@ origine de l'expression - médias de masse/pouvoir politique - type de propagand
 
 manipulation symbolique - art de la persuasion - effets importants - spécialistes en communication - sondeurs d'opinion - opinion publique - effet de verdict - photographies retouchées.
 
-###### C. Les effets des médias
+### C. Les effets des médias
 
 * Le paradigme des effets directs et puissants
 

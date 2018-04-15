@@ -1,4 +1,4 @@
-# La culture des individus — Bernard LAHIRE
+# LAHIRE — La culture des individus
 
 **Remerciements - **
 
@@ -92,7 +92,7 @@ La science des variations mentales et comportementales - Variations et réalité
 
 **Annexes méthologiques -**
 
-Documents écrits et audiovisuels exploités - Liste des personnes interviewées - 
+Documents écrits et audiovisuels exploités - Liste des personnes interviewées -
 
 Les invités de Tout le monde en parle -
 

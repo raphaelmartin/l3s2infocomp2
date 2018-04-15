@@ -1,4 +1,4 @@
-# qu'est-ce qu'un mythe?
+# Qu'est-ce qu'un mythe?
 
 Toutes les sociétés humaines se sont créé des histoires, de la fable à la légende en passant par le conte et le mythe.
 
@@ -7,9 +7,7 @@ Le mythe parle de la société, et la société parle d’elle-même. Il ve
 Le mythe a une fonction - sociale
 
 * éducative
-
 * commerciale
-
 * politique voire autoritaire
 
 → il a notamment une fonction de cohésion
@@ -46,10 +44,9 @@ Il s’agit d’une cinquantaine de chroniques. L’ouvrage comprend également
 Le mythe a deux versants est à la fois
 
 * une légende : un récit symbolique de la condition humaine \(mythe-allégorie\)
-
 * un mensonge : une mystification \(mythe-mensonge\)
 
-![](/assets/Capture d’écran 2018-03-15 à 15.28.54.png)
+![](https://github.com/raphaelmartin/l3s2infocomp2/tree/8e8ab2177efea44b93e643768185968b8d6ef5c9/assets/Capture%20d’écran%202018-03-15%20à%2015.28.54.png)
 
 On rajoute une couche conceptuelle pour englober différents types de signes si quelqu’un a compris ce truc qu’il commente merci !
 
@@ -65,11 +62,9 @@ Le mythe, c’est donc :
 * un récit fabriqué par les membres d’une société qui se donne pour vrai
 * un récit qui rassure et qui permet la cohésion sociale
 
-Le rôle du mythologue est: 
+Le rôle du mythologue est:
 
 * déconstruire ce qui apparaît comme naturel
 * repolitiser un discours qui se veut sans contradiction
 * observer la formation, la circulation et la permanence des mythes
-
-
 

@@ -1,4 +1,4 @@
-# Régu audiovisuelle
+# Régulation audiovisuelle
 
 
 
