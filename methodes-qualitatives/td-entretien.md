@@ -9,9 +9,13 @@
 * Ajouter à l'entretien un commentaire réflexif. Doit porter sur les deux entretiens.
 * Entre les 2 entretiens, dimension de comparaison souhaitable.
 
-\*\*\*
+----
 
+### Lectures
 
+"Mener un entretien de face à face" — BARBOT
 
+"L'entretien compréhensif" — KAUFMANN
 
+"L'entretien" — BLANCHET/GOTMAN
 
