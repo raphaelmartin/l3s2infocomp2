@@ -18,6 +18,7 @@
 * Diffusions fausses informations
 * Propos racistes, offenses religieuses et liberté d'expression
 * La luttre contre le sexisme dans les médias
+* Le traitement médiatique du terrorisme en droit français
 
 ## Internationalisation de l'information
 
