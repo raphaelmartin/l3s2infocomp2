@@ -1,5 +1,7 @@
 # Liberté d'expression et droit à l'information
 
+> « La presse est un élément jadis ignoré, une force autrefois inconnue, introduite maintenant dans le monde ; c’est la parole à l’état de foudre ; c’est l’électricité sociale. Pouvez-vous faire qu’elle n’existe pas ?Plus vous prétendrez la comprimer, plus l’explosion sera violente. Il faut donc vous résoudre avec elle » — CHATEAUBRIAND, Mémoires d’outre-tombe \(t. V\), 1850.
+
 ## Liberté d'expression et droit à l'information
 
 ### intro
