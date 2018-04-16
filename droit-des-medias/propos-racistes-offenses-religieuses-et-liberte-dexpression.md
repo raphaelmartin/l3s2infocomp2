@@ -6,9 +6,5 @@ Il s'agit ainsi de déterminer les sanctions des "abus de la liberté". S'agissa
 
 ### Régime de responsabilité de la loi de 1881
 
-\_\_\_\_\_\_\_\_
-
-
-
 ### Régime de responsabilité d'autres textes
 
