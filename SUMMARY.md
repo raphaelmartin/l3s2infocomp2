@@ -16,7 +16,8 @@
 * [Contrôle de la publicité](droit-des-medias/controle-de-la-publicite.md)
 * [Déontologie des journalistes](droit-des-medias/deontologie-des-journalistes.md)
 * Diffusions fausses informations
-* Untitled
+* Propos racistes, offenses religieuses et liberté d'expression
+* La luttre contre le sexisme dans les médias
 
 ## Internationalisation de l'information
 
