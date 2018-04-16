@@ -15,6 +15,8 @@
 * [Régulation audiovisuelle](droit-des-medias/regulation-audiovisuelle.md)
 * [Contrôle de la publicité](droit-des-medias/controle-de-la-publicite.md)
 * [Déontologie des journalistes](droit-des-medias/deontologie-des-journalistes.md)
+* Diffusions fausses informations
+* Untitled
 
 ## Internationalisation de l'information
 
