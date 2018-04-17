@@ -90,3 +90,7 @@
 * [Bibliographie](front-end-dev./bibliographie.md)
 * [book technique](front-end-dev./book-technique.md)
 
+## Philosophie indienne
+
+* Syllabus
+
