@@ -76,6 +76,10 @@ Le second ressort de la production d'analyses réside dans l'envie de tout compr
 
 ### Un cohérence par fragments
 
+Observer consiste d'abord en un large repérage de la situation, de ses lieux, de ses acteurs, de ses objets, des actions qui s'y déroulent : le "grand tour". Ensuite, l'observateur aborde des aspects particuliers de la situation, des "mini tours".
+
+Il faut systématiser les données d'observation. Travail de classement exhaustif des matériaux recueillis, il faut proposer des classements thématiques. Des infos hétérogènes sont ainsi rapprochées et comparées. Selon quels axes établir ces regroupements? WHYTE évoque 2 pistes : les actions et les acteurs.
+
 ### Des différences dans les systèmes de références
 
 ### Vers des interprétations totalisantes
