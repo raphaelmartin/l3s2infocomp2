@@ -82,6 +82,8 @@ Il faut systématiser les données d'observation. Travail de classement exhausti
 
 ### Des différences dans les systèmes de références
 
+A force de partager une proximité avec le milieu étudié, l'analyse exige de prendre de la distance avec les systèmes de références découverts. Il faut se faire le spectateur des confrontation entre les systèmes de références. Soumettre ses observations à des pairs peut contribuer utilement à ce nouveau tri. Une autre façon est de lire des travaux du même type sur des sujets voisins au moment où l'on dispose des données d'enquête et des premières interprétations.
+
 ### Vers des interprétations totalisantes
 
 #### saisir les systèmes indigènes de classement
