@@ -52,9 +52,21 @@ Il s'agit maintenant de dresser un bilan de ces premières analyses et de systé
 
 ### L'observateur et son double
 
+Dans la pratique de l'observation, le chercheur est l'instrument d'observation, assuré avant tout par l'oeil et l'oreille. A distinguer du cherceur analyseur, celui qui exploite les données qui ont été receuillies avec cet instrument. Ce dédoublement, souvent critiqué, est en fait une ressource que peut exploiter le chercheur pour décrypter la situation. La transplantation du chercheur dans un univers qui s'écarte du sien, impose un déplacement du regard qui, par la confrontation des systèmes de références, est révélatrice des connaissances.
+
+Cet observateur-instrument doit user de la compraison, maître mot de l'analyse socio. On compare:
+
+* des données de terrain entre elles
+* les données du terrain avec celles d'autres terrains, d'autres chercheurs
+* enfin et surtout, les systèmes de références: des acteurs observés / du chercheur
+
+=&gt; En observateur en terrain inconnu, le chercheur doit trouver de nouveaux repères. Analyser son sytème propre dans sa tension avec celui qu'il s'est confronté, est l'un des ressorts possibles pour produire des connaissances nouvelles sur la situation observée. Comparatisme particulier.
+
 ### Cultiver les facultés d'observation
 
 #### de l'étonnement au décentrement
+
+notion de BEAUD & WEBER:  enquête par dépaysement\(= rendre familier ce qui est étranger\) / enquête par distanciation\(=rendre étranger ce qui est familier\)
 
 #### de l'envie de tout comprendre à la faculté de trier
 
