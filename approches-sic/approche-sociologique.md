@@ -26,12 +26,12 @@ résumé &gt;&gt;&gt;&gt;&gt;&gt;&gt;
 
 ### B. La communication comme contrôle social : propagande militaire, politique, commerciale
 
-1\. les conditions d'émergence et de succès de la propagande
+1\. les conditions d'émergence et de succès de la propagande  
 
 origine de l'expression - médias de masse/pouvoir politique - type de propagande \(militaire, politique, comm.\).
 
-2\. les grandes techniques de persuasion
-3\. La démocratie ou le "régime du convaincre"
+2\. les grandes techniques de persuasion  
+3\. La démocratie ou le "régime du convaincre"  
 
 manipulation symbolique - art de la persuasion - effets importants - spécialistes en communication - sondeurs d'opinion - opinion publique - effet de verdict - photographies retouchées.
 
