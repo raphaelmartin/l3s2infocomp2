@@ -10,7 +10,7 @@ Corrélation entre nouvelles formes de com./exercice du pouvoir/organisation des
 
 Origine de l'expression - fin 40s - cybernétique - déterminisme - nouvelle société - autoroute de l'information - société de communication
 
-_4 fondements de la société de la communication_  
+4 fondements de la société de la communication:  
 1. L'aspect **politique et culturel**
    * disparition de la transcendance divine
    * organisation et fonctionnement de la société se base sur un savoir consensuel et dépend de l'accord des membres de la société
