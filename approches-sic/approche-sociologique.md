@@ -2,7 +2,7 @@
 
 ## I\) La communication et les médias : des « masses » aux relations sociales
 
-### A/ La « société de communication » : réalité, utopie et paradoxe
+### A. La « société de communication » : réalité, utopie et paradoxe
 
 Les Lumières - Habermas - espace public - publicité (rendre public)  
 Naissance d'une société civile distincte du pouvoir et de la Cour qui conteste la confiscation des affaires publiques par le pouvoir royal au profit du débat public.
