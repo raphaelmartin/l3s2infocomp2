@@ -52,11 +52,3 @@ The people's choice LAZARSFELD - groupes primaires - spirale du silence - exposi
 
 Mais on parle ici des effets à court terme, on ne peut pas exclure l'hypothèse d'effets réels sur le long terme des médias.
 
-{% page-ref page="approche-sociologique.md" %}
-
-{% hint style="success" %}
-
-{% endhint %}
-
-
-
