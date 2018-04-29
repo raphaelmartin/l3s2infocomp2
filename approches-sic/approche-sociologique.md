@@ -40,15 +40,15 @@ manipulation symbolique - art de la persuasion - effets importants - spécialist
 
 ### C. Les effets des médias
 
-__* Le paradigme des effets directs et puissants__
+* __Le paradigme des effets directs et puissants__
 
 Gustave LE BON La psychologie des foules - psychologie béhavioriste PAVLOV - stimulus - TCHAKHOTINE - seringue hypodermique Lasswell - effets puissants VS Two-step flow LAZARSFELD KATZ
 
-__* De la "masse" à l'épaisseur du social...__
+* __De la "masse" à l'épaisseur du social...__
 
 Détermination sociale de la perception du jugement - expérience de Muzafer SHERIF 1935 - autocinétique - pression au conformisme - la tyrannie de la majorité PASQUIER
 
-__* L'influence prédominante des groupes primaires__
+* __L'influence prédominante des groupes primaires__
 
 The people's choice LAZARSFELD - groupes primaires - spirale du silence - exposition séléctive - Personal influence KATZ & LAZARSFELD - relations interpersonnelles - 2-step-flow of communication - effets indirects ou faibles des médias.
 
