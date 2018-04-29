@@ -4,26 +4,25 @@
 
 ### A/ La « société de communication » : réalité, utopie et paradoxe
 
-Origine de l'expression
+Les Lumières - Habermas - espace public - publicité (rendre public)  
+Naissance d'une société civile distincte du pouvoir et de la Cour qui conteste la confiscation des affaires publiques par le pouvoir royal au profit du débat public.
+Corrélation entre nouvelles formes de com./exercice du pouvoir/organisation des sociétés.
 
-Les Lumières - Habermas - espace public - publicité
+Origine de l'expression - fin 40s - cybernétique - déterminisme - nouvelle société - autoroute de l'information - société de communication
 
-fin 40s - cybernétique - déterminisme - nouvelle société - autoroute de l'information - société de communication
-
-_4 fondements de la société de la communication_
-
+_4 fondements de la société de la communication_  
 1. L'aspect **politique et culturel**
-   1. disparition de la transcendance divine
-   2. organisation et fonctionnement de la société se base sur un savoir consensuel et dépend de l'accord des membres de la société
-   3. avènement de l'individu
-   4. la démocratie et le principe de la publicité
+   * disparition de la transcendance divine
+   * organisation et fonctionnement de la société se base sur un savoir consensuel et dépend de l'accord des membres de la société
+   * avènement de l'individu
+   * la démocratie et le principe de la publicité
 2. L'aspect **économique**
 3. L'aspect **technique**
 4. L'aspect **idéologique**
 
 _**Une société de communication? - Erik NEVEU**_
 
-résumé&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+résumé &gt;&gt;&gt;&gt;&gt;&gt;&gt;
 
 ### B. La communication comme contrôle social : propagande militaire, politique, commerciale
 
@@ -51,4 +50,3 @@ Détermination sociale de la perception du jugement - expérience de Muzafer SHE
 The people's choice LAZARSFELD - groupes primaires - spirale du silence - exposition séléctive - Personal influence KATZ & LAZARSFELD - relations interpersonnelles - 2-step-flow of communication - effets indirects ou faibles des médias.
 
 Mais on parle ici des effets à court terme, on ne peut pas exclure l'hypothèse d'effets réels sur le long terme des médias.
-
