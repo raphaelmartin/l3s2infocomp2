@@ -60,6 +60,7 @@
 * [COULANGEON/BOURDIEU](methodes-qualitatives/coulangeon-bourdieu.md)
 * [LAHIRE — La culture des individus](methodes-qualitatives/lahire-la-culture-des-individus.md)
 * [TD entretien](methodes-qualitatives/td-entretien.md)
+* Mener un entretien de face à face — BARBOT
 
 ## Méthodes quantitatives
 
