@@ -69,7 +69,7 @@ Protection de l'origine des info. Différent du secret pro (contenu de l'info).
 **Principes général de protection**  
 - Affirmation du principe
   * déontologie depuis 1918
-  * jurisprudence européenne, arrêt de la CEDH, arrêt Goodwyn 1996.
+  * jurisprudence européenne, arrêt de la CEDH, arrêt Goodwyn 1996.
   * => la protection des sources journalistiques et l'une des pierres angulaires de la liberté de la presse.
 quelques exception au principes (si justifié par un IPIP ou lors d'une enquête pénale).  
 
