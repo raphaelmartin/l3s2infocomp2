@@ -44,7 +44,51 @@ Distinction code/charte: ensemble de règles de bonne conduite pro adoptées par
   * respect des destinataire de l'info (le public)
  
 ## Textes juridiques
- 
-La déontologie, purement pro, devient du droit via l'arrêté : Avenant audiovisuel. Il est donc limité au journalisme d'audiovisuel public.
 
+### Principes professionnels
 
+La déontologie, purement pro, devient du droit via l'arrêté. Il y a aussi l'avenant audiovisuel, mais limité au journalisme d'audiovisuel public.
+**1. Principes communs à tous les journalistes**
+- Art.1: importance de l'éthique pro
+- Art.5: principes pro (interdictions des avantages et cadeaux de la pub rédactionnelle/droit de refuser ce type de travail).
+- Art.10: fondement de l'agrément des écoles de journalismes
+
+**2. principes particuliers à l'audiovisuel (additif à l'Art.5)**
+Les journalistes de l'AV tiennent pour règle la chartes des journalistes de la SNJ. Charte de 2011.
+Droit supplémentaires, secret des sources, droit d'auteur sur l'émission.
+
+### Principes législatifs
+1. droit d'opposition (Art 2bis loi 1881)
+Droit à la protection des sources et le droit moral d'auteur. Charte de déontologie incluse dans le contrat de travail, une faute déontologique peut être un motif licite de licenciement.
+2. clause de conscience (art 7112-5 CT)
+Faculté de démissionner en touchant les indemnités de licenciement si le journaliste invoque sa *clause de conscience*. 3 cas:
+- cession / cession du journal (définitive) / changement notable dans le caractère ou l'orientation du journal.
+3. protection des sources d'infos
+Protection de l'origine des info. Différent du secret pro (contenu de l'info).
+
+**Principes général de protection**  
+- Affirmation du principe
+  * déontologie depuis 1918
+  * jurisprudence européenne, arrêt de la CEDH, arrêt Goodwyn 1996.
+  * => la protection des sources journalistiques et l'une des pierres angulaires de la liberté de la presse.
+quelques exception au principes (si justifié par un IPIP ou lors d'une enquête pénale).  
+
+Modalités particulières de protection (code de procédure pénale) dans le cadre d'une procédure pénale.
+- droit de ne pas révéler les sources
+- Nullité des réquisitions fondée en violation du secret des sources
+- perquisitions: pas interdites mais très réglementées.
+
+### Application de la déontologie
+
+Absence d'organisme collectif d'autorégulation de la profession journalistique car:
+- Refus d'un ordre professionnel =la juridiction de "ses pairs" mais très associé au régime de Vichy, vu comme un atteinte à la liberté journalistique.
+- Refus d'un conseil de presse en France. Il s'agit d'un organisme collégial, de création volontaire, investi d'une mission d'autorégulation (élabore les règles et sanction des mots). Quelques projets mais échec car dénonciation du risque de police déontologique.
+
+**Rôle limité des organisations professionnelles**  
+- la commission de la carte (représentants d'éditeurs+journalistes). Avis CNCDH 21/03/1995
+- syndicats de journalistes: défense d'intérêts matériels. Le SNJ, depuis les 2000s, milite en faveur d'une instance de déontologie.
+- sociétés de rédacteurs ou de journalistes
+
+**Institutions propres à certains médias**  
+- médiateurs (intermédiaire entre le média et son public)
+- comité d'éthique volontairement créés (ex: le Monde). Imposé dans l'AV.
