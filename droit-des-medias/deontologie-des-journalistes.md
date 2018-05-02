@@ -40,5 +40,11 @@ Distinction code/charte: ensemble de règles de bonne conduite pro adoptées par
 - La responsabilité à l'égard du public
   * qualité de l'info (exactitude des infos, rectifications des erreurs, impartialité ou "honnêteté" de la présentation de l'info (distinguer les faits et les opinions, pb du publirédactionnel).
 - Le respect des personnes
+  * respect des acteurs de l'info: vie privée, droit à l'image, présomption d'innocence, protection des mineurs, refus des discriminations/violence/pornographie.
+  * respect des destinataire de l'info (le public)
+ 
+## Textes juridiques
+ 
+La déontologie, purement pro, devient du droit via l'arrêté : Avenant audiovisuel. Il est donc limité au journalisme d'audiovisuel public.
 
 
