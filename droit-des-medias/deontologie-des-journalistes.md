@@ -35,7 +35,7 @@ Distinction code/charte: ensemble de règles de bonne conduite pro adoptées par
   * indépendance vis à vis des actionnaires
 - Les relations avec les sources
   * indépendance
-  * protection des sources: principe de secret (secret pro: fait de ne pas révéler des info en raison de ses fonctions art. 226-13 du CP). C'est différent du "secret de l'information". Il est assorti d'exceptions: impératif prépondérant d'intérêt public qui impose la révélation de la source/falsification d'une info/risque de dommage grave.
+  * protection des sources: principe de secret (secret pro: fait de ne pas révéler des info en raison de ses fonctions art. 226-13 du CP). C'est différent du "secret de l'information". Il est assorti d'exceptions: impératif prépondérant d'intérêt public qui impose la révélation de la source/falsification d'une info/risque de dommage grave.
 - Le respect des sources (exception d'intérêt public)
 - La responsabilité à l'égard du public
   * qualité de l'info (exactitude des infos, rectifications des erreurs, impartialité ou "honnêteté" de la présentation de l'info (distinguer les faits et les opinions, pb du publirédactionnel).
