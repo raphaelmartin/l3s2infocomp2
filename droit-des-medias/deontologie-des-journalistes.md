@@ -47,7 +47,7 @@ Distinction code/charte: ensemble de règles de bonne conduite pro adoptées par
 
 ### Principes professionnels
 
-La déontologie, purement pro, devient du droit via l'arrêté. Il y a aussi l'avenant audiovisuel, mais limité au journalisme d'audiovisuel public. 
+La déontologie, purement pro, devient du droit via l'arrêté. Il y a aussi l'avenant audiovisuel, mais limité au journalisme d'audiovisuel public.
 
 **1. Principes communs à tous les journalistes**
 
@@ -79,7 +79,7 @@ Protection de l'origine des info. Différent du secret pro \(contenu de l'info\)
   * jurisprudence européenne, arrêt de la CEDH, arrêt Goodwyn 1996.
   * =&gt; la protection des sources journalistiques et l'une des pierres angulaires de la liberté de la presse.
 
-    quelques exception au principes \(si justifié par un IPIP ou lors d'une enquête pénale\).  
+    quelques exception au principes \(si justifié par un IPIP ou lors d'une enquête pénale\).
 
 Modalités particulières de protection \(code de procédure pénale\) dans le cadre d'une procédure pénale.
 
