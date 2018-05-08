@@ -70,5 +70,17 @@ _GUIBERT, REBILLARD, ROCHELAND_ / "Média, culture et numérique, approches soci
 
 * **Internet et la diffusion de l'information en temps de crise internationale**
 
+— Les réseaux socio-numériques et le Mouvement vert en Iran
+
+HANIEH, "L'espace virtuel iranien : résistance et mobilisation"
+
+HARE/DARANI, "Les élections iraniennes de 2009 sur Twitter et Facebook : les formes contemporaines du militarisme informationnel"
+
+— Réseaux socio-numériques, circulation de l'information pendant les révoltes tunisiennes
+
+LECOMPTE, "Révolutions tunisienne et Internet : le rôle des médias sociaux"
+
+FARIS, "La révolte en réseau : le "printemps arabe" et les médias sociaux
+
 ...
 
