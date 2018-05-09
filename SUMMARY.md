@@ -53,15 +53,16 @@
 * [Syllabus](methodes-qualitatives/syllabus.md)
 * [sociologie de la jeunesse/pratique muséale](methodes-qualitatives/sociologie-de-la-jeunesse-pratique-museale.md)
 * [sociologie de la culture](methodes-qualitatives/sociologie-de-la-culture.md)
-* [CHAUVIN/JOUNIN — L'observation directe](methodes-qualitatives/chauvin-jounin-lobservation-directe.md)
 * [ARBORIO/FOURNIER — L'observation directe](methodes-qualitatives/arborio-fournier-lobservation-directe.md)
+* [CHAUVIN/JOUNIN — L'observation directe](methodes-qualitatives/chauvin-jounin-lobservation-directe.md)
+* BEAUD/WEBER — Guide de l'enquête de terrain
 * [PERETZ — Les méthodes en sociologie : l'observation](methodes-qualitatives/peretz-les-methodes-en-sociologie-lobservation.md)
 * [BEAUD — L'usage de l'entretien en sciences sociales](methodes-qualitatives/beaud-lusage-de-lentretien-en-sciences-sociales.md)
 * [BLANCHET — L'entretien](methodes-qualitatives/blanchet-lentretien.md)
 * [LAHIRE — La culture des individus](methodes-qualitatives/lahire-la-culture-des-individus.md)
 * [Mener un entretien de face à face — BARBOT](methodes-qualitatives/mener-un-entretien-de-face-a-face-barbot.md)
-* [TD entretien](methodes-qualitatives/td-entretien.md)
 * [TD observation](methodes-qualitatives/td-observation.md)
+* [TD entretien](methodes-qualitatives/td-entretien.md)
 
 ## Méthodes quantitatives
 

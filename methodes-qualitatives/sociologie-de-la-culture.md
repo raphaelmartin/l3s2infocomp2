@@ -18,3 +18,7 @@
 
 ## Bourdieu — L’amour de l’Art {#bourdieu-lamour-de-lart}
 
+## Sociologie de la culture — Christine DETREZ
+
+## Sociologie de la culture et des pratiques culturelles — Laurent FLEURY
+
