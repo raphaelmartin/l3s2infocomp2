@@ -50,8 +50,8 @@
 * [PERETZ — Les méthodes en sociologie : l'observation](../methodes-qualitatives/peretz-les-methodes-en-sociologie-lobservation.md)
 * [BEAUD — L'usage de l'entretien en sciences sociales](../methodes-qualitatives/beaud-lusage-de-lentretien-en-sciences-sociales.md)
 * [BLANCHET — L'entretien](../methodes-qualitatives/blanchet-lentretien.md)
-* [Culture de jeunes ou culture de classe ?](../methodes-qualitatives/culture-de-jeunes-ou-culture-de-classe.md)
-* [COULANGEON/BOURDIEU](../methodes-qualitatives/coulangeon-bourdieu.md)
+* [Culture de jeunes ou culture de classe ?]()
+* [COULANGEON/BOURDIEU]()
 * [LAHIRE — La culture des individus](../methodes-qualitatives/lahire-la-culture-des-individus.md)
 
 ## Méthodes quantitatives
