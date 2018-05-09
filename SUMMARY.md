@@ -51,7 +51,7 @@
 ## Méthodes qualitatives
 
 * [Syllabus](methodes-qualitatives/syllabus.md)
-* sociologie de la jeunesse/pratique muséale
+* [sociologie de la jeunesse/pratique muséale](methodes-qualitatives/sociologie-de-la-jeunesse-pratique-museale.md)
 * [sociologie de la culture](methodes-qualitatives/sociologie-de-la-culture.md)
 * [CHAUVIN/JOUNIN — L'observation directe](methodes-qualitatives/chauvin-jounin-lobservation-directe.md)
 * [ARBORIO/FOURNIER — L'observation directe](methodes-qualitatives/arborio-fournier-lobservation-directe.md)
