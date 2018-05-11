@@ -45,7 +45,7 @@
 * [Qu'est-ce qu'un mythe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quun-mythe.md)
 * [Qu'est-ce qu'une image fixe?](semiologie-des-images-et-des-textes-mediatiques/quest-ce-quune-image-fixe.md)
 * [Les images et les textes sont-ils des actes ?](semiologie-des-images-et-des-textes-mediatiques/les-images-et-les-textes-sont-ils-des-actes.md)
-* Médias, terrorisme et représentations de la mort
+* [Médias, terrorisme et représentations de la mort](semiologie-des-images-et-des-textes-mediatiques/medias-terrorisme-et-representations-de-la-mort.md)
 * [TD](semiologie-des-images-et-des-textes-mediatiques/td/README.md)
   * [Roland Barthes et les mythologies. Travail collectif sur des mythes contemporains](semiologie-des-images-et-des-textes-mediatiques/td/roland-barthes-et-les-mythologies.-travail-collectif-sur-des-mythes-contemporains.md)
 
