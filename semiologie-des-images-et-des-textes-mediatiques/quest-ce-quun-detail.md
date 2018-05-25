@@ -19,4 +19,4 @@ Littérature: ZOLA fait de longues descriptions précises en multipliant les dé
 ## le détail en peinture
 
 Eléments picturaux perturbateurs:  
-![Portrait d'un Chartreux de Petrus Christus](https://upload.wikimedia.org/wikipedia/commons/d/d5/Christus_carthusian.jpg)
+![Portrait d'un Chartreux de Petrus Christus](https://s3-eu-west-1.amazonaws.com/deprouw-fr--media/blog/1._Petrus_Christus_Portrait_de_Chartreux_1446_New_York_Metropolitan_Museum_of_Art.jpg)
