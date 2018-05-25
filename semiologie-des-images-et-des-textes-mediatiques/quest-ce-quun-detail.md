@@ -51,3 +51,10 @@ Quand on regarde une oeuvre, on le l'approprie tjr, on la re-signifie, basé sur
 
 ## théorie du complot
 
+Importance du détail dans la rhétorique complotiste: lecture des signes, puissance de l'image...  
+**Paréidolie**: ce phénomène consiste, par exemple, à identifier une forme familière dans un paysage, un nuage, de la fumée ou encore une tache d'encre, mais aussi une voix humaine dans un bruit.
+Gérald _BRONNER_: "le réel étant parfois une auberge espagnole, on finit par y trouver ce qu'on y a apporté".
+Comment ces théories se servent du détail pour prouver leurs thèses? Les détails font sens:
+- on fait parler les formes, les signes. Logique d'accumulation de "détails".
+- le complot est tjr suggéré, les images permettent d'activer le doute.
+- Authenticité des images amateurs floues mais justement "pures".
