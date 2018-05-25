@@ -16,3 +16,7 @@ Psychologie: FREUD cherche dans les lapsus, les rêves, — considérés comme i
 Police scientifique: le bertillonage, inventé par BERTILLON, permet d'identifier une personne selon ses détails \(de sa morphologie...\).  
 Littérature: ZOLA fait de longues descriptions précises en multipliant les détails, souvent banals, mais qui produit un _effet de réel_. Le détail comme pont entre la fiction et la réalité.
 
+## le détail en peinture
+
+Eléments picturaux perturbateurs:  
+![Portrait d'un Chartreux de Petrus Christus](https://upload.wikimedia.org/wikipedia/commons/d/d5/Christus_carthusian.jpg)
