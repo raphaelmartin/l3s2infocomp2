@@ -1,6 +1,6 @@
 # Qu'est-ce qu'un détail?
 
-Les **fonctions** du détail:
+Les **fonctions** du détail:  
 1. le détail comme clin d'oeil
 2. comme retouche
 3. comme indice
