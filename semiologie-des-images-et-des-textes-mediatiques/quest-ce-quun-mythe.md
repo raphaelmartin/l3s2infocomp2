@@ -46,6 +46,8 @@ Le mythe a deux versants est à la fois
 * une légende : un récit symbolique de la condition humaine \(mythe-allégorie\)
 * un mensonge : une mystification \(mythe-mensonge\)
 
+![Roland Barthes - sch&#xE9;ma](../.gitbook/assets/capture-de-cran-2018-03-15-a-15.28.54.png)
+
 On rajoute une couche conceptuelle pour englober différents types de signes si quelqu’un a compris ce truc qu’il commente merci !
 
 > La Doxa c’est l’Opinion publique, l’esprit Majoritaire, le Consensus petit-bourgeois, la Voix du Naturel, la Violence du préjugé — Roland Barthes
