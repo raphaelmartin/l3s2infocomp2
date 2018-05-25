@@ -1,12 +1,12 @@
 # LAHIRE — La culture des individus
 
-**Remerciements - **
+**Remerciements -** 
 
 **Introduction -**
 
 Transformer le regard - La culture à l'échelle individuelle - Chiffrer le singulier - Des tableaux statistiques aux portraits individuels - Distinction de soi et vie digne d'être vécue -
 
-**I. Légitimité, domination et croyance - **
+**I. Légitimité, domination et croyance -** 
 
 **1. Pouvoirs et limites de la théorie de la légitimité culturelle -**
 
@@ -36,7 +36,7 @@ Les effets locaux de la socialisation littéraire - L'association des contraires
 
 Un tableau n'efface pas l'autre - Profils à trois, quatre, cinq et six variables - Profils à trois variables - Profils à quatre variables -Profils à cinq et six variables - Profils à sept variables - Variations inter-individuelles et singularités individuelles - Des profils et des catégories - Qui composent les différents types de profils ? - L'horizon des probables -
 
-**III. Les profils culturels en portraits **
+**III. Les profils culturels en portraits** 
 
 **7.L'homogénéité par le haut et par le bas**
 

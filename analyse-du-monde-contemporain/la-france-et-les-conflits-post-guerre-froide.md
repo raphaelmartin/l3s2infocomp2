@@ -18,7 +18,7 @@
 
 * RCI : une crise inattendue 
 * Les tentatives européennes au secours de l’Afrique \(2003- aujourd’hui\)
-* L’intervention en Libye et le_ lead from behind_ US\(2011\)
+* L’intervention en Libye et le _lead from behind_ US\(2011\)
 
 ### Durcissement des conflits et le nouvel équilibre des puissances \(2005- 15\)
 
