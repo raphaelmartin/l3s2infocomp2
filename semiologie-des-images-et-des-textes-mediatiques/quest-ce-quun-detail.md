@@ -19,19 +19,20 @@ Littérature: ZOLA fait de longues descriptions précises en multipliant les dé
 ## le détail en peinture
 
 Eléments picturaux perturbateurs  
-![Portrait d'un Chartreux de Petrus Christus](https://s3-eu-west-1.amazonaws.com/deprouw-fr--media/blog/1._Petrus_Christus_Portrait_de_Chartreux_1446_New_York_Metropolitan_Museum_of_Art.jpg)
+![Portrait d'un Chartreux de Petrus Christus](https://s3-eu-west-1.amazonaws.com/deprouw-fr--media/blog/1._Petrus_Christus_Portrait_de_Chartreux_1446_New_York_Metropolitan_Museum_of_Art.jpg)  
 Le phénomène "de seuil" entre la scène représentée/sa réception.  
 
-On n'y voit rien — Daniel ARASSE.  
-Notions: signe énigmatique, perturbateur — puissance digressive du détail (=capacité à rompre l'unité esthétique ou plastique de l'oeuvre picturale).
+_On n'y voit rien — Daniel ARASSE._  
+Notions: signe énigmatique, perturbateur — puissance digressive du détail (=capacité à rompre l'unité esthétique ou plastique de l'oeuvre picturale).  
 L'Annonciation de Francesco del Cossa.
 
 ## en photographie
 
 mythe de l'objectivité de la photo, qui enregistre mécaniquement le réel. On passe du détail intentionnel des peintres, à l'immortalisation de choses non prévues avec la photo.
 
-La chambre claire. Note sur la photographie — Roland BARTHES.  
+_La chambre claire. Note sur la photographie — Roland BARTHES._  
 Ouvrage posthume. Reflexion sur la photo, l'image. Approche novatrice par la prise en compte du corps: faire/contempler/subir
+
 1. operator (=le photographe)
 2. spectator (=celui regardant la photo)
 3. spectrum (=l'objet photographié)
