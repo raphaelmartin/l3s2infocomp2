@@ -29,11 +29,12 @@
 * [4/ Les appels à réformer l'ordre international de l'information](internationalisation-de-linformation/4-les-appels-a-reformer-lordre-international-de-linformation.md)
 * [5/ Les activités de propagande internationale dans la guerre froide](internationalisation-de-linformation/5-les-activites-de-propagande-internationale-dans-la-guerre-froide.md)
 * 6/ Le développement des chaînes d'information transnationales occidentales
-* [TD](internationalisation-de-linformation/td/README.md)
-  * [les stratégies des radios occidentales pendant la guerre froide](internationalisation-de-linformation/td/les-strategies-des-radios-occidentales-pendant-la-guerre-froide.md)
 * 7/ L'essor de TV transnat. d'info en continu non-occidentales: des "contre-flux"
 * 8/ Le web, un espace alternatif pour la circulation de l'info internationale
 * 9/ Le nouvel oligopole de l'info internationale à l'heure du web
+* [TD](internationalisation-de-linformation/td/README.md)
+  * [les stratégies des radios occidentales pendant la guerre froide](internationalisation-de-linformation/td/les-strategies-des-radios-occidentales-pendant-la-guerre-froide.md)
+* Globalisation of news and transcultural public spheres: the example of the EU public sphere
 
 ## Approches SIC
 
