@@ -29,4 +29,29 @@ Conférence des non-alignés à Alger.
 
 ![The Fifth Summit Conference of the Non-Aligned Movement](https://github.com/raphaelmartin/cours-l3s2-infocomsocio/raw/15b063251a4aaa34c0b494175954265c63e24f74/Capture%20d’écran%202018-05-26%20à%2022.35.11.png)
 
-lala
+Mustapha Masmoudi, porte-parole pour les non-alignés sur les questions de NOII critique l'existence de graves déséquilibres quantitatifs dans la circulation internationale de l'info:
+- AP, UPI, AFP et Reuters contrôlaient alors 80% de l'information de base. Oligopole de l'info internationale.
+- 20-30% des infos porteraient sur les pays du Tiers monde, qui représentent les 3/4 des habitants du monde.
+
+Déséquilibres pas seulement quanti mais aussi qualitativement:
+- représentations négatives des pays du tiers monde.
+- Forme de colonialisme, les évènements du monde ne sont couverts que lorsqu'ils coïncident avec des intérêts occidentaux.
+
+Les non-alignés critiquent la doctrine du "free flow of information". Clé de voûte de la diplomatie américaine de la communication depuis 1945. 2 dimensions:
+
+1. réaffirmation d'un droit de l'homme fondamental: le droit à la libre expression/libre information (art.19 Déclaration Universelles des Droits de l'Homme).
+2. dimension économique du libre échange. Aucun obstacle ne peut gêner la circulation de l'info.
+
+Revendications des NAM:
+- plus d'équilibre dans les flux informationnels. "libre et équilibré"
+- inciter les médias occidentaux à traiter autrement le tiers monde, sans stéréotypes
+- promouvoir les politiques publiques et national de communication. Les médias privés ne doivent pas tout jouer.
+- développement des médias
+
+Mais ces revendications n'aboutissent pas:
+- revendications trop larges
+- manque de réalisme, d'opérationalité.
+En représailles au NWICO (New World Information and Communication Order), le WPFC (World Press Freedom Committee) crée en 1979. Déclaration de Talloires, en France, signée par 23 pays qui déclarent explicitement leur opposition au NOII.
+Les US exercent des pressions pour que MASMOUDI rentre en Tunisie, ce qui arrivera effectivement.
+
+Seule réussite: le NOII émerge sur le devant de la scène et ne peut être étouffée complètement.
