@@ -18,5 +18,7 @@ Herbert SCHILLER, économie politique de la communication. 1969: Mass Communicat
 
 > The transition from a colonialist to a postcolonialist order in particular necessitated a more sophisticated approach to empire-building; unlike earlier empires founded on "blood and iron," the U.S. empire is based partly on "a marriage of economics and electronics," although Schiller noted a precedent for this kind of informal control in the nineteenth century British practice of "free trade imperialism." Of course, the U.S system of informal domination is backed up by an extremely formidable military power; U.S bases encircle the globe, ready and willing to use force when more sophisticated methods of persuasion fail. But Schiller suggested that the U.S communications network was for the most part remarkably successful after World War II in securing, not merely grudging submission, but enthusiastic allegiance, both domestically and abroad. It did this, he argued, by identifying the U.S. presence with "freedom" of speech, of trade and of enterprise and offering a vision of the good life patterned on the U.S model of individualistic consumer affluence.
 
+> _Mass Communications and American Empire_ analyse la formation du complexe de la communication internationale qu'il met en relation directe avec l'emprise des intérêts de la sécurité nationale de son pays.
+
 ## Les appels en faveur d'un nouvel ordre international de l'information \(NOI\)
 
