@@ -22,3 +22,11 @@ Herbert SCHILLER, économie politique de la communication. 1969: Mass Communicat
 
 ## Les appels en faveur d'un nouvel ordre international de l'information \(NOI\)
 
+Contexte de fin de décolonisation. 90 nouveaux Etats sont apparus.  
+Conférence des non-alignés à Alger.  
+1975: création du NANAP (Non-Aligned news agencies pool), premier pool d'agences de presse.  
+1976: 5ème conférence des chefs d'Etat des pays non-alignés à Colombo, Sri Lanka. (NAM: non-aligned movement).
+
+![The Fifth Summit Conference of the Non-Aligned Movement](https://github.com/raphaelmartin/cours-l3s2-infocomsocio/raw/15b063251a4aaa34c0b494175954265c63e24f74/Capture%20d’écran%202018-05-26%20à%2022.35.11.png)
+
+lala
