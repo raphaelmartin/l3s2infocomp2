@@ -32,6 +32,8 @@
 * [TD](internationalisation-de-linformation/td/README.md)
   * [les stratégies des radios occidentales pendant la guerre froide](internationalisation-de-linformation/td/les-strategies-des-radios-occidentales-pendant-la-guerre-froide.md)
 * 7/ L'essor de TV transnat. d'info en continu non-occidentales: des "contre-flux"
+* 8/ Le web, un espace alternatif pour la circulation de l'info internationale
+* 9/ Le nouvel oligopole de l'info internationale à l'heure du web
 
 ## Approches SIC
 
