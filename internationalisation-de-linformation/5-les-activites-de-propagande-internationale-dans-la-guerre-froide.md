@@ -14,7 +14,7 @@ Ces radios font contrepoids à la domination soviétique. Elles se substituent a
 
 ## De la libération à la libéralisation
 
-1956: Crise hongroise suivie d'une insurrection. Il faut nourrir les opinions à l'Est du rideau de fer pour créer des opinions indépendantes. Rôle de plus en plus important:
+1956: Crise hongroise suivie d'une insurrection. Il faut nourrir les opinions à l'Est du rideau de fer pour créer des opinions indépendantes. Rôle des radios de plus en plus important:
 
 * vont largement contribuer à amener une info différente dans les régimes de l'Est
 * leur audience sont importante, mais surtout écouté par les échelons supérieurs de la société, classes éduquées.
@@ -23,9 +23,9 @@ Mais quelle pérennité pour ces stations après la chute du Mur et de l'URSS?
 
 ## La propagande noire US dans la guerre froide : le cas de Cuba et du Chili
 
-1959: lendement de la révolution à Cuba.  
-1961: Eisenhower met en place un plan afin de renverser le nouveau régime de Castro. Radios noires, notamment Radio Swan. Il s'agit de saper le soutien dont bénéficie Fidel Castro à Cuba.  
-1970: Au Chili, autre opération de propagande noire: Salvador Allende élu président mais défavorable aux intérêts US. Ces derniers imagine des plans pour le déloger. La CIA va financer à plusieurs reprises un journal pour propagander contre Allende.
+_1959_: lendemain de la révolution à Cuba.  
+_1961_: Eisenhower met en place un plan afin de renverser le nouveau régime de Castro. Radios noires, notamment Radio Swan. Il s'agit de saper le soutien dont bénéficie Fidel Castro à Cuba.  
+_1970_: Au Chili, autre opération de propagande noire: Salvador Allende élu président mais défavorable aux intérêts US. Ces derniers imagine des plans pour le déloger. La CIA va financer à plusieurs reprises un journal pour propagander contre Allende.
 
 ## les mesures actives soviétiques
 
