@@ -32,7 +32,7 @@
 * [7/ L'essor de TV transnat. d'info en continu non-occidentales: des "contre-flux"](internationalisation-de-linformation/7-lessor-de-tv-transnat.-dinfo-en-continu-non-occidentales-des-contre-flux.md)
 * [8/ Le web, un espace alternatif pour la circulation de l'info internationale](internationalisation-de-linformation/8-le-web-un-espace-alternatif-pour-la-circulation-de-linfo-internationale.md)
 * [9/ Le nouvel oligopole de l'info internationale à l'heure du web](internationalisation-de-linformation/9-le-nouvel-oligopole-de-linfo-internationale-a-lheure-du-web.md)
-* Globalisation of news and transcultural public spheres: the example of the EU public sphere
+* [Globalisation of news and transcultural public spheres: the example of the EU public sphere](internationalisation-de-linformation/globalisation-of-news-and-transcultural-public-spheres-the-example-of-the-eu-public-sphere.md)
 * [TD](internationalisation-de-linformation/td/README.md)
   * [les stratégies des radios occidentales pendant la guerre froide](internationalisation-de-linformation/td/les-strategies-des-radios-occidentales-pendant-la-guerre-froide.md)
 
