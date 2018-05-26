@@ -28,7 +28,7 @@
 * [3/ Les radios alliées pendant la WW2](internationalisation-de-linformation/3-les-radios-alliees-pendant-la-ww2.md)
 * [4/ Les appels à réformer l'ordre international de l'information](internationalisation-de-linformation/4-les-appels-a-reformer-lordre-international-de-linformation.md)
 * [5/ Les activités de propagande internationale dans la guerre froide](internationalisation-de-linformation/5-les-activites-de-propagande-internationale-dans-la-guerre-froide.md)
-* 6/ Le développement des chaînes d'information transnationales occidentales
+* [6/ Le développement des chaînes d'information transnationales occidentales](internationalisation-de-linformation/6-le-developpement-des-chaines-dinformation-transnationales-occidentales.md)
 * 7/ L'essor de TV transnat. d'info en continu non-occidentales: des "contre-flux"
 * 8/ Le web, un espace alternatif pour la circulation de l'info internationale
 * 9/ Le nouvel oligopole de l'info internationale à l'heure du web
