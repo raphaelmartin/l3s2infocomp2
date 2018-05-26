@@ -51,7 +51,10 @@ Revendications des NAM:
 Mais ces revendications n'aboutissent pas:
 - revendications trop larges
 - manque de réalisme, d'opérationalité.
-En représailles au NWICO (New World Information and Communication Order), le WPFC (World Press Freedom Committee) crée en 1979. Déclaration de Talloires, en France, signée par 23 pays qui déclarent explicitement leur opposition au NOII.
+En représailles au NWICO (New World Information and Communication Order), le WPFC (World Press Freedom Committee) se constitue en 1979. Déclaration de Talloires, en France, signée par 23 pays en 1981 qui déclarent explicitement leur opposition au NOII.
 Les US exercent des pressions pour que MASMOUDI rentre en Tunisie, ce qui arrivera effectivement.
 
-Seule réussite: le NOII émerge sur le devant de la scène et ne peut être étouffée complètement.
+Seule réussite: le NOII émerge sur le devant de la scène et ne peut être étouffée complètement.  
+Olivier BOYD BARRET: ces agences de presse répondent à un fonctionnement éco. Ils collectent l'info sur les territoires qui intéressent leurs clients. Ainsi, il y a plus de correspondants en Allemagne au début 80' que dans toute l'Afrique.
+
+Annabelle SREBERNY considère les médias nationaux comme des gatekeepers secondaires. Le premier filtre étant les agences nationales, internationales.
