@@ -26,7 +26,7 @@ Mais quelle pérennité pour ces stations après la chute du Mur et de l'URSS?
 _1959_: lendemain de la révolution à Cuba.  
 _1961_: Eisenhower met en place un plan afin de renverser le nouveau régime de Castro. Radios noires, notamment Radio Swan. Il s'agit de saper le soutien dont bénéficie Fidel Castro à Cuba.  
 _1970_: Au Chili, autre opération de propagande noire: Salvador Allende élu président mais défavorable aux intérêts US. Ces derniers imagine des plans pour le déloger. La CIA va financer à plusieurs reprises un journal pour propagander contre Allende. Son renversement arrive fin 1973, par un coup d'Etat.  
-_1975_: ouverture d'une commission pour faire la lumière sur ses opérations ayant échappé au contrôle du Congrès.
+_1975_: ouverture d'une commission pour faire la lumière sur ces opérations ayant échappées au contrôle du Congrès.
 
 ## les mesures actives soviétiques
 
