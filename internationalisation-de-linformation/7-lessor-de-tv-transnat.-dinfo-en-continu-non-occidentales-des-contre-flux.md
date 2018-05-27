@@ -1,6 +1,6 @@
 # 7/ L'essor de la TV transnat. d'info en continu non-occidentales: des "contre-flux"
 
-_A partir de 95'_: des châines vont émerger pour concurrencer celles occidentales. Les plus importantes sont des **contre-flux** selon Daya THUSSU, càd des chaînes ayant pour vocation à **contrer les flux dominants occidentaux**.
+_A partir de 95'_: des chaînes vont émerger pour concurrencer celles occidentales. Les plus importantes sont des **contre-flux** selon Daya THUSSU, càd des chaînes ayant pour vocation à **contrer les flux dominants occidentaux**.
 
 ## la montée en puissance d'Al Jazeera
 
