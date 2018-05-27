@@ -39,4 +39,4 @@ Développement Top->down.
 La création de ces chaînes d'info transnationales va transformer **le commerce IN d'images d'actu**. Ces chaînes vont être à la fois des détaillants de l'info mais aussi des grossistes de l'info comme les agences de presse.
 
 **Reuters et APTN** dominent le commerce des images. En France, 1/2 des images d'actu proviennent de ces 2 agences. Mise en place de EVN (Eurovision New Exchange) pour échanger l'info. Mais ça ne permet pas de renverser l'oligopole de Reuters/APTN.  
-Fin 90': critiques mettent en cause cet **oligopole** des chaînes d'info IN et des agences de presse sur l'info mondiale. Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.
+_Fin 90'_: critiques mettent en cause cet **oligopole** des chaînes d'info IN et des agences de presse sur l'info mondiale. Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.
