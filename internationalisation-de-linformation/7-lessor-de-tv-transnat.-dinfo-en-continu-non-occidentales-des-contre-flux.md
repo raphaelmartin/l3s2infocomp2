@@ -1,4 +1,4 @@
-# 7/ L'essor de TV transnat. d'info en continu non-occidentales: des "contre-flux"
+# 7/ L'essor de la TV transnat. d'info en continu non-occidentales: des "contre-flux"
 
 ## la montée en puissance d'Al Jazeera
 
