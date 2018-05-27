@@ -23,7 +23,14 @@ système du **swap**: CNN fournit des images aux stations locales, qui en échan
 ## L’émergence de chaînes transnationales d’information ouest-européennes : de la BBC à Skynews
 
 CNN domine le monde par ses images. CNN voit alors émerger des concurrents comme la BBC, en 1991. Lancement d'une chaîne destinée à l'Europe, BBC World Service Television.
+1995: réorganisation. 2 chaînes: BBC World News (info continu) et BBC Prime (généraliste pour l'étranger).
+
+Skynews, plus importante chaîne privée d'info transnationales. Progressivement s'est internationalisé sous l'impulsion de Murdoch, son dirigeant.
 
 ## La création par les chaînes globales de déclinaisons nationales ou régionales
+
+Développement Top->down.
+régionnalisation: on crée des programmes spécifiques en fonction des différentes régions du monde. Inaugure ainsi des centres de production à Londres, Asie, Mexique...
+localisation: processus d'association avec les chaines locales nationales. CNN+ en Espagne, CNN Chile.
 
 ## De nouveaux fournisseurs mondiaux d’images d’actualité
