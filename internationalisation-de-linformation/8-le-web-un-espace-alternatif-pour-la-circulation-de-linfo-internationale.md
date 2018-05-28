@@ -22,6 +22,8 @@ Emergence de nouveaux supports sur le Web. Indymedia c’est un site Web qui va 
 
 Les blogs vont-ils permettrent de réequilibrer enfin les flux? Chercheur US à Harvard Ethan Zuckerman a publié une étude sur le sujet en 2005. Pour lui, les blogueurs ignorent encore plus les nations en développement que les médias mainstream. Ils parlent encore bien moins du Sud que ne le font les grands médias et seulement parce que les médias du Nord en ont parlé avant. Processus du leader d'opinion de Lazarsfeld pour les médias occidentaux.
 
-Certains blogueurs arrivent à donner une autre vision des choses: les bridge bloggers.
+Certains blogueurs arrivent à donner une autre vision des choses: les bridge bloggers. Mais ce sont souvent loin d'être des individu lambda, representatif de la population. Souvent des hommes, CSP+, aisé, anglophone parfait...
+
+Zuckerman va ainsi décider de créer un aggrégateur de blogs pour redonner de la visibilité au Sud: Global Voices. Mais audience qui n'atteint jamais celles des médias mainstream, qui s'en servent comme source mais seulement lors des crises. Echec face à l'arrivée grandissante des réseaux sociaux.
 
 ## « Printemps arabes » et nouveaux curateurs de l’information
