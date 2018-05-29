@@ -10,7 +10,7 @@ _1949_: les US décident de renforcer ce dispositif radiophonique avec de nouvel
 _1950_: création de Radio Free Europe \(RFE\) dans le but de découpler l'EU de l'Est, du noyau dur de l'URSS: la Russie.  
 _1951_: création de l'American Committee for the Freedom of the Peoples of USSR.
 
-Ces radios font contrepoids à la domination soviétique. Elles se substituent aux médias indépendants qui ne peuvent exister en Russie.
+Ces radios font contrepoids à la domination soviétique. Elles se substituent aux médias indépendants qui ne peuvent exister en Russie. 
 
 ## De la libération à la libéralisation
 
@@ -18,6 +18,8 @@ Ces radios font contrepoids à la domination soviétique. Elles se substituent a
 
 * vont largement contribuer à amener une info différente dans les régimes de l'Est
 * leur audience sont importante, mais surtout écouté par les échelons supérieurs de la société, classes éduquées.
+
+C'est une arme des US pour déstabiliser l'Union soviétique, c'est au nom du respect du "free flow of information" que le gouv. a créé plusieurs radios perçant le rideau de fer. Ces radios ont aussi nourri les tactiques d'auto-information mises en oeuvre par les populations vivant à l'est du rideau de fer et alimenté les stratégies de résistance des dissidents. Pas négliger la contribution des radios régionales. Attention toutefois, ces radios n'offrent pas "la liberté au bout des ondes", mais d'autres conceptions du monde, souvent en consonance avec les agendas de leurs gouvernements respectifs.
 
 Mais quelle pérennité pour ces stations après la chute du Mur et de l'URSS?
 
@@ -37,4 +39,3 @@ Perméabilité entre la propagande blanche/noire:
 * Le service D \(désinformation\). Produit de fausses infos.
 
 La fin de la guerre froide coincide avec le développement d'un nouveau support de diffusion: le satellite.
-
