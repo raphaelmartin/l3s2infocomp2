@@ -46,8 +46,8 @@ La création de ces chaînes d'info transnationales va transformer **le marché 
 _Fin 90'_: critiques mettent en cause cet **oligopole** des chaînes d'info IN et des agences de presse sur l'info mondiale.  
 Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.
 
-Annabelle _SREBERNY-MOHAMMADI_, 1995: le niveau de concentration au niveau global dans le secteurs des grossistes des vidéos d'actu est encore plus prononcé que dans le celui du marché global de l'info des années 70'.
-Dominique _MARCHETTI_ parle des effets sur la hiérarchisation des JT des petits écrans du monde: "le menu de ceux-ci est de fait composé de choix éditoriaux opérés en amont par ces entreprises et ce, en fonction de leurs principaux clients".
-Daya _THUSSU_: alors que les conditions tech progressaient, les nouvelles consacrées aux pays étrangers se raréfiaient au JT des chaînes occidentales car: compétition accrue pour l'audience et baisse des budgets pour l'actu IN. Il note qu'en plus de se raréfier, cette info évolue vers des format légers, divertissants, le "global infotainment".
+Annabelle _SREBERNY-MOHAMMADI_, 1995: le niveau de concentration au niveau global dans le secteurs des grossistes des vidéos d'actu est encore plus prononcé que dans le celui du marché global de l'info des années 70'.  
+Dominique _MARCHETTI_ parle des effets sur la hiérarchisation des JT des petits écrans du monde: "le menu de ceux-ci est de fait composé de choix éditoriaux opérés en amont par ces entreprises et ce, en fonction de leurs principaux clients".  
+Daya _THUSSU_: alors que les conditions tech progressaient, les nouvelles consacrées aux pays étrangers se raréfiaient au JT des chaînes occidentales car: compétition accrue pour l'audience et baisse des budgets pour l'actu IN. Il note qu'en plus de se raréfier, cette info évolue vers des format légers, divertissants, le "global infotainment". Les images IN sont visibles surtout sur les chaines transnationales d'info en continu, càd télespéctateurs capital culturel++.
 
 Mais il faut aussi voir ces acteurs, comme pour les radios IN avant elles, comme **stratégiques dans différents contextes** géopol, comme l'illustre l'exemple du monde arabe.
