@@ -7,7 +7,7 @@ Jamais depuis le début 90' on a eu **autant de moyens de s'informer** sur les r
 ## la naissance des agences de presse mondiale
 
 _1850'_: l'Europe domine le monde de part ses empires. Jusqu'à la Ière G.M, les agences de presse EU vont dominer.
-Rôle centrale dans la CII comme grossiste de l'info IN.
+Rôle centrale dans la CII comme grossiste de l'info IN.  
 _1835_: création de l'agence Havas par le français Charles Havas, première agence de presse mondiale.  
 _1848_: Associated Press (AP)  
 _1851_: Reuter  
