@@ -10,6 +10,10 @@ _70'_: 2 formes de concurrence apparaissent entre:
 
 Lancement de CNN alors que l'info TV aux US est **sous tension** économiquement: **concurrence intense**, perte de parts... => restriction des coûts, comme l'info int. coûte cher, on va la déléguer aux agences de presse/TV. Affaissement du nombre de correspondants des networks.
 
+1970: étude pionnière de GOLDING/ELLIOTT, remarquent les effets structurants de l'offre d'images par ces deux agences sur la nature des JT des chaînes n'ayant pas d'autres sources => le choix même des sujets dépend des images disponibles.
+
+Les années 80' marqué par le mouvement de déréglementation => fin des monopoles publics => création de nouvelles chaînes privées => concurrence accrue => dépendance croissante des chaînes à l'égard des principales agences anglo-américaines de vidéo d'actu.
+
 CNN émerge avec 30M de $, c'est peu, mais elle est adossé au gros groupe de Ted Turner, **TBS** (Turner Broadcasting System) ce qui va lui permettre d'être déficitaire jusqu'en 1985. Elle dispose de 6 bureaux à l'IN.  
 Intense **activité diplomatique** de la chaîne pour équiper les gouvernements de pays étrangers d'antennes de réception.
 
@@ -36,7 +40,9 @@ Développement Top->down.
 
 ## De nouveaux fournisseurs mondiaux d’images d’actualité
 
-La création de ces chaînes d'info transnationales va transformer **le commerce IN d'images d'actu**. Ces chaînes vont être à la fois des détaillants de l'info mais aussi des grossistes de l'info comme les agences de presse.
+La création de ces chaînes d'info transnationales va transformer **le marché IN d'images d'actu**. Ces chaînes vont être à la fois des détaillants de l'info mais aussi des grossistes de l'info comme les agences de presse.
 
-**Reuters et APTN** dominent le commerce des images. En France, 1/2 des images d'actu proviennent de ces 2 agences. Mise en place de EVN (Eurovision New Exchange) pour échanger l'info. Mais ça ne permet pas de renverser l'oligopole de Reuters/APTN.  
-_Fin 90'_: critiques mettent en cause cet **oligopole** des chaînes d'info IN et des agences de presse sur l'info mondiale. Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.
+**Reuters et APTN** dominent le commerce des images. En France, 1/2 des images d'actu proviennent de ces 2 agences. Mise en place de EVN (Eurovision New Exchange) pour échanger l'info. Mais ça ne permet pas de renverser l'oligopole de Reuters/APTN/CNN/BBC.  
+_Fin 90'_: critiques mettent en cause cet **oligopole** des chaînes d'info IN et des agences de presse sur l'info mondiale.  
+Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.  
+Annabelle SREBERNY-MOHAMMADI, 1995: le niveau de concentration au niveau global dans le secteurs des grossistes des vidéos d'actu est encore plus prononcé que dans le celui du marché global de l'info des années 70'.
