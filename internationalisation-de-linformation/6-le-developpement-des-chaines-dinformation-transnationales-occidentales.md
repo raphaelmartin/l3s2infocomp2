@@ -10,7 +10,7 @@ _70'_: 2 formes de concurrence apparaissent entre:
 
 Lancement de CNN alors que l'info TV aux US est **sous tension** économiquement: **concurrence intense**, perte de parts... => restriction des coûts, comme l'info int. coûte cher, on va la déléguer aux agences de presse/TV. Affaissement du nombre de correspondants des networks.
 
-1970: étude pionnière de GOLDING/ELLIOTT, remarquent les effets structurants de l'offre d'images par ces deux agences sur la nature des JT des chaînes n'ayant pas d'autres sources => le choix même des sujets dépend des images disponibles.
+_1970_: étude pionnière de GOLDING/ELLIOTT, remarquent les effets structurants de l'offre d'images par ces deux agences sur la nature des JT des chaînes n'ayant pas d'autres sources => le choix même des sujets dépend des images disponibles.
 
 Les années 80' marqué par le mouvement de déréglementation => fin des monopoles publics => création de nouvelles chaînes privées => concurrence accrue => dépendance croissante des chaînes à l'égard des principales agences anglo-américaines de vidéo d'actu.
 
@@ -44,8 +44,10 @@ La création de ces chaînes d'info transnationales va transformer **le marché 
 
 **Reuters et APTN** dominent le commerce des images. En France, 1/2 des images d'actu proviennent de ces 2 agences. Mise en place de EVN (Eurovision New Exchange) pour échanger l'info. Mais ça ne permet pas de renverser l'oligopole de Reuters/APTN/CNN/BBC.  
 _Fin 90'_: critiques mettent en cause cet **oligopole** des chaînes d'info IN et des agences de presse sur l'info mondiale.  
-Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.  
-Annabelle SREBERNY-MOHAMMADI, 1995: le niveau de concentration au niveau global dans le secteurs des grossistes des vidéos d'actu est encore plus prononcé que dans le celui du marché global de l'info des années 70'.
-Dominique MARCHETTI parle des effets sur la hiérarchisation des JT des petits écrans du monde: "le menu de ceux-ci est de fait composé de choix éditoriaux opérés en amont par ces entreprises et ce, en fonction de leurs principaux clients".
+Chris PATERSON: il acuse ces acteurs d'établir l'agenda des info TV du monde.
 
-Mais il faut aussi voir ces acteurs, comme pour les radios IN avant elles, comme stratégiques dans différents contextes géopol, comme l'illustre l'exemple du monde arabe.
+Annabelle _SREBERNY-MOHAMMADI_, 1995: le niveau de concentration au niveau global dans le secteurs des grossistes des vidéos d'actu est encore plus prononcé que dans le celui du marché global de l'info des années 70'.
+Dominique _MARCHETTI_ parle des effets sur la hiérarchisation des JT des petits écrans du monde: "le menu de ceux-ci est de fait composé de choix éditoriaux opérés en amont par ces entreprises et ce, en fonction de leurs principaux clients".
+Daya _THUSSU_: alors que les conditions tech progressaient, les nouvelles consacrées aux pays étrangers se raréfiaient au JT des chaînes occidentales car: compétition accrue pour l'audience et baisse des budgets pour l'actu IN. Il note qu'en plus de se raréfier, cette info évolue vers des format légers, divertissants, le "global infotainment".
+
+Mais il faut aussi voir ces acteurs, comme pour les radios IN avant elles, comme **stratégiques dans différents contextes** géopol, comme l'illustre l'exemple du monde arabe.
