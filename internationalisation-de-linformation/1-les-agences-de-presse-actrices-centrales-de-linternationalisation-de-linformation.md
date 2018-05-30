@@ -10,6 +10,8 @@ _1850'_: l'Europe domine le monde de part ses empires. Jusqu'à la Ière G.M, le
 Rôle centrale dans la CII comme grossiste de l'info IN.  
 _1835_: création de l'agence Havas par le français Charles Havas, première agence de presse mondiale.  
 _1848_: Associated Press (AP)  
-_1851_: Reuter  
+_1851_: Reuter
 
 ## apogée et déclin du cartel des agences de presse
+
+Accords en 1859: les agences collaborent en se répartissant le monde pour une optimisation des coûts. Reuteur, Havas et Wolff.
